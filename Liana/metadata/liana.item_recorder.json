@@ -1,0 +1,14 @@
+{
+  "assetId": "item_recorder",
+  "type": "item_card",
+  "name": "Máy Ghi Âm Mini",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "witness"
+  ],
+  "sourcePrompt": "vertical Discord item card for small voice recorder on rain-wet table, pink and blue noir reflections, no readable text",
+  "status": "approved",
+  "file": "items/item_recorder.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_recorder.png"
+}

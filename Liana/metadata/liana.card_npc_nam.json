@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_nam",
+  "type": "suspect_card",
+  "name": "Card Nam",
+  "district": "cho_den",
+  "characterRole": "Môi giới tin",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Nam, Môi giới tin in Chợ Đen, Bán thông tin, danh tính và tuyến gặp bí mật., voice: Lạnh, thực dụng, nói như giao dịch., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_nam.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_nam.png"
+}

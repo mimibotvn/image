@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_ha_linh",
+  "type": "detective_card",
+  "name": "Card Hạ Linh",
+  "district": "bac_cau_tower",
+  "characterRole": "Kỹ thuật camera thành phố",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Hạ Linh, Kỹ thuật camera thành phố in Khu Cao Ốc Bắc Cầu, Bảo trì camera, log truy cập và điểm mù giữa các tòa cao tầng., voice: Nhanh, chính xác, đôi khi khó chịu với người không hiểu log., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_ha_linh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_ha_linh.png"
+}

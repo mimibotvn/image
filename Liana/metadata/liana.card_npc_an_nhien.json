@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_an_nhien",
+  "type": "citizen_card",
+  "name": "Card An Nhiên",
+  "district": "vien_bao_tang",
+  "characterRole": "Thực tập sinh bảo tàng",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for An Nhiên, Thực tập sinh bảo tàng in Viện Bảo Tàng, Ghi chép phục chế và lịch ra vào kho hiện vật, hay thấy chi tiết nhỏ bị người lớn bỏ qua., voice: Nhanh, hơi run, nhưng nhớ rất kỹ màu sắc và vị trí đồ vật., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_an_nhien.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_an_nhien.png"
+}

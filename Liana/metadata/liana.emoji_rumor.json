@@ -1,0 +1,14 @@
+{
+  "assetId": "emoji_rumor",
+  "type": "emoji",
+  "name": "Emoji Tin Đồn",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "rumor",
+    "news"
+  ],
+  "sourcePrompt": "Discord custom emoji, bong bóng thoại nhỏ có nhiễu báo chí màu hồng xanh, pastel noir detective style, simple silhouette, transparent background",
+  "status": "approved",
+  "file": "emojis/emoji_rumor.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/emojis/emoji_rumor.png"
+}

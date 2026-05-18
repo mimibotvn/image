@@ -1,0 +1,14 @@
+{
+  "assetId": "badge_weekly_solver",
+  "type": "achievement_badge",
+  "name": "Badge Weekly Solver",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "achievement",
+    "weekly"
+  ],
+  "sourcePrompt": "square Discord achievement badge for server weekly solve, city board and check mark, pastel noir, no text",
+  "status": "approved",
+  "file": "achievements/badge_weekly_solver.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/achievements/badge_weekly_solver.png"
+}

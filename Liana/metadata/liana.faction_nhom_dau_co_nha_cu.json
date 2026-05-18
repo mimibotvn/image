@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_nhom_dau_co_nha_cu",
+  "type": "faction_banner",
+  "name": "Phe Nhóm Đầu Cơ Nhà Cũ",
+  "district": "pho_cu",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "case_brief"
+  ],
+  "sourcePrompt": "wide Discord faction banner for property speculators, old house deeds, model buildings, rain window, pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_nhom_dau_co_nha_cu.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_nhom_dau_co_nha_cu.png"
+}

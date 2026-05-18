@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_rooftop_ash",
+  "type": "clue_card",
+  "name": "Tàn Thuốc Sân Thượng",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_clue",
+    "city_incident"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for ash trace on rooftop railing in rain, no readable text",
+  "status": "approved",
+  "file": "clues/clue_rooftop_ash.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_rooftop_ash.png"
+}

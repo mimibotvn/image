@@ -1,0 +1,14 @@
+{
+  "assetId": "news_card_weekly_case",
+  "type": "newspaper_card",
+  "name": "Bản Tin Weekly Case",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "weekly",
+    "announcement"
+  ],
+  "sourcePrompt": "horizontal Discord newspaper card for weekly case announcement, office board and case folder, no readable text",
+  "status": "approved",
+  "file": "newspapers/news_card_weekly_case.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/newspapers/news_card_weekly_case.png"
+}

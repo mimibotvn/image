@@ -1,0 +1,16 @@
+{
+  "assetId": "banner_district_cang_dem",
+  "type": "location_banner",
+  "name": "Banner Cảng Đêm",
+  "district": "cang_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "city_status",
+    "city_districts",
+    "case_board"
+  ],
+  "sourcePrompt": "wide Discord location banner for Cảng Đêm, Kho vận, camera cổng, seal hàng và ca trực nửa đêm., pastel noir detective style, pale sky blue and soft pink lighting, clear landmark composition, no tiny text",
+  "status": "approved",
+  "file": "locations/banner_district_cang_dem.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/locations/banner_district_cang_dem.png"
+}

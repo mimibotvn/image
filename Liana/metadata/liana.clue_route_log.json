@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_route_log",
+  "type": "clue_card",
+  "name": "Log Tuyến Đường",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_timeline",
+    "travel"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for transit route log, station map glow, clocks, no readable text",
+  "status": "approved",
+  "file": "clues/clue_route_log.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_route_log.png"
+}

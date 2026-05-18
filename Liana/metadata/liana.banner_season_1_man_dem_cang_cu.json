@@ -1,0 +1,15 @@
+{
+  "assetId": "banner_season_1_man_dem_cang_cu",
+  "type": "season_banner",
+  "name": "Season 1 - Màn Đêm Cảng Cũ",
+  "district": "cang_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "season",
+    "weekly_announcement"
+  ],
+  "sourcePrompt": "wide season banner for old night port mystery, sealed containers, soft rain, pastel pink and pale blue noir lighting, readable Discord composition, no gore",
+  "status": "approved",
+  "file": "banners/banner_season_1_man_dem_cang_cu.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/banners/banner_season_1_man_dem_cang_cu.png"
+}

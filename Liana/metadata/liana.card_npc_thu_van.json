@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_thu_van",
+  "type": "detective_card",
+  "name": "Card Thu Vân",
+  "district": "quan_tai_chinh",
+  "characterRole": "Công tố viên tạm nghỉ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Thu Vân, Công tố viên tạm nghỉ in Quận Tài Chính, Từng xử nhiều hồ sơ tài chính, nay tránh truyền thông nhưng vẫn nhận ra cấu trúc cáo buộc yếu., voice: Rõ, sắc, không chịu giả thuyết thiếu chứng cứ., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_thu_van.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_thu_van.png"
+}

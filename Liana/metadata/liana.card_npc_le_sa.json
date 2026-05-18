@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_le_sa",
+  "type": "suspect_card",
+  "name": "Card Lệ Sa",
+  "district": "quan_tai_chinh",
+  "characterRole": "Môi giới quan hệ thượng lưu",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Lệ Sa, Môi giới quan hệ thượng lưu in Quận Tài Chính, Sắp xếp tiệc kín, hợp đồng hậu trường và những cuộc gặp không ghi trong lịch., voice: Lịch thiệp, sắc, đôi khi cười trước khi phủ nhận., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_le_sa.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_le_sa.png"
+}

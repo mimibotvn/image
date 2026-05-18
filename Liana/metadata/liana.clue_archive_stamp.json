@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_archive_stamp",
+  "type": "clue_card",
+  "name": "Dấu Lưu Trữ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_archive",
+    "inventory"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for archive stamp, folder tabs, dust and blue pink noir light, no readable text",
+  "status": "approved",
+  "file": "clues/clue_archive_stamp.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_archive_stamp.png"
+}

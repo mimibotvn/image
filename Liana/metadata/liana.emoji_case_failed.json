@@ -1,0 +1,14 @@
+{
+  "assetId": "emoji_case_failed",
+  "type": "emoji",
+  "name": "Emoji Kết Án Sai",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_result",
+    "coldcase"
+  ],
+  "sourcePrompt": "Discord custom emoji, dấu cảnh báo hồng pastel trên hồ sơ, không quá căng, pastel noir detective style, simple silhouette, transparent background",
+  "status": "approved",
+  "file": "emojis/emoji_case_failed.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/emojis/emoji_case_failed.png"
+}

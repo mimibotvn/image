@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_thien_an",
+  "type": "witness_card",
+  "name": "Card Thiên An",
+  "district": "quan_tai_chinh",
+  "characterRole": "Quản lý khách sạn boutique",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Thiên An, Quản lý khách sạn boutique in Quận Tài Chính, Quản lịch phòng, thẻ thang máy và yêu cầu riêng của khách doanh nhân., voice: Lịch sự tuyệt đối, né câu hỏi bằng quy định dịch vụ., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_thien_an.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_thien_an.png"
+}

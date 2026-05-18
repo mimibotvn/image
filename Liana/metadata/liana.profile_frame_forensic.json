@@ -1,0 +1,14 @@
+{
+  "assetId": "profile_frame_forensic",
+  "type": "profile_frame",
+  "name": "Khung Hồ Sơ Pháp Y",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "profile",
+    "identity"
+  ],
+  "sourcePrompt": "vertical Discord profile frame for forensic specialist, UV and lab glass, pastel noir, no readable text",
+  "status": "approved",
+  "file": "profiles/profile_frame_forensic.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/profiles/profile_frame_forensic.png"
+}

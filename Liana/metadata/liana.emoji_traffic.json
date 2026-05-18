@@ -1,0 +1,14 @@
+{
+  "assetId": "emoji_traffic",
+  "type": "emoji",
+  "name": "Emoji Giao Thông",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "city_traffic",
+    "brief"
+  ],
+  "sourcePrompt": "Discord custom emoji, đèn giao thông mini phong cách pastel noir, pastel noir detective style, simple silhouette, transparent background",
+  "status": "approved",
+  "file": "emojis/emoji_traffic.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/emojis/emoji_traffic.png"
+}

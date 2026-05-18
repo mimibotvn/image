@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_ong_dinh",
+  "type": "detective_card",
+  "name": "Card Ông Định",
+  "district": "pho_cu",
+  "characterRole": "Cựu cảnh sát khu vực",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Ông Định, Cựu cảnh sát khu vực in Phố Cũ, Biết lịch sử án cũ, gia phả trong phố và những cái tên đã đổi sau nhiều năm., voice: Chậm, khàn, hay kiểm tra người nghe có thật sự hiểu chuyện cũ không., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_ong_dinh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_ong_dinh.png"
+}

@@ -1,0 +1,14 @@
+{
+  "assetId": "map_card_old_town_alleys",
+  "type": "map_card",
+  "name": "Bản Đồ Hẻm Phố Cũ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "travel",
+    "district"
+  ],
+  "sourcePrompt": "horizontal Discord map card for old town alleys and witness corners, warm windows, no readable labels",
+  "status": "approved",
+  "file": "maps/map_card_old_town_alleys.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/maps/map_card_old_town_alleys.png"
+}

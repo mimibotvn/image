@@ -1,0 +1,14 @@
+{
+  "assetId": "item_camera",
+  "type": "item_card",
+  "name": "Máy Ảnh Nguồn Tin",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "news"
+  ],
+  "sourcePrompt": "vertical Discord item card for compact camera, press badge silhouette, rainy newsroom lights, no readable text",
+  "status": "approved",
+  "file": "items/item_camera.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_camera.png"
+}

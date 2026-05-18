@@ -1,0 +1,14 @@
+{
+  "assetId": "emoji_case_open",
+  "type": "emoji",
+  "name": "Emoji Án Mở",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_board",
+    "brief"
+  ],
+  "sourcePrompt": "Discord custom emoji, folder vụ án mở với chấm xanh trời, đọc rõ ở kích thước Discord nhỏ, pastel noir detective style, simple silhouette, transparent background",
+  "status": "approved",
+  "file": "emojis/emoji_case_open.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/emojis/emoji_case_open.png"
+}

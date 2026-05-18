@@ -1,0 +1,14 @@
+{
+  "assetId": "profile_frame_street",
+  "type": "profile_frame",
+  "name": "Khung Hồ Sơ Đường Phố",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "profile",
+    "identity"
+  ],
+  "sourcePrompt": "vertical Discord profile frame for street investigator, wet alley, taxi lights, pastel noir, no readable text",
+  "status": "approved",
+  "file": "profiles/profile_frame_street.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/profiles/profile_frame_street.png"
+}

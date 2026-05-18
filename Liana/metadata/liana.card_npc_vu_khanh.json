@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_vu_khanh",
+  "type": "suspect_card",
+  "name": "Card Vũ Khanh",
+  "district": "cho_den",
+  "characterRole": "Ông trùm môi giới ngầm",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Vũ Khanh, Ông trùm môi giới ngầm in Chợ Đen, Không trực tiếp ra mặt nhưng nhiều giao dịch ở Chợ Đen đều phải đi qua người của ông., voice: Điềm, lạnh, nói ít và luôn để người khác tự hiểu phần đe dọa., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_vu_khanh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_vu_khanh.png"
+}

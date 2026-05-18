@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_witness_note",
+  "type": "clue_card",
+  "name": "Ghi Chú Nhân Chứng",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_clue",
+    "witness"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for wet witness note pinned under glass, alley reflections, no readable text",
+  "status": "approved",
+  "file": "clues/clue_witness_note.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_witness_note.png"
+}

@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_kha_giay",
+  "type": "suspect_card",
+  "name": "Card Kha Giấy",
+  "district": "cho_den",
+  "characterRole": "Thợ làm giấy giả",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Kha Giấy, Thợ làm giấy giả in Chợ Đen, Sửa dấu, in mẫu, biết loại giấy và mực nào đang lưu hành ở Chợ Đen., voice: Cười khô, nói nửa thật nửa thử, hay dùng biệt danh., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_kha_giay.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_kha_giay.png"
+}

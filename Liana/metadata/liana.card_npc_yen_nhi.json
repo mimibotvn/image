@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_yen_nhi",
+  "type": "witness_card",
+  "name": "Card Yến Nhi",
+  "district": "toa_soan_dem",
+  "characterRole": "Streamer tin đồn",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Yến Nhi, Streamer tin đồn in Tòa Soạn Đêm, Lan truyền câu chuyện nóng rất nhanh, nhưng đôi khi nắm được clip gốc trước cả tòa soạn., voice: Nhanh, nhiều cảm xúc, thích thử phản ứng người đối thoại., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_yen_nhi.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_yen_nhi.png"
+}

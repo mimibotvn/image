@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_kho_phuc_che",
+  "type": "scene_card",
+  "name": "Hiện Trường Kho Phục Chế",
+  "district": "vien_bao_tang",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "museum"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for museum restoration storage, cloth-covered artifact, soft gold blue noir, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_kho_phuc_che.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_kho_phuc_che.png"
+}

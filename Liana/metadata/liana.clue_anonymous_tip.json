@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_anonymous_tip",
+  "type": "clue_card",
+  "name": "Tin Nhắn Ẩn Danh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "rumor",
+    "case_clue"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for anonymous phone message glow, rain alley, text blurred unreadable",
+  "status": "approved",
+  "file": "clues/clue_anonymous_tip.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_anonymous_tip.png"
+}

@@ -1,0 +1,14 @@
+{
+  "assetId": "item_press_card",
+  "type": "item_card",
+  "name": "Thẻ Báo Chí Tạm",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "news"
+  ],
+  "sourcePrompt": "vertical Discord item card for temporary press card with blurred text, camera strap, pastel noir, no readable text",
+  "status": "approved",
+  "file": "items/item_press_card.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_press_card.png"
+}

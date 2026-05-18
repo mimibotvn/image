@@ -1,0 +1,15 @@
+{
+  "assetId": "item_lockpick_set",
+  "type": "item_card",
+  "name": "Bộ Mở Khóa Mảnh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "shop",
+    "travel"
+  ],
+  "sourcePrompt": "vertical Discord item card for delicate lockpick set in velvet case, investigative tool, pastel noir, no readable text",
+  "status": "approved",
+  "file": "items/item_lockpick_set.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_lockpick_set.png"
+}

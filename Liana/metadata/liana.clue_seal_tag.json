@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_seal_tag",
+  "type": "clue_card",
+  "name": "Tag Niêm Phong",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_archive",
+    "case_lab"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for broken seal tag on evidence locker, port storage, no readable text",
+  "status": "approved",
+  "file": "clues/clue_seal_tag.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_seal_tag.png"
+}

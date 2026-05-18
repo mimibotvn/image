@@ -1,0 +1,14 @@
+{
+  "assetId": "news_card_city_heat",
+  "type": "newspaper_card",
+  "name": "Bản Tin Nhiệt Thành Phố",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "news",
+    "city_status"
+  ],
+  "sourcePrompt": "horizontal Discord newspaper card for city pressure news, newsroom desk, red string board, no readable text",
+  "status": "approved",
+  "file": "newspapers/news_card_city_heat.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/newspapers/news_card_city_heat.png"
+}

@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_bao_son",
+  "type": "suspect_card",
+  "name": "Card Bảo Sơn",
+  "district": "pho_cu",
+  "characterRole": "Chủ nợ phố cũ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Bảo Sơn, Chủ nợ phố cũ in Phố Cũ, Thu nợ bằng lời nhắc nhỏ, biết nhà nào đang cầm cố giấy tờ và ai sắp rời phố., voice: Trầm, thẳng, không cần lớn tiếng để gây áp lực., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_bao_son.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_bao_son.png"
+}

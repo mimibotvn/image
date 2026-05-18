@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_hoi_dong_bao_tang",
+  "type": "faction_banner",
+  "name": "Phe Hội Đồng Bảo Tàng",
+  "district": "vien_bao_tang",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "museum"
+  ],
+  "sourcePrompt": "wide Discord faction banner for museum council, glass display cases, restoration table, muted gold and blue noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_hoi_dong_bao_tang.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_hoi_dong_bao_tang.png"
+}

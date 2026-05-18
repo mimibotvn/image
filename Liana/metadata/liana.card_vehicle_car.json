@@ -1,0 +1,14 @@
+{
+  "assetId": "card_vehicle_car",
+  "type": "vehicle_card",
+  "name": "Card Ô tô điều tra",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "garage",
+    "city_travel"
+  ],
+  "sourcePrompt": "Discord vehicle card for Ô tô điều tra, speed 36 km/h, Tốt để bảo quản chứng cứ, yếu khi trung tâm kẹt xe., pastel noir detective city, pale blue and soft pink highlights, clear vehicle silhouette",
+  "status": "approved",
+  "file": "vehicles/card_vehicle_car.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/vehicles/card_vehicle_car.png"
+}

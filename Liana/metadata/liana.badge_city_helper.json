@@ -1,0 +1,14 @@
+{
+  "assetId": "badge_city_helper",
+  "type": "achievement_badge",
+  "name": "Badge Người Giữ Thành Phố",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "achievement",
+    "city"
+  ],
+  "sourcePrompt": "square Discord achievement badge for city incident helper, skyline and shield, pastel pink blue, no text",
+  "status": "approved",
+  "file": "achievements/badge_city_helper.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/achievements/badge_city_helper.png"
+}

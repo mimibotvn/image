@@ -1,0 +1,14 @@
+{
+  "assetId": "map_card_newsroom_sources",
+  "type": "map_card",
+  "name": "Bản Đồ Nguồn Tin Tòa Soạn",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "news",
+    "rumor"
+  ],
+  "sourcePrompt": "horizontal Discord map card for newsroom source network, pins and string, no readable labels",
+  "status": "approved",
+  "file": "maps/map_card_newsroom_sources.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/maps/map_card_newsroom_sources.png"
+}

@@ -1,0 +1,14 @@
+{
+  "assetId": "item_blacklight_powder",
+  "type": "item_card",
+  "name": "Bột Hiện Dấu UV",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "case_lab"
+  ],
+  "sourcePrompt": "vertical Discord item card for UV fingerprint powder jar and glowing dust, no readable text",
+  "status": "approved",
+  "file": "items/item_blacklight_powder.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_blacklight_powder.png"
+}

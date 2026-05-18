@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_duc_thang",
+  "type": "character_card",
+  "name": "Card Đức Thắng",
+  "district": "ga_lac_anh",
+  "characterRole": "Điều phối viên nhà ga",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Đức Thắng, Điều phối viên nhà ga in Ga Lạc Anh, Nắm lịch tàu, delay, camera sân ga và thẻ nhân viên trong ca đông khách., voice: Mệt nhưng rõ, hay trả lời bằng số tuyến và khung giờ., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_duc_thang.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_duc_thang.png"
+}

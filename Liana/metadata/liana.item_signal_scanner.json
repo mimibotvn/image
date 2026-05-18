@@ -1,0 +1,14 @@
+{
+  "assetId": "item_signal_scanner",
+  "type": "item_card",
+  "name": "Máy Quét Tín Hiệu",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "case_lab"
+  ],
+  "sourcePrompt": "vertical Discord item card for compact signal scanner with blue waveform glow, rain desk, no readable text",
+  "status": "approved",
+  "file": "items/item_signal_scanner.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_signal_scanner.png"
+}

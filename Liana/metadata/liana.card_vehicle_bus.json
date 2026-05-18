@@ -1,0 +1,14 @@
+{
+  "assetId": "card_vehicle_bus",
+  "type": "vehicle_card",
+  "name": "Card Xe buýt/Tàu nội đô",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "garage",
+    "city_travel"
+  ],
+  "sourcePrompt": "Discord vehicle card for Xe buýt/Tàu nội đô, speed 22 km/h, Rẻ, phụ thuộc lịch tuyến, hợp theo dấu đám đông., pastel noir detective city, pale blue and soft pink highlights, clear vehicle silhouette",
+  "status": "approved",
+  "file": "vehicles/card_vehicle_bus.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/vehicles/card_vehicle_bus.png"
+}

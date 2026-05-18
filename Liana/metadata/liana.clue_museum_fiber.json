@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_museum_fiber",
+  "type": "clue_card",
+  "name": "Sợi Vải Bảo Tàng",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "museum",
+    "case_lab"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for tiny fiber beside artifact display, magnifier light, no readable text",
+  "status": "approved",
+  "file": "clues/clue_museum_fiber.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_museum_fiber.png"
+}

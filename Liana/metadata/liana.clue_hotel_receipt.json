@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_hotel_receipt",
+  "type": "clue_card",
+  "name": "Hóa Đơn Khách Sạn",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_clue",
+    "rumor"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for hotel receipt on wet counter, text blurred, pastel noir, no readable text",
+  "status": "approved",
+  "file": "clues/clue_hotel_receipt.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_hotel_receipt.png"
+}

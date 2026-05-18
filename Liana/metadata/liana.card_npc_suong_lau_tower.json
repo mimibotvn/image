@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_suong_lau_tower",
+  "type": "citizen_card",
+  "name": "Card Sương",
+  "district": "bac_cau_tower",
+  "characterRole": "Lao công Bắc Cầu Tower",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Sương, Lao công Bắc Cầu Tower in Khu Cao Ốc Bắc Cầu, Đi qua các tầng khi văn phòng đã tắt đèn, thấy những thứ camera không quay tới., voice: Nhỏ, thực tế, hay nói theo tuyến lau dọn., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_suong_lau_tower.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_suong_lau_tower.png"
+}

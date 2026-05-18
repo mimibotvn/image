@@ -1,0 +1,14 @@
+{
+  "assetId": "map_card_tower_elevators",
+  "type": "map_card",
+  "name": "Bản Đồ Thang Máy Bắc Cầu",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "travel",
+    "city_status"
+  ],
+  "sourcePrompt": "horizontal Discord map card for high-rise elevator shafts and access nodes, no readable labels",
+  "status": "approved",
+  "file": "maps/map_card_tower_elevators.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/maps/map_card_tower_elevators.png"
+}

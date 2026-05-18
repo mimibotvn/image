@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_server_bac_cau",
+  "type": "scene_card",
+  "name": "Hiện Trường Phòng Server Bắc Cầu",
+  "district": "bac_cau_tower",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "office"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for high-rise server room, blue LEDs, access badge on floor, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_server_bac_cau.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_server_bac_cau.png"
+}

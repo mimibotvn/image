@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_camera_frame",
+  "type": "clue_card",
+  "name": "Khung Hình Camera",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_clue",
+    "case_report"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for blurry security camera still, rain, timestamp area blurred, pastel noir, no readable text",
+  "status": "approved",
+  "file": "clues/clue_camera_frame.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_camera_frame.png"
+}

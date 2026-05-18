@@ -1,0 +1,14 @@
+{
+  "assetId": "office_banner_archive_room",
+  "type": "office_banner",
+  "name": "Phòng Lưu Trữ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "office",
+    "case_archive"
+  ],
+  "sourcePrompt": "wide Discord office banner for archive room, file shelves, rolling ladder, dust in blue pink light, no readable text",
+  "status": "approved",
+  "file": "offices/office_banner_archive_room.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/offices/office_banner_archive_room.png"
+}

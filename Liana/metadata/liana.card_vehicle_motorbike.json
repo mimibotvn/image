@@ -1,0 +1,14 @@
+{
+  "assetId": "card_vehicle_motorbike",
+  "type": "vehicle_card",
+  "name": "Card Xe máy",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "garage",
+    "city_travel"
+  ],
+  "sourcePrompt": "Discord vehicle card for Xe máy, speed 28 km/h, Nhanh trong phố đông, tốt cho án khẩn., pastel noir detective city, pale blue and soft pink highlights, clear vehicle silhouette",
+  "status": "approved",
+  "file": "vehicles/card_vehicle_motorbike.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/vehicles/card_vehicle_motorbike.png"
+}

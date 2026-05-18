@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_kieu_trang",
+  "type": "witness_card",
+  "name": "Card Kiều Trang",
+  "district": "vien_bao_tang",
+  "characterRole": "Nhà thiết kế trang sức",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Kiều Trang, Nhà thiết kế trang sức in Viện Bảo Tàng, Có mặt ở triển lãm và các buổi đấu giá, nhận ra đá quý, móc khóa và đồ giả tinh vi., voice: Nhẹ, sang, mô tả chi tiết bằng chất liệu và ánh sáng., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_kieu_trang.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_kieu_trang.png"
+}

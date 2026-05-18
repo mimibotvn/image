@@ -1,0 +1,14 @@
+{
+  "assetId": "card_vehicle_service_car",
+  "type": "vehicle_card",
+  "name": "Card Xe công vụ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "garage",
+    "city_travel"
+  ],
+  "sourcePrompt": "Discord vehicle card for Xe công vụ, speed 42 km/h, Nhanh và bảo quản tốt, nhưng làm nghi phạm cảnh giác., pastel noir detective city, pale blue and soft pink highlights, clear vehicle silhouette",
+  "status": "approved",
+  "file": "vehicles/card_vehicle_service_car.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/vehicles/card_vehicle_service_car.png"
+}

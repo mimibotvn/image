@@ -1,0 +1,14 @@
+{
+  "assetId": "emoji_case_solved",
+  "type": "emoji",
+  "name": "Emoji Phá Án Đúng",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_result",
+    "chronicle"
+  ],
+  "sourcePrompt": "Discord custom emoji, huy hiệu check xanh pastel trên hồ sơ điều tra, pastel noir detective style, simple silhouette, transparent background",
+  "status": "approved",
+  "file": "emojis/emoji_case_solved.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/emojis/emoji_case_solved.png"
+}

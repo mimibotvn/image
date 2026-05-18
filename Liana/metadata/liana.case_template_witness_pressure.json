@@ -1,0 +1,16 @@
+{
+  "assetId": "case_template_witness_pressure",
+  "type": "case_card",
+  "name": "Case Card lời khai đổi hướng",
+  "caseType": "witness_pressure",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_board",
+    "case_detail",
+    "brief"
+  ],
+  "sourcePrompt": "Discord case card for lời khai đổi hướng, incident: một nhân chứng thay đổi lời khai sau khi gặp người lạ, required evidence: tin nhắn, khoản chuyển nhỏ, tuyến đường thay đổi, pastel noir detective, no spoiler culprit, clear mystery object",
+  "status": "approved",
+  "file": "cases/case_template_witness_pressure.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/cases/case_template_witness_pressure.png"
+}

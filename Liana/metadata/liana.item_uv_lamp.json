@@ -1,0 +1,15 @@
+{
+  "assetId": "item_uv_lamp",
+  "type": "item_card",
+  "name": "Đèn UV Cầm Tay",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "shop",
+    "case_lab"
+  ],
+  "sourcePrompt": "vertical Discord item card for handheld UV lamp revealing hidden marks on paper, pastel blue glow, no readable text",
+  "status": "approved",
+  "file": "items/item_uv_lamp.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_uv_lamp.png"
+}

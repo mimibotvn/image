@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_server_access",
+  "type": "clue_card",
+  "name": "Lượt Truy Cập Server",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_clue",
+    "office"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for server access panel, blue logs blurred, glass reflection, no readable text",
+  "status": "approved",
+  "file": "clues/clue_server_access.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_server_access.png"
+}

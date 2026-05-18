@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_hoi_dong_benh_vien",
+  "type": "faction_banner",
+  "name": "Phe Hội Đồng Bệnh Viện",
+  "district": "benh_vien_nam",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "medical"
+  ],
+  "sourcePrompt": "wide Discord faction banner for hospital board room, patient files, frosted glass, sterile pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_hoi_dong_benh_vien.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_hoi_dong_benh_vien.png"
+}

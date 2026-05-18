@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_hoi_cu_dan_pho_cu",
+  "type": "faction_banner",
+  "name": "Phe Hội Cư Dân Phố Cũ",
+  "district": "pho_cu",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "district"
+  ],
+  "sourcePrompt": "wide Discord faction banner for old-town residents, balcony lights, shared alley table, neighborhood ledger, pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_hoi_cu_dan_pho_cu.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_hoi_cu_dan_pho_cu.png"
+}

@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_press_negative",
+  "type": "clue_card",
+  "name": "Âm Bản Ảnh Báo Chí",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "news",
+    "case_clue"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for photo negative strips on newsroom light table, no readable text",
+  "status": "approved",
+  "file": "clues/clue_press_negative.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_press_negative.png"
+}

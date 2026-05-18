@@ -1,0 +1,14 @@
+{
+  "assetId": "evidence_camera_log",
+  "type": "evidence_icon",
+  "name": "Icon Camera Log",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_detail",
+    "case_lab"
+  ],
+  "sourcePrompt": "Discord evidence icon, camera log xanh trời nhạt, timestamp rõ, không chữ nhỏ, pastel noir detective style, transparent-friendly shape, readable at small size",
+  "status": "approved",
+  "file": "evidence/evidence_camera_log.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/evidence/evidence_camera_log.png"
+}

@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_ly_hoa",
+  "type": "citizen_card",
+  "name": "Card Lý Hoa",
+  "district": "pho_cu",
+  "characterRole": "Chủ tiệm tạp hóa Phố Cũ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Lý Hoa, Chủ tiệm tạp hóa Phố Cũ in Phố Cũ, Ngồi ngay góc phố lâu năm, nhìn thấy ai đi qua nhưng ít khi tự nhận là nhân chứng., voice: Chậm, nhiều ẩn ý, hay nhắc chuyện cũ trước khi vào việc chính., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_ly_hoa.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_ly_hoa.png"
+}

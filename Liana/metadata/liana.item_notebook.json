@@ -1,0 +1,14 @@
+{
+  "assetId": "item_notebook",
+  "type": "item_card",
+  "name": "Sổ Tay Điều Tra",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "profile"
+  ],
+  "sourcePrompt": "vertical Discord item card for detective notebook with ribbon tabs, clean desk, pastel noir, ornate frame, no readable text",
+  "status": "approved",
+  "file": "items/item_notebook.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_notebook.png"
+}

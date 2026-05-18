@@ -1,0 +1,14 @@
+{
+  "assetId": "profile_frame_press",
+  "type": "profile_frame",
+  "name": "Khung Hồ Sơ Báo Chí",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "profile",
+    "identity"
+  ],
+  "sourcePrompt": "vertical Discord profile frame for press specialist, camera and newsroom, pastel noir, no readable text",
+  "status": "approved",
+  "file": "profiles/profile_frame_press.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/profiles/profile_frame_press.png"
+}

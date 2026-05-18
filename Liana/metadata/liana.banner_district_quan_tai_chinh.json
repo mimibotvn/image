@@ -1,0 +1,16 @@
+{
+  "assetId": "banner_district_quan_tai_chinh",
+  "type": "location_banner",
+  "name": "Banner Quận Tài Chính",
+  "district": "quan_tai_chinh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "city_status",
+    "city_districts",
+    "case_board"
+  ],
+  "sourcePrompt": "wide Discord location banner for Quận Tài Chính, Hợp đồng, công ty vỏ bọc, chữ ký scan và dòng tiền tách nhỏ., pastel noir detective style, pale sky blue and soft pink lighting, clear landmark composition, no tiny text",
+  "status": "approved",
+  "file": "locations/banner_district_quan_tai_chinh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/locations/banner_district_quan_tai_chinh.png"
+}

@@ -1,0 +1,14 @@
+{
+  "assetId": "emoji_office",
+  "type": "emoji",
+  "name": "Emoji Văn Phòng",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "office",
+    "brief"
+  ],
+  "sourcePrompt": "Discord custom emoji, biển văn phòng thám tử nhỏ với ánh đèn hồng pastel, pastel noir detective style, simple silhouette, transparent background",
+  "status": "approved",
+  "file": "emojis/emoji_office.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/emojis/emoji_office.png"
+}

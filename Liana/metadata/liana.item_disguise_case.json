@@ -1,0 +1,14 @@
+{
+  "assetId": "item_disguise_case",
+  "type": "item_card",
+  "name": "Hộp Ngụy Trang",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "stealth"
+  ],
+  "sourcePrompt": "vertical Discord item card for discreet disguise kit, glasses, scarf, makeup tools, pastel noir, no readable text",
+  "status": "approved",
+  "file": "items/item_disguise_case.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_disguise_case.png"
+}

@@ -1,0 +1,14 @@
+{
+  "assetId": "item_gloves",
+  "type": "item_card",
+  "name": "Găng Chứng Cứ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "case_lab"
+  ],
+  "sourcePrompt": "vertical Discord item card for forensic gloves beside sealed bags, clean lab light, pastel noir, no readable text",
+  "status": "approved",
+  "file": "items/item_gloves.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_gloves.png"
+}

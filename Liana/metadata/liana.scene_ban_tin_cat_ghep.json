@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_ban_tin_cat_ghep",
+  "type": "scene_card",
+  "name": "Hiện Trường Bản Tin Cắt Ghép",
+  "district": "toa_soan_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "news"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for newsroom editing desk, cut photo pieces, monitor glow blurred, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_ban_tin_cat_ghep.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_ban_tin_cat_ghep.png"
+}

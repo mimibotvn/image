@@ -1,0 +1,14 @@
+{
+  "assetId": "profile_frame_logic",
+  "type": "profile_frame",
+  "name": "Khung Hồ Sơ Logic",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "profile",
+    "identity"
+  ],
+  "sourcePrompt": "vertical Discord profile frame for logic specialist, case board and clean symbols, pastel noir, no readable text",
+  "status": "approved",
+  "file": "profiles/profile_frame_logic.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/profiles/profile_frame_logic.png"
+}

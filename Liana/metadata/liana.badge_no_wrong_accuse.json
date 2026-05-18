@@ -1,0 +1,14 @@
+{
+  "assetId": "badge_no_wrong_accuse",
+  "type": "achievement_badge",
+  "name": "Badge Không Kết Án Vội",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "achievement",
+    "profile"
+  ],
+  "sourcePrompt": "square Discord achievement badge for careful detective, scales and magnifier, pastel noir, no text",
+  "status": "approved",
+  "file": "achievements/badge_no_wrong_accuse.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/achievements/badge_no_wrong_accuse.png"
+}

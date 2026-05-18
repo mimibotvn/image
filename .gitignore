@@ -1,0 +1,7 @@
+exports/*
+!exports/.gitkeep
+Liana/exports/*
+!Liana/exports/.gitkeep
+discord-ready/*.tmp
+*.psd
+*.kra

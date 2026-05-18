@@ -1,0 +1,14 @@
+{
+  "assetId": "item_transit_pass",
+  "type": "item_card",
+  "name": "Thẻ Di Chuyển Đêm",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "travel"
+  ],
+  "sourcePrompt": "vertical Discord item card for transit pass and station route marker, blue train light, no readable text",
+  "status": "approved",
+  "file": "items/item_transit_pass.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_transit_pass.png"
+}

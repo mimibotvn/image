@@ -1,0 +1,16 @@
+{
+  "assetId": "case_template_missing_person",
+  "type": "case_card",
+  "name": "Case Card người mất tích",
+  "caseType": "missing_person",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_board",
+    "case_detail",
+    "brief"
+  ],
+  "sourcePrompt": "Discord case card for người mất tích, incident: một người biến mất sau khi để lại lịch trình mâu thuẫn, required evidence: camera, vé di chuyển, lời khai nhân chứng, pastel noir detective, no spoiler culprit, clear mystery object",
+  "status": "approved",
+  "file": "cases/case_template_missing_person.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/cases/case_template_missing_person.png"
+}

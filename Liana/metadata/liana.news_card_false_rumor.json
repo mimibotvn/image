@@ -1,0 +1,14 @@
+{
+  "assetId": "news_card_false_rumor",
+  "type": "newspaper_card",
+  "name": "Bản Tin Tin Đồn Sai",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "news",
+    "rumor"
+  ],
+  "sourcePrompt": "horizontal Discord newspaper card for false rumor wave, blurred phone screens, pink blue noir, no readable text",
+  "status": "approved",
+  "file": "newspapers/news_card_false_rumor.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/newspapers/news_card_false_rumor.png"
+}

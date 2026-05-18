@@ -1,0 +1,16 @@
+{
+  "assetId": "case_template_timeline_gap",
+  "type": "case_card",
+  "name": "Case Card khoảng trống thời gian",
+  "caseType": "timeline_gap",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_board",
+    "case_detail",
+    "brief"
+  ],
+  "sourcePrompt": "Discord case card for khoảng trống thời gian, incident: một mốc di chuyển khiến nghi phạm có mặt ở hai nơi gần như cùng lúc, required evidence: vé quét, camera tuyến, log thang máy, pastel noir detective, no spoiler culprit, clear mystery object",
+  "status": "approved",
+  "file": "cases/case_template_timeline_gap.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/cases/case_template_timeline_gap.png"
+}

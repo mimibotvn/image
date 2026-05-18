@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_duong_ham_nha_ga",
+  "type": "scene_card",
+  "name": "Hiện Trường Đường Hầm Nhà Ga",
+  "district": "ga_lac_anh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "travel"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for train station service tunnel, route light, abandoned suitcase, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_duong_ham_nha_ga.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_duong_ham_nha_ga.png"
+}

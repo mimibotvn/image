@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_van_chuyen_xuyen_dem",
+  "type": "faction_banner",
+  "name": "Phe Vận Chuyển Xuyên Đêm",
+  "district": "ga_lac_anh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "travel"
+  ],
+  "sourcePrompt": "wide Discord faction banner for overnight courier network, stacked parcels, station lockers, rain reflections, no readable text",
+  "status": "approved",
+  "file": "factions/faction_van_chuyen_xuyen_dem.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_van_chuyen_xuyen_dem.png"
+}

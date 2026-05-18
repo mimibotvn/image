@@ -1,0 +1,14 @@
+{
+  "assetId": "emoji_mentor",
+  "type": "emoji",
+  "name": "Emoji Mentor",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "mentor",
+    "profile"
+  ],
+  "sourcePrompt": "Discord custom emoji, hai thẻ thám tử nối bằng đường chỉ xanh nhạt, pastel noir detective style, simple silhouette, transparent background",
+  "status": "approved",
+  "file": "emojis/emoji_mentor.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/emojis/emoji_mentor.png"
+}

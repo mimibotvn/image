@@ -1,0 +1,14 @@
+{
+  "assetId": "badge_first_case",
+  "type": "achievement_badge",
+  "name": "Badge Án Đầu Tiên",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "achievement",
+    "profile"
+  ],
+  "sourcePrompt": "square Discord achievement badge for first solved case, case folder and small star, pastel noir, transparent-friendly, no text",
+  "status": "approved",
+  "file": "achievements/badge_first_case.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/achievements/badge_first_case.png"
+}

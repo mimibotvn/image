@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_moc_lan",
+  "type": "witness_card",
+  "name": "Card Mộc Lan",
+  "district": "vien_bao_tang",
+  "characterRole": "Nhà sưu tầm cổ vật",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Mộc Lan, Nhà sưu tầm cổ vật in Viện Bảo Tàng, Hiến tặng nhiều món cho bảo tàng, lịch sự nhưng luôn giữ quyền kiểm soát câu chuyện., voice: Mềm, chậm, dùng từ đẹp để né câu hỏi xấu., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_moc_lan.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_moc_lan.png"
+}

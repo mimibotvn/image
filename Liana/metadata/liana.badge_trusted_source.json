@@ -1,0 +1,14 @@
+{
+  "assetId": "badge_trusted_source",
+  "type": "achievement_badge",
+  "name": "Badge Nguồn Tin Tin Cậy",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "achievement",
+    "contact"
+  ],
+  "sourcePrompt": "square Discord achievement badge for trusted source, handshake silhouette and star, pastel noir, no text",
+  "status": "approved",
+  "file": "achievements/badge_trusted_source.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/achievements/badge_trusted_source.png"
+}

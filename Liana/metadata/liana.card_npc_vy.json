@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_vy",
+  "type": "character_card",
+  "name": "Card Vy",
+  "district": "quan_tai_chinh",
+  "characterRole": "Luật sư hồ sơ doanh nghiệp",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Vy, Luật sư hồ sơ doanh nghiệp in Quận Tài Chính, Lịch sự, hợp pháp, luôn nói theo điều khoản., voice: Chính xác, mềm, dùng từ pháp lý để né trách nhiệm., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_vy.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_vy.png"
+}

@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_duong_sat_lac_anh",
+  "type": "faction_banner",
+  "name": "Phe Công Ty Đường Sắt Lạc Anh",
+  "district": "ga_lac_anh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "travel"
+  ],
+  "sourcePrompt": "wide Discord faction banner for railway dispatch office, route boards, platform cameras, blue pink night glow, no readable text",
+  "status": "approved",
+  "file": "factions/faction_duong_sat_lac_anh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_duong_sat_lac_anh.png"
+}

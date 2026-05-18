@@ -1,0 +1,14 @@
+{
+  "assetId": "card_vehicle_walk",
+  "type": "vehicle_card",
+  "name": "Card Đi bộ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "garage",
+    "city_travel"
+  ],
+  "sourcePrompt": "Discord vehicle card for Đi bộ, speed 4 km/h, Chậm nhưng kín đáo, dễ phát hiện chi tiết đường phố., pastel noir detective city, pale blue and soft pink highlights, clear vehicle silhouette",
+  "status": "approved",
+  "file": "vehicles/card_vehicle_walk.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/vehicles/card_vehicle_walk.png"
+}

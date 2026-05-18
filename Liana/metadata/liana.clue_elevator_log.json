@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_elevator_log",
+  "type": "clue_card",
+  "name": "Log Thang Máy",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_timeline",
+    "city_status"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for elevator access log, high-rise panel, timestamp area blurred, no readable text",
+  "status": "approved",
+  "file": "clues/clue_elevator_log.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_elevator_log.png"
+}

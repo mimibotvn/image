@@ -1,0 +1,15 @@
+{
+  "assetId": "banner_liana_command_center",
+  "type": "bot_banner",
+  "name": "Liana Command Center Banner",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "help",
+    "brief",
+    "announcement"
+  ],
+  "sourcePrompt": "wide Discord banner for Liana detective command center, pastel pink and pale sky blue, clean noir office desk, evidence board in background, no tiny text, soft lighting",
+  "status": "approved",
+  "file": "banners/banner_liana_command_center.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/banners/banner_liana_command_center.png"
+}

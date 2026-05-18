@@ -1,0 +1,16 @@
+{
+  "assetId": "banner_district_ga_lac_anh",
+  "type": "location_banner",
+  "name": "Banner Ga Lạc Anh",
+  "district": "ga_lac_anh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "city_status",
+    "city_districts",
+    "case_board"
+  ],
+  "sourcePrompt": "wide Discord location banner for Ga Lạc Anh, Vé tàu, hành lý, tuyến trễ và mốc thời gian không khớp., pastel noir detective style, pale sky blue and soft pink lighting, clear landmark composition, no tiny text",
+  "status": "approved",
+  "file": "locations/banner_district_ga_lac_anh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/locations/banner_district_ga_lac_anh.png"
+}

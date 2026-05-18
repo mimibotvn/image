@@ -1,0 +1,14 @@
+{
+  "assetId": "item_traffic_pass_gold",
+  "type": "item_card",
+  "name": "Thẻ Ưu Tiên Giao Thông",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "travel"
+  ],
+  "sourcePrompt": "vertical Discord item card for elite transit pass with holographic route lines, no readable text",
+  "status": "approved",
+  "file": "items/item_traffic_pass_gold.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_traffic_pass_gold.png"
+}

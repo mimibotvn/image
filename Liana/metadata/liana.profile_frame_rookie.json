@@ -1,0 +1,14 @@
+{
+  "assetId": "profile_frame_rookie",
+  "type": "profile_frame",
+  "name": "Khung Hồ Sơ Tân Binh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "profile",
+    "identity"
+  ],
+  "sourcePrompt": "vertical Discord profile frame for rookie detective, clean notebook, pale blue pink noir, no readable text",
+  "status": "approved",
+  "file": "profiles/profile_frame_rookie.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/profiles/profile_frame_rookie.png"
+}

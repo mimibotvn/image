@@ -1,0 +1,16 @@
+{
+  "assetId": "banner_district_toa_soan_dem",
+  "type": "location_banner",
+  "name": "Banner Tòa Soạn Đêm",
+  "district": "toa_soan_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "city_status",
+    "city_districts",
+    "case_board"
+  ],
+  "sourcePrompt": "wide Discord location banner for Tòa Soạn Đêm, Nguồn tin, ảnh bị cắt, bản nháp tiêu đề và áp lực công luận., pastel noir detective style, pale sky blue and soft pink lighting, clear landmark composition, no tiny text",
+  "status": "approved",
+  "file": "locations/banner_district_toa_soan_dem.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/locations/banner_district_toa_soan_dem.png"
+}

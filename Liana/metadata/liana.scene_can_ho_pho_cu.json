@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_can_ho_pho_cu",
+  "type": "scene_card",
+  "name": "Hiện Trường Căn Hộ Phố Cũ",
+  "district": "pho_cu",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "district"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for old apartment living room, family photos blurred, rain window, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_can_ho_pho_cu.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_can_ho_pho_cu.png"
+}

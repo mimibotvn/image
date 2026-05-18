@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_nhom_lam_giay_gia",
+  "type": "faction_banner",
+  "name": "Phe Nhóm Làm Giấy Giả",
+  "district": "cho_den",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "case_archive"
+  ],
+  "sourcePrompt": "wide Discord faction banner for forged-paper workshop, ink trays, paper fibers, coded seals, pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_nhom_lam_giay_gia.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_nhom_lam_giay_gia.png"
+}

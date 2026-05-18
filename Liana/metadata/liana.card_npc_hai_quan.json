@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_hai_quan",
+  "type": "citizen_card",
+  "name": "Card Hải Quân",
+  "district": "cang_dem",
+  "characterRole": "Chủ tàu nhỏ Cảng Đêm",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Hải Quân, Chủ tàu nhỏ Cảng Đêm in Cảng Đêm, Chở hàng lẻ qua bến phụ, biết lịch thủy triều, ca bốc dỡ và lối tránh camera., voice: Khàn, ít chữ, nói bằng giờ nước và hướng gió., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_hai_quan.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_hai_quan.png"
+}

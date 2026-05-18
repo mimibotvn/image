@@ -1,0 +1,14 @@
+{
+  "assetId": "office_banner_lab_corner",
+  "type": "office_banner",
+  "name": "Góc Lab Mini",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "office",
+    "case_lab"
+  ],
+  "sourcePrompt": "wide Discord office banner for small forensic lab corner, UV lamp, sealed bags, microscope, no readable text",
+  "status": "approved",
+  "file": "offices/office_banner_lab_corner.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/offices/office_banner_lab_corner.png"
+}

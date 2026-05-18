@@ -1,0 +1,14 @@
+{
+  "assetId": "map_card_central_routes",
+  "type": "map_card",
+  "name": "Bản Đồ Tuyến Trung Tâm",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "travel",
+    "city_traffic"
+  ],
+  "sourcePrompt": "horizontal Discord map card for central travel routes, train and taxi routes, pastel noir, no readable text",
+  "status": "approved",
+  "file": "maps/map_card_central_routes.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/maps/map_card_central_routes.png"
+}

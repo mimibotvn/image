@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_quy_tin_dung_bac_cau",
+  "type": "faction_banner",
+  "name": "Phe Quỹ Tín Dụng Bắc Cầu",
+  "district": "quan_tai_chinh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "case_brief"
+  ],
+  "sourcePrompt": "wide Discord faction banner for finance district credit fund, glass office, contracts, cold server light, pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_quy_tin_dung_bac_cau.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_quy_tin_dung_bac_cau.png"
+}

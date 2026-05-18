@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_bac_si_hanh",
+  "type": "witness_card",
+  "name": "Card Bác sĩ Hạnh",
+  "district": "benh_vien_nam",
+  "characterRole": "Bác sĩ pháp y liên kết",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Bác sĩ Hạnh, Bác sĩ pháp y liên kết in Bệnh Viện Nam, Không kết luận ngoài dấu vết., voice: Khô, rõ, ưu tiên thuật ngữ chính xác., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_bac_si_hanh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_bac_si_hanh.png"
+}

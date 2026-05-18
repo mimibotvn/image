@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_ban_quan_ly_cang",
+  "type": "faction_banner",
+  "name": "Phe Ban Quản Lý Cảng",
+  "district": "cang_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "city_status"
+  ],
+  "sourcePrompt": "wide Discord faction banner for port authority office, stamped cargo manifests, locked pier gate, pastel noir rain, no readable text",
+  "status": "approved",
+  "file": "factions/faction_ban_quan_ly_cang.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_ban_quan_ly_cang.png"
+}

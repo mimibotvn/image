@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_bloodless_fabric",
+  "type": "clue_card",
+  "name": "Mảnh Vải Sạch Bất Thường",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_lab",
+    "case_report"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for suspicious clean fabric under forensic lamp, no gore, no readable text",
+  "status": "approved",
+  "file": "clues/clue_bloodless_fabric.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_bloodless_fabric.png"
+}

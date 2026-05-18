@@ -1,0 +1,14 @@
+{
+  "assetId": "office_banner_liana_main",
+  "type": "office_banner",
+  "name": "Văn Phòng Chính Liana",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "office",
+    "profile"
+  ],
+  "sourcePrompt": "wide Discord office banner for detective agency main office, cozy desk, case wall, rain city window, pastel noir, no readable text",
+  "status": "approved",
+  "file": "offices/office_banner_liana_main.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/offices/office_banner_liana_main.png"
+}

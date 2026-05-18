@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_tan_loc",
+  "type": "citizen_card",
+  "name": "Card Tấn Lộc",
+  "district": "ga_lac_anh",
+  "characterRole": "Tài xế taxi ga",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Tấn Lộc, Tài xế taxi ga in Ga Lạc Anh, Chạy tuyến đêm quanh nhà ga, nhớ khách bằng mùi nước hoa, hành lý và cách trả tiền., voice: Bình dân, nói thẳng, hay chen nhận xét đường phố., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_tan_loc.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_tan_loc.png"
+}

@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_pr_khung_hoang",
+  "type": "faction_banner",
+  "name": "Phe Đội PR Khủng Hoảng",
+  "district": "toa_soan_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "news"
+  ],
+  "sourcePrompt": "wide Discord faction banner for crisis PR room, blurred phones, media wall, careful noir lighting, no readable text",
+  "status": "approved",
+  "file": "factions/faction_pr_khung_hoang.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_pr_khung_hoang.png"
+}

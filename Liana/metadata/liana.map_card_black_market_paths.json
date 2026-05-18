@@ -1,0 +1,14 @@
+{
+  "assetId": "map_card_black_market_paths",
+  "type": "map_card",
+  "name": "Bản Đồ Lối Chợ Đen",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "travel",
+    "rumor"
+  ],
+  "sourcePrompt": "horizontal Discord map card for hidden market alley routes, lanterns and pins, no readable text",
+  "status": "approved",
+  "file": "maps/map_card_black_market_paths.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/maps/map_card_black_market_paths.png"
+}

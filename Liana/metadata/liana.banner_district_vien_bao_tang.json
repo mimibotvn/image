@@ -1,0 +1,16 @@
+{
+  "assetId": "banner_district_vien_bao_tang",
+  "type": "location_banner",
+  "name": "Banner Viện Bảo Tàng",
+  "district": "vien_bao_tang",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "city_status",
+    "city_districts",
+    "case_board"
+  ],
+  "sourcePrompt": "wide Discord location banner for Viện Bảo Tàng, Cổ vật, bảo hiểm, hồ sơ phục chế và người hiến tặng., pastel noir detective style, pale sky blue and soft pink lighting, clear landmark composition, no tiny text",
+  "status": "approved",
+  "file": "locations/banner_district_vien_bao_tang.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/locations/banner_district_vien_bao_tang.png"
+}

@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_van_phong_phap_ly_nguyen_vy",
+  "type": "faction_banner",
+  "name": "Phe Văn Phòng Pháp Lý Nguyễn Vy",
+  "district": "quan_tai_chinh",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "legal"
+  ],
+  "sourcePrompt": "wide Discord faction banner for legal office, contract shelves, glass desk, soft finance district lights, pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_van_phong_phap_ly_nguyen_vy.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_van_phong_phap_ly_nguyen_vy.png"
+}

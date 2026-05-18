@@ -1,0 +1,16 @@
+{
+  "assetId": "banner_district_bac_cau_tower",
+  "type": "location_banner",
+  "name": "Banner Khu Cao Ốc Bắc Cầu",
+  "district": "bac_cau_tower",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "city_status",
+    "city_districts",
+    "case_board"
+  ],
+  "sourcePrompt": "wide Discord location banner for Khu Cao Ốc Bắc Cầu, Thẻ ra vào, thang máy, server log và công ty hiện đại vỏ bọc., pastel noir detective style, pale sky blue and soft pink lighting, clear landmark composition, no tiny text",
+  "status": "approved",
+  "file": "locations/banner_district_bac_cau_tower.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/locations/banner_district_bac_cau_tower.png"
+}

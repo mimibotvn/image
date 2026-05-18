@@ -1,0 +1,16 @@
+{
+  "assetId": "case_template_staged_scene",
+  "type": "case_card",
+  "name": "Case Card hiện trường dàn dựng",
+  "caseType": "staged_scene",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_board",
+    "case_detail",
+    "brief"
+  ],
+  "sourcePrompt": "Discord case card for hiện trường dàn dựng, incident: một hiện trường có quá nhiều chi tiết trông như được sắp đặt, required evidence: vị trí vật thể, dấu bụi, dụng cụ sai loại, pastel noir detective, no spoiler culprit, clear mystery object",
+  "status": "approved",
+  "file": "cases/case_template_staged_scene.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/cases/case_template_staged_scene.png"
+}

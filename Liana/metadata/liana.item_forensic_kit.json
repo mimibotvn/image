@@ -1,0 +1,14 @@
+{
+  "assetId": "item_forensic_kit",
+  "type": "item_card",
+  "name": "Bộ Pháp Y Mini",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "case_lab"
+  ],
+  "sourcePrompt": "vertical Discord item card for portable forensic kit with swabs and vials, clean pastel lab light, no readable text",
+  "status": "approved",
+  "file": "items/item_forensic_kit.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_forensic_kit.png"
+}

@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_tuyet_anh",
+  "type": "witness_card",
+  "name": "Card Tuyết Anh",
+  "district": "cho_den",
+  "characterRole": "Ca sĩ phòng trà",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Tuyết Anh, Ca sĩ phòng trà in Chợ Đen, Xuất hiện ở những bàn đặt kín, nhớ khách bằng bài hát được yêu cầu và loại ly họ chạm vào., voice: Mềm, chậm, quyến rũ vừa đủ nhưng luôn giữ khoảng cách., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_tuyet_anh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_tuyet_anh.png"
+}

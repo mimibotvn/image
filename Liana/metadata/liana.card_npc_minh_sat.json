@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_minh_sat",
+  "type": "citizen_card",
+  "name": "Card Minh Sắt",
+  "district": "ga_lac_anh",
+  "characterRole": "Thợ máy bến xe",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Minh Sắt, Thợ máy bến xe in Ga Lạc Anh, Sửa xe đêm, nghe tài xế kể chuyện và nhận ra vết va quệt vừa mới xảy ra., voice: Cộc, thực tế, hay so sánh người với máy., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_minh_sat.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_minh_sat.png"
+}

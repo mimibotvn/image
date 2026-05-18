@@ -1,0 +1,16 @@
+{
+  "assetId": "case_template_stolen_evidence",
+  "type": "case_card",
+  "name": "Case Card vật chứng biến mất",
+  "caseType": "stolen_evidence",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_board",
+    "case_detail",
+    "brief"
+  ],
+  "sourcePrompt": "Discord case card for vật chứng biến mất, incident: một vật chứng bị lấy khỏi nơi niêm phong trước khi đối chiếu, required evidence: mã niêm phong, sổ bàn giao, camera kho, pastel noir detective, no spoiler culprit, clear mystery object",
+  "status": "approved",
+  "file": "cases/case_template_stolen_evidence.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/cases/case_template_stolen_evidence.png"
+}

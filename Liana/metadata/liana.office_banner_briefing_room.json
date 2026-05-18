@@ -1,0 +1,14 @@
+{
+  "assetId": "office_banner_briefing_room",
+  "type": "office_banner",
+  "name": "Phòng Briefing",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "brief",
+    "case_director"
+  ],
+  "sourcePrompt": "wide Discord office banner for briefing room, map board, pinned photos, clean noir lighting, no readable text",
+  "status": "approved",
+  "file": "offices/office_banner_briefing_room.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/offices/office_banner_briefing_room.png"
+}

@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_phong_tra_tuyet_anh",
+  "type": "scene_card",
+  "name": "Hiện Trường Phòng Trà Tuyết Anh",
+  "district": "cho_den",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "rumor"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for elegant night lounge, empty stage, lipstick glass, pastel noir, adult but non-explicit, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_phong_tra_tuyet_anh.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_phong_tra_tuyet_anh.png"
+}

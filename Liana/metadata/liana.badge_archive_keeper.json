@@ -1,0 +1,14 @@
+{
+  "assetId": "badge_archive_keeper",
+  "type": "achievement_badge",
+  "name": "Badge Người Giữ Hồ Sơ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "achievement",
+    "archive"
+  ],
+  "sourcePrompt": "square Discord achievement badge for archive keeper, file cabinet and seal, pastel noir, no text",
+  "status": "approved",
+  "file": "achievements/badge_archive_keeper.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/achievements/badge_archive_keeper.png"
+}

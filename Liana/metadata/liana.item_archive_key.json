@@ -1,0 +1,14 @@
+{
+  "assetId": "item_archive_key",
+  "type": "item_card",
+  "name": "Chìa Khóa Lưu Trữ",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "case_archive"
+  ],
+  "sourcePrompt": "vertical Discord item card for antique archive key and numbered tag, blue pink noir, no readable text",
+  "status": "approved",
+  "file": "items/item_archive_key.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_archive_key.png"
+}

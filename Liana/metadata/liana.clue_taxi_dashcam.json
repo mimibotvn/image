@@ -1,0 +1,14 @@
+{
+  "assetId": "clue_taxi_dashcam",
+  "type": "clue_card",
+  "name": "Dashcam Taxi",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "travel",
+    "case_timeline"
+  ],
+  "sourcePrompt": "horizontal Discord clue card for taxi dashcam still with rainy street blur, no readable text",
+  "status": "approved",
+  "file": "clues/clue_taxi_dashcam.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/clues/clue_taxi_dashcam.png"
+}

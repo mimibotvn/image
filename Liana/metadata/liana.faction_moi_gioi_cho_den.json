@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_moi_gioi_cho_den",
+  "type": "faction_banner",
+  "name": "Phe Môi Giới Chợ Đen",
+  "district": "cho_den",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "rumor"
+  ],
+  "sourcePrompt": "wide Discord faction banner for hidden broker network, lantern alley, rumor board, coded stalls, pastel noir, no explicit crime, no readable text",
+  "status": "approved",
+  "file": "factions/faction_moi_gioi_cho_den.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_moi_gioi_cho_den.png"
+}

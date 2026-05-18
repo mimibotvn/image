@@ -1,0 +1,14 @@
+{
+  "assetId": "item_wiretap_detector",
+  "type": "item_card",
+  "name": "Thiết Bị Dò Nghe Lén",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "office"
+  ],
+  "sourcePrompt": "vertical Discord item card for wiretap detector with antenna and warning glow, no readable text",
+  "status": "approved",
+  "file": "items/item_wiretap_detector.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_wiretap_detector.png"
+}

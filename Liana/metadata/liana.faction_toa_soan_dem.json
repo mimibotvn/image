@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_toa_soan_dem",
+  "type": "faction_banner",
+  "name": "Phe Tòa Soạn Đêm",
+  "district": "toa_soan_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "news"
+  ],
+  "sourcePrompt": "wide Discord faction banner for night newsroom, cameras, headline drafts, source board, rain city window, pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_toa_soan_dem.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_toa_soan_dem.png"
+}

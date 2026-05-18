@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_suu_gia_co_vat",
+  "type": "faction_banner",
+  "name": "Phe Nhóm Sưu Gia Cổ Vật",
+  "district": "vien_bao_tang",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "museum"
+  ],
+  "sourcePrompt": "wide Discord faction banner for private collectors, velvet display drawers, insured artifacts, muted gold and blue noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_suu_gia_co_vat.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_suu_gia_co_vat.png"
+}

@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_container_b17",
+  "type": "scene_card",
+  "name": "Hiện Trường Container B17",
+  "district": "cang_dem",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "case_board"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for sealed container B17 at night port, rain, broken seal focus, pastel noir, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_container_b17.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_container_b17.png"
+}

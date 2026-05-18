@@ -1,0 +1,16 @@
+{
+  "assetId": "case_template_forged_document",
+  "type": "case_card",
+  "name": "Case Card hồ sơ giả",
+  "caseType": "forged_document",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_board",
+    "case_detail",
+    "brief"
+  ],
+  "sourcePrompt": "Discord case card for hồ sơ giả, incident: một hồ sơ quan trọng bị chỉnh sửa trước khi chuyển giao, required evidence: metadata, chữ ký, log truy cập, pastel noir detective, no spoiler culprit, clear mystery object",
+  "status": "approved",
+  "file": "cases/case_template_forged_document.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/cases/case_template_forged_document.png"
+}

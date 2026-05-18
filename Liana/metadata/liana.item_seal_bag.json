@@ -1,0 +1,14 @@
+{
+  "assetId": "item_seal_bag",
+  "type": "item_card",
+  "name": "Túi Niêm Phong",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "inventory",
+    "case_archive"
+  ],
+  "sourcePrompt": "vertical Discord item card for transparent evidence seal bag on metal locker, pink warning light, no readable text",
+  "status": "approved",
+  "file": "items/item_seal_bag.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/items/item_seal_bag.png"
+}

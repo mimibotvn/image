@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_tran_bao",
+  "type": "suspect_card",
+  "name": "Card Trần Bảo",
+  "district": "cang_dem",
+  "characterRole": "Bảo vệ ca đêm",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Trần Bảo, Bảo vệ ca đêm in Cảng Đêm, Người làm thuê muốn giữ việc., voice: Câu ngắn, phòng thủ, hay nói 'tôi chỉ làm theo lệnh'., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_tran_bao.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_tran_bao.png"
+}

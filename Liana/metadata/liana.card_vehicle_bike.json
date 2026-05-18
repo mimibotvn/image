@@ -1,0 +1,14 @@
+{
+  "assetId": "card_vehicle_bike",
+  "type": "vehicle_card",
+  "name": "Card Xe đạp",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "garage",
+    "city_travel"
+  ],
+  "sourcePrompt": "Discord vehicle card for Xe đạp, speed 11 km/h, Rẻ, ít bị kẹt đường, không phù hợp chở chứng cứ lớn., pastel noir detective city, pale blue and soft pink highlights, clear vehicle silhouette",
+  "status": "approved",
+  "file": "vehicles/card_vehicle_bike.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/vehicles/card_vehicle_bike.png"
+}

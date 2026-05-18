@@ -1,0 +1,15 @@
+{
+  "assetId": "scene_phong_phap_y",
+  "type": "scene_card",
+  "name": "Hiện Trường Phòng Pháp Y",
+  "district": "benh_vien_nam",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "case_scene",
+    "case_lab"
+  ],
+  "sourcePrompt": "horizontal Discord scene card for forensic lab room, clean table, UV lamp, no gore, no readable text",
+  "status": "approved",
+  "file": "scenes/scene_phong_phap_y.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/scenes/scene_phong_phap_y.png"
+}

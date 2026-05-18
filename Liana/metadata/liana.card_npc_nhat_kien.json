@@ -1,0 +1,17 @@
+{
+  "assetId": "card_npc_nhat_kien",
+  "type": "detective_card",
+  "name": "Card Nhật Kiên",
+  "district": "bac_cau_tower",
+  "characterRole": "Hacker hợp đồng",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "npc",
+    "contact",
+    "case_witness"
+  ],
+  "sourcePrompt": "portrait card for Nhật Kiên, Hacker hợp đồng in Khu Cao Ốc Bắc Cầu, Sửa log, khôi phục camera và bán kỹ năng số cho người trả đúng giá., voice: Nhanh, mỉa nhẹ, hay nói bằng thuật ngữ server., pastel noir detective style, readable face, Discord character card, no text",
+  "status": "approved",
+  "file": "npcs/card_npc_nhat_kien.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/npcs/card_npc_nhat_kien.png"
+}

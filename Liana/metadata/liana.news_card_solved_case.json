@@ -1,0 +1,14 @@
+{
+  "assetId": "news_card_solved_case",
+  "type": "newspaper_card",
+  "name": "Bản Tin Phá Án",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "chronicle",
+    "case_result"
+  ],
+  "sourcePrompt": "horizontal Discord newspaper card for solved case report, clean desk and city skyline, celebratory but noir, no readable text",
+  "status": "approved",
+  "file": "newspapers/news_card_solved_case.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/newspapers/news_card_solved_case.png"
+}

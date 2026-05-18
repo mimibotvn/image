@@ -1,0 +1,15 @@
+{
+  "assetId": "faction_bao_hiem_gia",
+  "type": "faction_banner",
+  "name": "Phe Nhóm Bảo Hiểm Giả",
+  "district": "benh_vien_nam",
+  "style": "pastel_noir_detective",
+  "discordUse": [
+    "faction",
+    "case_archive"
+  ],
+  "sourcePrompt": "wide Discord faction banner for fake insurance files, claim folders, scanner light, pastel noir, no readable text",
+  "status": "approved",
+  "file": "factions/faction_bao_hiem_gia.png",
+  "url": "https://raw.githubusercontent.com/mimibotvn/image/main/Liana/factions/faction_bao_hiem_gia.png"
+}
