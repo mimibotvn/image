@@ -1,0 +1,90 @@
+{
+  "eventKey": "tien_de_liana_2026",
+  "name": "Động Phủ Tiên Đế Liana",
+  "baseUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana",
+  "designNotes": {
+    "noSafeFloors": true,
+    "visualPolicy": "Dùng ảnh cho thủ vệ, ảo ảnh mạnh, boss, cơ duyên tầng trọng yếu; không cần vẽ riêng mọi quái ngẫu nhiên.",
+    "highRealmHalo": "Thực thể từ Kim Đan trở lên nên có vòng pháp tướng hoặc trận luân phía sau."
+  },
+  "assets": {
+    "hero": {
+      "id": "liana_thuc_tinh_full",
+      "label": "Tiên Đế Liana Thức Tỉnh",
+      "kind": "hero",
+      "display": "full",
+      "usage": "Ảnh chính khi dùng lệnh .tiendeliana hoặc màn giới thiệu động phủ.",
+      "path": "banners/liana-thuc-tinh-full.png",
+      "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/banners/liana-thuc-tinh-full.png"
+    },
+    "guardians": [
+      {
+        "id": "ao_anh_tinh_lien",
+        "label": "Ảo Ảnh Tịnh Liên",
+        "kind": "illusion_guardian",
+        "realmBand": "Trúc Cơ",
+        "floorRange": [1, 2],
+        "risk": "không an toàn",
+        "usage": "Gặp khi người chơi bén mảng dò đường, tu luyện quá lâu, hoặc ép tiến khi chưa đủ điều kiện.",
+        "path": "guardians/ao-anh-tinh-lien-truc-co.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/ao-anh-tinh-lien-truc-co.png"
+      },
+      {
+        "id": "thu_ve_sinh_menh_linh_tuyen",
+        "label": "Thủ Vệ Sinh Mệnh Linh Tuyền",
+        "kind": "floor_guardian",
+        "realmBand": "Kim Đan",
+        "floorRange": [3, 4],
+        "risk": "nguy hiểm",
+        "usage": "Thủ vệ khu hồi phục, linh tuyền, đan dược và cấm chế sinh mệnh.",
+        "path": "guardians/thu-ve-sinh-menh-linh-tuyen.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/thu-ve-sinh-menh-linh-tuyen.png"
+      },
+      {
+        "id": "vo_cau_lien_dai_ho_phap",
+        "label": "Vô Cấu Liên Đài Hộ Pháp",
+        "kind": "elite_guardian",
+        "realmBand": "Kim Đan hậu kỳ trở lên",
+        "floorRange": [5, 6],
+        "risk": "đại nguy hiểm",
+        "usage": "Hộ pháp thanh tẩy, phạt đạo thương, giữ cửa cơ duyên trung tâm.",
+        "path": "guardians/vo-cau-lien-dai-ho-phap.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/vo-cau-lien-dai-ho-phap.png"
+      },
+      {
+        "id": "tam_ma_lien_anh",
+        "label": "Tâm Ma Liên Ảnh",
+        "kind": "inner_demon",
+        "realmBand": "Nguyên Anh / Xuất Khiếu",
+        "floorRange": [6, 8],
+        "risk": "tâm ma",
+        "usage": "Ảo ảnh tâm ma, thử sát nghiệp, phạt người đứng im hoặc bỏ qua chiến đấu quá lâu.",
+        "path": "guardians/tam-ma-lien-anh.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/tam-ma-lien-anh.png"
+      },
+      {
+        "id": "lien_nghiep_de_thu",
+        "label": "Liên Nghiệp Đế Thủ",
+        "kind": "apex_guardian",
+        "realmBand": "Hóa Thần trở lên",
+        "floorRange": [8, 9],
+        "risk": "boss truyền thừa",
+        "usage": "Thủ vệ tầng sâu, cơ duyên limited, truyền thừa và cửa Đế Ấn.",
+        "path": "guardians/lien-nghiep-de-thu.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/lien-nghiep-de-thu.png"
+      }
+    ],
+    "floors": [
+      {
+        "id": "sinh_menh_linh_tuyen",
+        "label": "Sinh Mệnh Linh Tuyền",
+        "kind": "floor_banner",
+        "floor": 3,
+        "risk": "không an toàn",
+        "usage": "Banner khu vực linh tuyền, hồi phục, đan dược và cơ duyên sinh mệnh.",
+        "path": "floors/sinh-menh-linh-tuyen.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/floors/sinh-menh-linh-tuyen.png"
+      }
+    ]
+  }
+}
