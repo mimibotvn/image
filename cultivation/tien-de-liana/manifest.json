@@ -2,10 +2,17 @@
   "eventKey": "tien_de_liana_2026",
   "name": "Động Phủ Tiên Đế Liana",
   "baseUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana",
+  "assetTotals": {
+    "hero": 1,
+    "guardians": 7,
+    "monsters": 12,
+    "floors": 4
+  },
   "designNotes": {
     "noSafeFloors": true,
-    "visualPolicy": "Dùng ảnh cho thủ vệ, ảo ảnh mạnh, boss, cơ duyên tầng trọng yếu; không cần vẽ riêng mọi quái ngẫu nhiên.",
-    "highRealmHalo": "Thực thể từ Kim Đan trở lên nên có vòng pháp tướng hoặc trận luân phía sau."
+    "visualPolicy": "Dùng ảnh cho thủ vệ, ảo ảnh mạnh, boss, cơ duyên tầng trọng yếu và quái có cơ chế riêng. Quái thường có thể dùng lại theo nhóm tầng để tránh loãng asset.",
+    "highRealmHalo": "Thực thể từ Kim Đan trở lên nên có vòng pháp tướng hoặc trận luân phía sau.",
+    "encounterPolicy": "Tầng càng sâu càng ưu tiên ảnh thủ vệ, boss, tâm ma và sinh vật có uy áp cao hơn người chơi."
   },
   "assets": {
     "hero": {
@@ -72,6 +79,162 @@
         "usage": "Thủ vệ tầng sâu, cơ duyên limited, truyền thừa và cửa Đế Ấn.",
         "path": "guardians/lien-nghiep-de-thu.png",
         "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/lien-nghiep-de-thu.png"
+      },
+      {
+        "id": "thu_ve_cam_van_luu_ly",
+        "label": "Thủ Vệ Cấm Văn Lưu Ly",
+        "kind": "rune_guardian",
+        "realmBand": "Kim Đan / Nguyên Anh",
+        "floorRange": [4, 6],
+        "risk": "cấm chế",
+        "usage": "Dùng khi người chơi chạm cấm chế, đi sâu khi chưa mở đường, hoặc bị khóa ở hành lang lưu ly.",
+        "path": "guardians/thu-ve-cam-van-luu-ly.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/thu-ve-cam-van-luu-ly.png"
+      },
+      {
+        "id": "ho_phap_thien_luan_liana",
+        "label": "Hộ Pháp Thiên Luân Liana",
+        "kind": "supreme_guardian",
+        "realmBand": "Hóa Thần trở lên",
+        "floorRange": [7, 9],
+        "risk": "đại hộ pháp",
+        "usage": "Dùng cho thủ vệ trung tâm, cơ chế truy sát, hoặc chặn truyền thừa cao cấp.",
+        "path": "guardians/ho-phap-thien-luan-liana.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/guardians/ho-phap-thien-luan-liana.png"
+      }
+    ],
+    "monsters": [
+      {
+        "id": "linh_khi_ky_sinh",
+        "label": "Linh Khí Ký Sinh",
+        "kind": "common_monster",
+        "realmBand": "Luyện Khí / Trúc Cơ",
+        "floorRange": [1, 2],
+        "risk": "ký sinh linh áp",
+        "usage": "Quái nhẹ cho người đứng im lâu, hấp thụ quá mức hoặc spam tìm ở tầng ngoài.",
+        "path": "monsters/linh-khi-ky-sinh.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/linh-khi-ky-sinh.png"
+      },
+      {
+        "id": "tinh_lien_yeu_diep",
+        "label": "Tịnh Liên Yêu Điệp",
+        "kind": "swarm_monster",
+        "realmBand": "Trúc Cơ",
+        "floorRange": [1, 3],
+        "risk": "mê hoặc",
+        "usage": "Quái đàn, làm giảm khí tức và kéo vào chiến đấu bắt buộc.",
+        "path": "monsters/tinh-lien-yeu-diep.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/tinh-lien-yeu-diep.png"
+      },
+      {
+        "id": "ngoc_cot_lien_thu",
+        "label": "Ngọc Cốt Liên Thú",
+        "kind": "beast_monster",
+        "realmBand": "Trúc Cơ / Kim Đan",
+        "floorRange": [2, 4],
+        "risk": "xung kích",
+        "usage": "Quái đánh trực diện, phù hợp khi người chơi rút lui hoặc cố vượt tầng.",
+        "path": "monsters/ngoc-cot-lien-thu.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/ngoc-cot-lien-thu.png"
+      },
+      {
+        "id": "thuy_kinh_mang_xa",
+        "label": "Thủy Kính Mãng Xà",
+        "kind": "water_monster",
+        "realmBand": "Kim Đan",
+        "floorRange": [3, 5],
+        "risk": "phản chiếu linh áp",
+        "usage": "Quái linh tuyền, phản lại một phần sát thương hoặc linh áp quá tải.",
+        "path": "monsters/thuy-kinh-mang-xa.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/thuy-kinh-mang-xa.png"
+      },
+      {
+        "id": "lien_cot_oan_linh",
+        "label": "Liên Cốt Oán Linh",
+        "kind": "wraith_monster",
+        "realmBand": "Kim Đan hậu kỳ",
+        "floorRange": [4, 6],
+        "risk": "đạo thương",
+        "usage": "Quái gây thương thế/đạo thương, dùng khi chiến đấu kéo dài hoặc thất bại rút lui.",
+        "path": "monsters/lien-cot-oan-linh.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/lien-cot-oan-linh.png"
+      },
+      {
+        "id": "kim_van_khoi_loi",
+        "label": "Kim Văn Khôi Lỗi",
+        "kind": "construct_monster",
+        "realmBand": "Kim Đan / Nguyên Anh",
+        "floorRange": [4, 6],
+        "risk": "khôi lỗi cấm chế",
+        "usage": "Quái cơ giới, đứng canh kho linh thạch, pháp bảo hoặc hành lang khóa.",
+        "path": "monsters/kim-van-khoi-loi.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/kim-van-khoi-loi.png"
+      },
+      {
+        "id": "tinh_hon_da_yeu",
+        "label": "Tịnh Hồn Dạ Yêu",
+        "kind": "elite_monster",
+        "realmBand": "Nguyên Anh",
+        "floorRange": [5, 7],
+        "risk": "tịnh hồn",
+        "usage": "Quái tinh anh làm hao khí tức, xóa buff yếu và ép người chơi phải dùng thần thông/hộ thể.",
+        "path": "monsters/tinh-hon-da-yeu.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/tinh-hon-da-yeu.png"
+      },
+      {
+        "id": "khong_linh_phe_anh",
+        "label": "Không Linh Phệ Ảnh",
+        "kind": "void_monster",
+        "realmBand": "Nguyên Anh / Xuất Khiếu",
+        "floorRange": [6, 8],
+        "risk": "nuốt ảnh",
+        "usage": "Quái tầng sâu, cấm bỏ qua chiến đấu và tăng phạt nếu người chơi đứng im.",
+        "path": "monsters/khong-linh-phe-anh.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/khong-linh-phe-anh.png"
+      },
+      {
+        "id": "bach_lien_tang_hon",
+        "label": "Bạch Liên Táng Hồn",
+        "kind": "boss_monster",
+        "realmBand": "Xuất Khiếu / Hóa Thần",
+        "floorRange": [7, 8],
+        "risk": "táng hồn",
+        "usage": "Boss phụ giữ mộ ao sen, cơ duyên limited hoặc truyền thừa bị phong ấn.",
+        "path": "monsters/bach-lien-tang-hon.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/bach-lien-tang-hon.png"
+      },
+      {
+        "id": "huyet_lien_ta_chung",
+        "label": "Huyết Liên Tà Chủng",
+        "kind": "corrupted_monster",
+        "realmBand": "Kim Đan / Nguyên Anh",
+        "floorRange": [4, 7],
+        "risk": "nhiễm tà",
+        "usage": "Quái nhiễm bẩn cơ duyên, sinh ra khi người chơi hấp thụ quá tải hoặc dùng hồi phục quá nhiều.",
+        "path": "monsters/huyet-lien-ta-chung.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/huyet-lien-ta-chung.png"
+      },
+      {
+        "id": "luu_ly_lien_lan",
+        "label": "Lưu Ly Liên Lân",
+        "kind": "rare_beast",
+        "realmBand": "Nguyên Anh",
+        "floorRange": [5, 7],
+        "risk": "linh thú dị biến",
+        "usage": "Quái hiếm, có thể rơi linh thạch lớn hoặc manh mối tầng sâu nhưng khó rút lui.",
+        "path": "monsters/luu-ly-lien-lan.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/luu-ly-lien-lan.png"
+      },
+      {
+        "id": "nguyet_lien_ma_ngu",
+        "label": "Nguyệt Liên Ma Ngư",
+        "kind": "aerial_water_monster",
+        "realmBand": "Nguyên Anh / Xuất Khiếu",
+        "floorRange": [6, 8],
+        "risk": "khóa linh tuyền",
+        "usage": "Quái nước bay, dùng trong tầng linh tuyền sâu hoặc sự kiện phục kích giữa lúc hồi phục.",
+        "path": "monsters/nguyet-lien-ma-ngu.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/monsters/nguyet-lien-ma-ngu.png"
       }
     ],
     "floors": [
@@ -84,6 +247,36 @@
         "usage": "Banner khu vực linh tuyền, hồi phục, đan dược và cơ duyên sinh mệnh.",
         "path": "floors/sinh-menh-linh-tuyen.png",
         "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/floors/sinh-menh-linh-tuyen.png"
+      },
+      {
+        "id": "hanh_lang_cam_van_luu_ly",
+        "label": "Hành Lang Cấm Văn Lưu Ly",
+        "kind": "floor_banner",
+        "floor": 2,
+        "risk": "cấm chế",
+        "usage": "Banner hành lang khóa đường, kiểm tra điều kiện tầng và chặn vượt tầng.",
+        "path": "floors/hanh-lang-cam-van-luu-ly.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/floors/hanh-lang-cam-van-luu-ly.png"
+      },
+      {
+        "id": "vuon_tinh_lien_tan_anh",
+        "label": "Vườn Tịnh Liên Tàn Ảnh",
+        "kind": "floor_banner",
+        "floor": 5,
+        "risk": "nhiễm tâm ma",
+        "usage": "Banner vườn sen dị biến, nơi sinh quái đàn, tâm ma và cơ duyên bị nhiễm.",
+        "path": "floors/vuon-tinh-lien-tan-anh.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/floors/vuon-tinh-lien-tan-anh.png"
+      },
+      {
+        "id": "de_an_lien_mon",
+        "label": "Đế Ấn Liên Môn",
+        "kind": "floor_banner",
+        "floor": 8,
+        "risk": "tầng sâu",
+        "usage": "Banner cửa tầng sâu, Đế Ấn, truyền thừa và kiểm tra điều kiện đặc biệt.",
+        "path": "floors/de-an-lien-mon.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/floors/de-an-lien-mon.png"
       }
     ]
   }
