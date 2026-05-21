@@ -6,13 +6,20 @@
     "hero": 1,
     "guardians": 7,
     "monsters": 12,
-    "floors": 4
+    "floors": 4,
+    "restrictions": 6,
+    "formationEyes": 6,
+    "formations": 6,
+    "arraySolving": 3,
+    "formationEffects": 2,
+    "totalImageAssets": 47
   },
   "designNotes": {
     "noSafeFloors": true,
     "visualPolicy": "Dùng ảnh cho thủ vệ, ảo ảnh mạnh, boss, cơ duyên tầng trọng yếu và quái có cơ chế riêng. Quái thường có thể dùng lại theo nhóm tầng để tránh loãng asset.",
     "highRealmHalo": "Thực thể từ Kim Đan trở lên nên có vòng pháp tướng hoặc trận luân phía sau.",
-    "encounterPolicy": "Tầng càng sâu càng ưu tiên ảnh thủ vệ, boss, tâm ma và sinh vật có uy áp cao hơn người chơi."
+    "encounterPolicy": "Tầng càng sâu càng ưu tiên ảnh thủ vệ, boss, tâm ma và sinh vật có uy áp cao hơn người chơi.",
+    "arrayPolicy": "C?m ch?, tr?n nh?n, gi?i tr?n v? ph?n ph? n?n d?ng ?nh ri?ng theo tr?ng th?i ?? ng??i ch?i hi?u h? ?ang ch?m c? ch? n?o, kh?ng ch? l? g?p qu?i."
   },
   "assets": {
     "hero": {
@@ -30,7 +37,10 @@
         "label": "Ảo Ảnh Tịnh Liên",
         "kind": "illusion_guardian",
         "realmBand": "Trúc Cơ",
-        "floorRange": [1, 2],
+        "floorRange": [
+          1,
+          2
+        ],
         "risk": "không an toàn",
         "usage": "Gặp khi người chơi bén mảng dò đường, tu luyện quá lâu, hoặc ép tiến khi chưa đủ điều kiện.",
         "path": "guardians/ao-anh-tinh-lien-truc-co.png",
@@ -41,7 +51,10 @@
         "label": "Thủ Vệ Sinh Mệnh Linh Tuyền",
         "kind": "floor_guardian",
         "realmBand": "Kim Đan",
-        "floorRange": [3, 4],
+        "floorRange": [
+          3,
+          4
+        ],
         "risk": "nguy hiểm",
         "usage": "Thủ vệ khu hồi phục, linh tuyền, đan dược và cấm chế sinh mệnh.",
         "path": "guardians/thu-ve-sinh-menh-linh-tuyen.png",
@@ -52,7 +65,10 @@
         "label": "Vô Cấu Liên Đài Hộ Pháp",
         "kind": "elite_guardian",
         "realmBand": "Kim Đan hậu kỳ trở lên",
-        "floorRange": [5, 6],
+        "floorRange": [
+          5,
+          6
+        ],
         "risk": "đại nguy hiểm",
         "usage": "Hộ pháp thanh tẩy, phạt đạo thương, giữ cửa cơ duyên trung tâm.",
         "path": "guardians/vo-cau-lien-dai-ho-phap.png",
@@ -63,7 +79,10 @@
         "label": "Tâm Ma Liên Ảnh",
         "kind": "inner_demon",
         "realmBand": "Nguyên Anh / Xuất Khiếu",
-        "floorRange": [6, 8],
+        "floorRange": [
+          6,
+          8
+        ],
         "risk": "tâm ma",
         "usage": "Ảo ảnh tâm ma, thử sát nghiệp, phạt người đứng im hoặc bỏ qua chiến đấu quá lâu.",
         "path": "guardians/tam-ma-lien-anh.png",
@@ -74,7 +93,10 @@
         "label": "Liên Nghiệp Đế Thủ",
         "kind": "apex_guardian",
         "realmBand": "Hóa Thần trở lên",
-        "floorRange": [8, 9],
+        "floorRange": [
+          8,
+          9
+        ],
         "risk": "boss truyền thừa",
         "usage": "Thủ vệ tầng sâu, cơ duyên limited, truyền thừa và cửa Đế Ấn.",
         "path": "guardians/lien-nghiep-de-thu.png",
@@ -85,7 +107,10 @@
         "label": "Thủ Vệ Cấm Văn Lưu Ly",
         "kind": "rune_guardian",
         "realmBand": "Kim Đan / Nguyên Anh",
-        "floorRange": [4, 6],
+        "floorRange": [
+          4,
+          6
+        ],
         "risk": "cấm chế",
         "usage": "Dùng khi người chơi chạm cấm chế, đi sâu khi chưa mở đường, hoặc bị khóa ở hành lang lưu ly.",
         "path": "guardians/thu-ve-cam-van-luu-ly.png",
@@ -96,7 +121,10 @@
         "label": "Hộ Pháp Thiên Luân Liana",
         "kind": "supreme_guardian",
         "realmBand": "Hóa Thần trở lên",
-        "floorRange": [7, 9],
+        "floorRange": [
+          7,
+          9
+        ],
         "risk": "đại hộ pháp",
         "usage": "Dùng cho thủ vệ trung tâm, cơ chế truy sát, hoặc chặn truyền thừa cao cấp.",
         "path": "guardians/ho-phap-thien-luan-liana.png",
@@ -109,7 +137,10 @@
         "label": "Linh Khí Ký Sinh",
         "kind": "common_monster",
         "realmBand": "Luyện Khí / Trúc Cơ",
-        "floorRange": [1, 2],
+        "floorRange": [
+          1,
+          2
+        ],
         "risk": "ký sinh linh áp",
         "usage": "Quái nhẹ cho người đứng im lâu, hấp thụ quá mức hoặc spam tìm ở tầng ngoài.",
         "path": "monsters/linh-khi-ky-sinh.png",
@@ -120,7 +151,10 @@
         "label": "Tịnh Liên Yêu Điệp",
         "kind": "swarm_monster",
         "realmBand": "Trúc Cơ",
-        "floorRange": [1, 3],
+        "floorRange": [
+          1,
+          3
+        ],
         "risk": "mê hoặc",
         "usage": "Quái đàn, làm giảm khí tức và kéo vào chiến đấu bắt buộc.",
         "path": "monsters/tinh-lien-yeu-diep.png",
@@ -131,7 +165,10 @@
         "label": "Ngọc Cốt Liên Thú",
         "kind": "beast_monster",
         "realmBand": "Trúc Cơ / Kim Đan",
-        "floorRange": [2, 4],
+        "floorRange": [
+          2,
+          4
+        ],
         "risk": "xung kích",
         "usage": "Quái đánh trực diện, phù hợp khi người chơi rút lui hoặc cố vượt tầng.",
         "path": "monsters/ngoc-cot-lien-thu.png",
@@ -142,7 +179,10 @@
         "label": "Thủy Kính Mãng Xà",
         "kind": "water_monster",
         "realmBand": "Kim Đan",
-        "floorRange": [3, 5],
+        "floorRange": [
+          3,
+          5
+        ],
         "risk": "phản chiếu linh áp",
         "usage": "Quái linh tuyền, phản lại một phần sát thương hoặc linh áp quá tải.",
         "path": "monsters/thuy-kinh-mang-xa.png",
@@ -153,7 +193,10 @@
         "label": "Liên Cốt Oán Linh",
         "kind": "wraith_monster",
         "realmBand": "Kim Đan hậu kỳ",
-        "floorRange": [4, 6],
+        "floorRange": [
+          4,
+          6
+        ],
         "risk": "đạo thương",
         "usage": "Quái gây thương thế/đạo thương, dùng khi chiến đấu kéo dài hoặc thất bại rút lui.",
         "path": "monsters/lien-cot-oan-linh.png",
@@ -164,7 +207,10 @@
         "label": "Kim Văn Khôi Lỗi",
         "kind": "construct_monster",
         "realmBand": "Kim Đan / Nguyên Anh",
-        "floorRange": [4, 6],
+        "floorRange": [
+          4,
+          6
+        ],
         "risk": "khôi lỗi cấm chế",
         "usage": "Quái cơ giới, đứng canh kho linh thạch, pháp bảo hoặc hành lang khóa.",
         "path": "monsters/kim-van-khoi-loi.png",
@@ -175,7 +221,10 @@
         "label": "Tịnh Hồn Dạ Yêu",
         "kind": "elite_monster",
         "realmBand": "Nguyên Anh",
-        "floorRange": [5, 7],
+        "floorRange": [
+          5,
+          7
+        ],
         "risk": "tịnh hồn",
         "usage": "Quái tinh anh làm hao khí tức, xóa buff yếu và ép người chơi phải dùng thần thông/hộ thể.",
         "path": "monsters/tinh-hon-da-yeu.png",
@@ -186,7 +235,10 @@
         "label": "Không Linh Phệ Ảnh",
         "kind": "void_monster",
         "realmBand": "Nguyên Anh / Xuất Khiếu",
-        "floorRange": [6, 8],
+        "floorRange": [
+          6,
+          8
+        ],
         "risk": "nuốt ảnh",
         "usage": "Quái tầng sâu, cấm bỏ qua chiến đấu và tăng phạt nếu người chơi đứng im.",
         "path": "monsters/khong-linh-phe-anh.png",
@@ -197,7 +249,10 @@
         "label": "Bạch Liên Táng Hồn",
         "kind": "boss_monster",
         "realmBand": "Xuất Khiếu / Hóa Thần",
-        "floorRange": [7, 8],
+        "floorRange": [
+          7,
+          8
+        ],
         "risk": "táng hồn",
         "usage": "Boss phụ giữ mộ ao sen, cơ duyên limited hoặc truyền thừa bị phong ấn.",
         "path": "monsters/bach-lien-tang-hon.png",
@@ -208,7 +263,10 @@
         "label": "Huyết Liên Tà Chủng",
         "kind": "corrupted_monster",
         "realmBand": "Kim Đan / Nguyên Anh",
-        "floorRange": [4, 7],
+        "floorRange": [
+          4,
+          7
+        ],
         "risk": "nhiễm tà",
         "usage": "Quái nhiễm bẩn cơ duyên, sinh ra khi người chơi hấp thụ quá tải hoặc dùng hồi phục quá nhiều.",
         "path": "monsters/huyet-lien-ta-chung.png",
@@ -219,7 +277,10 @@
         "label": "Lưu Ly Liên Lân",
         "kind": "rare_beast",
         "realmBand": "Nguyên Anh",
-        "floorRange": [5, 7],
+        "floorRange": [
+          5,
+          7
+        ],
         "risk": "linh thú dị biến",
         "usage": "Quái hiếm, có thể rơi linh thạch lớn hoặc manh mối tầng sâu nhưng khó rút lui.",
         "path": "monsters/luu-ly-lien-lan.png",
@@ -230,7 +291,10 @@
         "label": "Nguyệt Liên Ma Ngư",
         "kind": "aerial_water_monster",
         "realmBand": "Nguyên Anh / Xuất Khiếu",
-        "floorRange": [6, 8],
+        "floorRange": [
+          6,
+          8
+        ],
         "risk": "khóa linh tuyền",
         "usage": "Quái nước bay, dùng trong tầng linh tuyền sâu hoặc sự kiện phục kích giữa lúc hồi phục.",
         "path": "monsters/nguyet-lien-ma-ngu.png",
@@ -277,6 +341,315 @@
         "usage": "Banner cửa tầng sâu, Đế Ấn, truyền thừa và kiểm tra điều kiện đặc biệt.",
         "path": "floors/de-an-lien-mon.png",
         "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/floors/de-an-lien-mon.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "id": "cam_che_lien_hoa_khoa_hon",
+        "label": "C?m Ch? Li?n Hoa Kh?a H?n",
+        "kind": "soul_lock_restriction",
+        "floorRange": [
+          1,
+          4
+        ],
+        "risk": "kh?a h?n",
+        "usage": "D?ng khi ng??i ch?i b? kh?a h?nh ??ng, kh?ng th? b? qua chi?n ??u ho?c c? spam l?nh trong tr?ng th?i b? tr?i.",
+        "path": "restrictions/cam-che-lien-hoa-khoa-hon.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/restrictions/cam-che-lien-hoa-khoa-hon.png"
+      },
+      {
+        "id": "cam_che_luu_ly_thien_bich",
+        "label": "C?m Ch? L?u Ly Thi?n B?ch",
+        "kind": "barrier_restriction",
+        "floorRange": [
+          2,
+          5
+        ],
+        "risk": "t??ng ch?n",
+        "usage": "D?ng khi b? ch?n ???ng, ch?a ?? ?i?u ki?n t?ng ho?c c?n t?m tr?n nh?n m?i qua ???c.",
+        "path": "restrictions/cam-che-luu-ly-thien-bich.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/restrictions/cam-che-luu-ly-thien-bich.png"
+      },
+      {
+        "id": "cam_che_huyet_lien_phan_phe",
+        "label": "C?m Ch? Huy?t Li?n Ph?n Ph?",
+        "kind": "backlash_restriction",
+        "floorRange": [
+          4,
+          7
+        ],
+        "risk": "ph?n ph?",
+        "usage": "D?ng khi h?p th? qu? t?i, ph? tr?n sai, ho?c h?i ph?c c??ng ?p g?y ph?n th??ng.",
+        "path": "restrictions/cam-che-huyet-lien-phan-phe.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/restrictions/cam-che-huyet-lien-phan-phe.png"
+      },
+      {
+        "id": "cam_che_khong_gian_toa_anh",
+        "label": "C?m Ch? Kh?ng Gian T?a ?nh",
+        "kind": "spatial_restriction",
+        "floorRange": [
+          5,
+          8
+        ],
+        "risk": "kh?a kh?ng gian",
+        "usage": "D?ng khi r?t lui th?t b?i, b? k?t t?ng s?u ho?c g?p c? ch? c?m truy?n t?ng.",
+        "path": "restrictions/cam-che-khong-gian-toa-anh.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/restrictions/cam-che-khong-gian-toa-anh.png"
+      },
+      {
+        "id": "cam_che_trong_luc_tien_ap",
+        "label": "C?m Ch? Tr?ng L?c Ti?n ?p",
+        "kind": "pressure_restriction",
+        "floorRange": [
+          3,
+          7
+        ],
+        "risk": "ti?n ?p",
+        "usage": "D?ng khi uy ?p t?ng v??t qu? tu vi, khi?n kh? t?c m?t m?i ho?c h?nh ??ng b? ch?m.",
+        "path": "restrictions/cam-che-trong-luc-tien-ap.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/restrictions/cam-che-trong-luc-tien-ap.png"
+      },
+      {
+        "id": "cam_che_tinh_lien_thanh_tay",
+        "label": "C?m Ch? T?nh Li?n Thanh T?y",
+        "kind": "purification_restriction",
+        "floorRange": [
+          3,
+          8
+        ],
+        "risk": "thanh t?y",
+        "usage": "D?ng khi ??ng ph? thanh l?c s?t nghi?p, ??c kh?, buff x?u ho?c c? c? duy?n nhi?m b?n.",
+        "path": "restrictions/cam-che-tinh-lien-thanh-tay.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/restrictions/cam-che-tinh-lien-thanh-tay.png"
+      }
+    ],
+    "formationEyes": [
+      {
+        "id": "tran_nhan_kim_luan_lien_tam",
+        "label": "Tr?n Nh?n Kim Lu?n Li?n T?m",
+        "kind": "golden_wheel_eye",
+        "floorRange": [
+          4,
+          8
+        ],
+        "risk": "tr?n nh?n ch?nh",
+        "usage": "Tr?n nh?n trung t?m ?? m? ???ng, ph? kh?a ho?c ?i?u ch?nh c?m ch? l?n.",
+        "path": "formation-eyes/tran-nhan-kim-luan-lien-tam.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-eyes/tran-nhan-kim-luan-lien-tam.png"
+      },
+      {
+        "id": "tran_nhan_thuy_kinh_minh_nguyet",
+        "label": "Tr?n Nh?n Th?y K?nh Minh Nguy?t",
+        "kind": "mirror_water_eye",
+        "floorRange": [
+          3,
+          6
+        ],
+        "risk": "?o ?nh ph?n chi?u",
+        "usage": "Tr?n nh?n ph?n chi?u th?ng tin sai, d?ng cho t?ng linh tuy?n v? m? tr?n n??c.",
+        "path": "formation-eyes/tran-nhan-thuy-kinh-minh-nguyet.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-eyes/tran-nhan-thuy-kinh-minh-nguyet.png"
+      },
+      {
+        "id": "tran_nhan_bang_tinh_luu_ly",
+        "label": "Tr?n Nh?n B?ng Tinh L?u Ly",
+        "kind": "ice_crystal_eye",
+        "floorRange": [
+          4,
+          7
+        ],
+        "risk": "??ng b?ng linh ?p",
+        "usage": "Tr?n nh?n l?nh kh?a linh ?p, ph? h?p cho c?m ch? l?m gi?m h?i kh? ho?c ch?n h?i ph?c.",
+        "path": "formation-eyes/tran-nhan-bang-tinh-luu-ly.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-eyes/tran-nhan-bang-tinh-luu-ly.png"
+      },
+      {
+        "id": "tran_nhan_tam_ma_hac_lien",
+        "label": "Tr?n Nh?n T?m Ma H?c Li?n",
+        "kind": "heart_demon_eye",
+        "floorRange": [
+          6,
+          9
+        ],
+        "risk": "t?m ma",
+        "usage": "Tr?n nh?n t?ng s?u sinh t?m ma, d?ng khi ??ng im qu? l?u ho?c b? qua chi?n ??u.",
+        "path": "formation-eyes/tran-nhan-tam-ma-hac-lien.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-eyes/tran-nhan-tam-ma-hac-lien.png"
+      },
+      {
+        "id": "tran_nhan_thien_co_sa_lau",
+        "label": "Tr?n Nh?n Thi?n C? Sa L?u",
+        "kind": "destiny_hourglass_eye",
+        "floorRange": [
+          5,
+          9
+        ],
+        "risk": "th?i h?n",
+        "usage": "Tr?n nh?n t?nh th?i gian, d?ng cho ch? ph? tr?n, m? c?a, tr? ho?n ho?c ??ng c? duy?n.",
+        "path": "formation-eyes/tran-nhan-thien-co-sa-lau.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-eyes/tran-nhan-thien-co-sa-lau.png"
+      },
+      {
+        "id": "tran_nhan_song_ngu_am_duong",
+        "label": "Tr?n Nh?n Song Ng? ?m D??ng",
+        "kind": "yin_yang_dual_eye",
+        "floorRange": [
+          4,
+          8
+        ],
+        "risk": "c?n b?ng ?m d??ng",
+        "usage": "Tr?n nh?n y?u c?u c?n b?ng linh ?p, kh? t?c, ??o th??ng ho?c ch?n hai h??ng gi?i kh?c nhau.",
+        "path": "formation-eyes/tran-nhan-song-ngu-am-duong.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-eyes/tran-nhan-song-ngu-am-duong.png"
+      }
+    ],
+    "formations": [
+      {
+        "id": "sat_tran_van_kiem_luu_ly",
+        "label": "S?t Tr?n V?n Ki?m L?u Ly",
+        "kind": "killing_formation",
+        "floorRange": [
+          5,
+          9
+        ],
+        "risk": "s?t tr?n",
+        "usage": "D?ng khi ph? tr?n sai, c??ng ?p ti?n s?u ho?c boss k?ch ho?t ki?m tr?n.",
+        "path": "formations/sat-tran-van-kiem-luu-ly.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formations/sat-tran-van-kiem-luu-ly.png"
+      },
+      {
+        "id": "me_tran_thien_lien_huyen_lo",
+        "label": "M? Tr?n Thi?n Li?n Huy?n L?",
+        "kind": "maze_formation",
+        "floorRange": [
+          3,
+          8
+        ],
+        "risk": "m? l?",
+        "usage": "D?ng cho c? ch? t?m ???ng, l?c ???ng, ch?n nh?nh sai ho?c c?n t?m tr?n nh?n.",
+        "path": "formations/me-tran-thien-lien-huyen-lo.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formations/me-tran-thien-lien-huyen-lo.png"
+      },
+      {
+        "id": "khon_tran_cuu_lien_toa_mach",
+        "label": "Kh?n Tr?n C?u Li?n T?a M?ch",
+        "kind": "binding_formation",
+        "floorRange": [
+          4,
+          8
+        ],
+        "risk": "kh?a kinh m?ch",
+        "usage": "D?ng khi ng??i ch?i b? kh?a linh l?c, kh?ng ???c d?ng l?nh kh?c cho t?i khi x? l?.",
+        "path": "formations/khon-tran-cuu-lien-toa-mach.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formations/khon-tran-cuu-lien-toa-mach.png"
+      },
+      {
+        "id": "phong_tran_luu_ly_kim_chung",
+        "label": "Ph?ng Tr?n L?u Ly Kim Chung",
+        "kind": "defensive_formation",
+        "floorRange": [
+          3,
+          7
+        ],
+        "risk": "ph?ng tr?n",
+        "usage": "D?ng cho b?o h? c? duy?n, h? th? t?ng ho?c c?m ch? ph?i ph? tr??c khi nh?n th??ng.",
+        "path": "formations/phong-tran-luu-ly-kim-chung.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formations/phong-tran-luu-ly-kim-chung.png"
+      },
+      {
+        "id": "sinh_menh_lien_tuc_tran",
+        "label": "Sinh M?nh Li?n T?c Tr?n",
+        "kind": "recovery_formation",
+        "floorRange": [
+          3,
+          6
+        ],
+        "risk": "h?i ph?c c? gi?",
+        "usage": "D?ng cho h?i ph?c trong ??ng ph?, h?i kh?, h?i th??ng ho?c c? ch? ti?u hao s? d?/l??t.",
+        "path": "formations/sinh-menh-lien-tuc-tran.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formations/sinh-menh-lien-tuc-tran.png"
+      },
+      {
+        "id": "truyen_tong_lien_tinh_tran",
+        "label": "Truy?n T?ng Li?n Tinh Tr?n",
+        "kind": "teleport_formation",
+        "floorRange": [
+          2,
+          9
+        ],
+        "risk": "d?ch chuy?n",
+        "usage": "D?ng cho v?o t?ng s?u, r?t lui, mua v? v?o l?i ho?c b? truy?n t?ng c??ng ch?.",
+        "path": "formations/truyen-tong-lien-tinh-tran.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formations/truyen-tong-lien-tinh-tran.png"
+      }
+    ],
+    "arraySolving": [
+      {
+        "id": "giai_tran_la_ban_thien_co",
+        "label": "Gi?i Tr?n La B?n Thi?n C?",
+        "kind": "compass_solver",
+        "floorRange": [
+          2,
+          9
+        ],
+        "risk": "gi?i tr?n",
+        "usage": "?nh khi ng??i ch?i d?ng h?nh ??ng quan s?t, gi?i tr?n, t?m tr?n nh?n ho?c ch?n h??ng ph?.",
+        "path": "array-solving/giai-tran-la-ban-thien-co.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/array-solving/giai-tran-la-ban-thien-co.png"
+      },
+      {
+        "id": "ban_giai_tran_luu_ly_phu_van",
+        "label": "B?n Gi?i Tr?n L?u Ly Ph? V?n",
+        "kind": "puzzle_solver",
+        "floorRange": [
+          2,
+          8
+        ],
+        "risk": "x?p ph? v?n",
+        "usage": "?nh cho mini puzzle: ch?nh ph? v?n, xoay tr?n v?n, ch?n ??ng th? t? m? kh?a.",
+        "path": "array-solving/ban-giai-tran-luu-ly-phu-van.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/array-solving/ban-giai-tran-luu-ly-phu-van.png"
+      },
+      {
+        "id": "pha_tran_linh_van_tach_mach",
+        "label": "Ph? Tr?n Linh V?n T?ch M?ch",
+        "kind": "dismantle_solver",
+        "floorRange": [
+          4,
+          9
+        ],
+        "risk": "t?ch m?ch tr?n",
+        "usage": "?nh khi ph? tr?n c? r?i ro, t?ch linh v?n sai s? ph?n ph? ho?c g?i th? v?.",
+        "path": "array-solving/pha-tran-linh-van-tach-mach.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/array-solving/pha-tran-linh-van-tach-mach.png"
+      }
+    ],
+    "formationEffects": [
+      {
+        "id": "tran_phap_nut_vo_sap_sup",
+        "label": "Tr?n Ph?p N?t V? S?p S?p",
+        "kind": "broken_formation",
+        "floorRange": [
+          3,
+          9
+        ],
+        "risk": "s?p s?p",
+        "usage": "?nh khi tr?n ph?p g?n v?, c?n ch?n ti?p t?c ho?c r?t lui tr??c khi b? ph?n th??ng.",
+        "path": "formation-effects/tran-phap-nut-vo-sap-sup.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-effects/tran-phap-nut-vo-sap-sup.png"
+      },
+      {
+        "id": "phan_phe_linh_ap_bao_loan",
+        "label": "Ph?n Ph? Linh ?p B?o Lo?n",
+        "kind": "backlash_effect",
+        "floorRange": [
+          3,
+          9
+        ],
+        "risk": "b?o lo?n linh ?p",
+        "usage": "?nh khi th?t b?i ph? tr?n, h?p th? qu? t?i ho?c b? qua c?nh b?o d?n t?i b?o th?.",
+        "path": "formation-effects/phan-phe-linh-ap-bao-loan.png",
+        "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-liana/formation-effects/phan-phe-linh-ap-bao-loan.png"
       }
     ]
   }
