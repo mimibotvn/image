@@ -1,0 +1,44 @@
+{
+  "eventKey": "tien_de_yuna_2026",
+  "name": "Động Phủ Tiên Đế Yuna",
+  "baseUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-yuna",
+  "assetTotals": {
+    "hero": 1,
+    "portrait": 1,
+    "event": 1,
+    "totalImageAssets": 3
+  },
+  "designNotes": {
+    "visualPolicy": "Yuna là Tiên Đế trưởng thành, tuyệt sắc, quyến rũ nhưng không khỏa thân hoặc lộ chi tiết nhạy cảm. Ảnh dùng cho bot Discord cần rõ mặt, rõ pháp tướng, không chữ, không watermark.",
+    "usagePolicy": "Ảnh hero dùng cho bảng giới thiệu, trạng thái và tổng kết. Ảnh event dùng khi gặp thủ vệ, cấm chế, chiến cục hoặc biến cố. Ảnh portrait dùng cho hồ sơ, thông báo đặc biệt hoặc khung dọc."
+  },
+  "assets": [
+    {
+      "id": "yuna_tien_de_hero_v2",
+      "label": "Tiên Đế Yuna Tuyệt Sắc",
+      "kind": "hero",
+      "display": "banner",
+      "usage": "Ảnh chính cho bảng giới thiệu, trạng thái và tổng kết Động Phủ Tiên Đế Yuna.",
+      "path": "banners/yuna-tien-de-hero-v2.png",
+      "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-yuna/banners/yuna-tien-de-hero-v2.png"
+    },
+    {
+      "id": "yuna_tien_de_portrait_v2",
+      "label": "Chân Dung Tiên Đế Yuna",
+      "kind": "portrait",
+      "display": "vertical",
+      "usage": "Chân dung dùng cho hồ sơ, thông báo đặc biệt hoặc thẻ giao diện cần khung dọc.",
+      "path": "portraits/yuna-tien-de-portrait-v2.png",
+      "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-yuna/portraits/yuna-tien-de-portrait-v2.png"
+    },
+    {
+      "id": "yuna_cam_che_chien_cuc_v2",
+      "label": "Cấm Chế Chiến Cục Yuna",
+      "kind": "event",
+      "display": "banner",
+      "usage": "Ảnh dùng khi gặp thủ vệ, cấm chế, giao chiến hoặc biến cố trong Động Phủ Yuna.",
+      "path": "events/yuna-cam-che-chien-cuc-v2.png",
+      "url": "https://raw.githubusercontent.com/mimibotvn/image/main/cultivation/tien-de-yuna/events/yuna-cam-che-chien-cuc-v2.png"
+    }
+  ]
+}
