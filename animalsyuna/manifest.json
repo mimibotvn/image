@@ -1,0 +1,4578 @@
+{
+  "name": "Yuna Animals OwO/Fandom asset mirror",
+  "generatedAt": "2026-06-24T15:10:38.488Z",
+  "source": {
+    "wiki": "https://owobot.fandom.com/wiki/OwO_Bot_Wiki",
+    "wallpaperCategory": "https://owobot.fandom.com/wiki/Category:Wallpapers",
+    "note": "Files mirrored from public OwO Bot Wiki / Fandom file URLs for Yuna Animals references."
+  },
+  "rawBase": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna",
+  "counts": {
+    "requestedTitles": 281,
+    "downloaded": 281,
+    "failed": 0
+  },
+  "assets": [
+    {
+      "title": "File:3m Present.webp",
+      "buckets": [
+        "gems",
+        "weapons"
+      ],
+      "file": "owo_assets/3m_present.webp",
+      "mime": "image/webp",
+      "width": 64,
+      "height": 64,
+      "bytes": 3104,
+      "sha256": "8e4417769a5717a861881c4bdf936af0969e4274029fde579a06a51a347e1b19",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3A3m_Present.webp",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6b/3m_Present.webp/revision/latest?cb=20230523062806",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/3m_present.webp"
+    },
+    {
+      "title": "File:4m present.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/4m_present.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5778,
+      "sha256": "fa7976b446c2d6e72fa703fd795214c002b43110bc761da59fc82d33ab4ff4fc",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3A4m_present.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7a/4m_present.png/revision/latest?cb=20260118142653",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/4m_present.png"
+    },
+    {
+      "title": "File:725570544065445919.gif",
+      "buckets": [
+        "gems",
+        "lootbox"
+      ],
+      "file": "owo_assets/725570544065445919.gif",
+      "mime": "image/gif",
+      "width": 102,
+      "height": 102,
+      "bytes": 11358,
+      "sha256": "f5b9be4971af84289f0ad9df962c67596d0bcb9120a4322ad9558eaa1b252e47",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3A725570544065445919.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/52/Fabled_Lootbox.gif/revision/latest?cb=20201217115737",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/725570544065445919.gif"
+    },
+    {
+      "title": "File:Absolve (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/absolve_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6562,
+      "sha256": "31435c3d80327af31f53616c9cea21b09fd34fc290a51f0e326fcdaa536b94f5",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAbsolve_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6f/Absolve_%28Passive%29.png/revision/latest?cb=20191128132830",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/absolve_(passive).png"
+    },
+    {
+      "title": "File:Adaptation (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/adaptation_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 6004,
+      "sha256": "ecdca07b6adb7f133b2736134d555cb65654c3e78466df5ad42a252f08ab2bdf",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAdaptation_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/0e/Adaptation_%28Passive%29.png/revision/latest?cb=20260116231915",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/adaptation_(passive).png"
+    },
+    {
+      "title": "File:Animals (Command Group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/animals_(command_group).svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 515,
+      "sha256": "0be5e03bf83a6d8981bef07f84bfd64b54c36d34a7824b69a706891648eed9ce",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAnimals_(Command_Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/17/Animals_%28Command_Group%29.svg/revision/latest?cb=20191129215027",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/animals_(command_group).svg"
+    },
+    {
+      "title": "File:Animals.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "team",
+        "zoo"
+      ],
+      "file": "owo_assets/animals.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 42066,
+      "sha256": "df77d93df417b584e710c6c0e794618e81fa018e8da02b8675d227200bcfdb43",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAnimals.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/54/Animals.png/revision/latest?cb=20191128100233",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/animals.png"
+    },
+    {
+      "title": "File:Anniversary Present 2023.webp",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/anniversary_present_2023.webp",
+      "mime": "image/webp",
+      "width": 64,
+      "height": 64,
+      "bytes": 1864,
+      "sha256": "34d35a64b6414034fb862a0905438f44135389038a8a8f521659451afaf1ae41",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAnniversary_Present_2023.webp",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/3e/Anniversary_Present_2023.webp/revision/latest?cb=20230310093127",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/anniversary_present_2023.webp"
+    },
+    {
+      "title": "File:Arbiter's Edge.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/arbiter_s_edge.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 12122,
+      "sha256": "f0704c0b25c07106bca75cc21d7987a720bac334811095d768923f2310da6326",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AArbiter's_Edge.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e4/Arbiter%27s_Edge.png/revision/latest?cb=20260116231402",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/arbiter_s_edge.png"
+    },
+    {
+      "title": "File:Arcane Scepter.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/arcane_scepter.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7574,
+      "sha256": "befa0d50f0868217ae22731bcd3acd886f919c2ad88a71f607da6577137948b5",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AArcane_Scepter.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/0e/Arcane_Scepter.png/revision/latest?cb=20191128112425",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/arcane_scepter.png"
+    },
+    {
+      "title": "File:Attack Up+ (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/attack_up_(effect)_2.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5942,
+      "sha256": "ac567e0552fae66eeaecd38f58350700ebe10ab4f0eb24c9822f1131bd9d6218",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAttack_Up%2B_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/ee/Attack_Up%2B_%28Effect%29.png/revision/latest?cb=20191128132832",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/attack_up_(effect)_2.png"
+    },
+    {
+      "title": "File:Attack Up (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/attack_up_(effect)_3.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5520,
+      "sha256": "395c4cee47b3ae4b9557cd3150fd514d543b602fdedc1394f209e9ed0daebe59",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAttack_Up_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/96/Attack_Up_%28Effect%29.png/revision/latest?cb=20191128132831",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/attack_up_(effect)_3.png"
+    },
+    {
+      "title": "File:Attack Up++ (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/attack_up_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6478,
+      "sha256": "568d3d88f38f0b4428543a219c98c05833d26509b1c88f82073ae6f9f08bd41b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAttack_Up%2B%2B_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/96/Attack_Up%2B%2B_%28Effect%29.png/revision/latest?cb=20191128132832",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/attack_up_(effect).png"
+    },
+    {
+      "title": "File:Auto Hunting.png",
+      "buckets": [
+        "auto_hunting",
+        "hunting",
+        "manual_hunting"
+      ],
+      "file": "owo_assets/auto_hunting.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 53784,
+      "sha256": "e80ee950a4891e04f37a827e4b925ca73c53374af6c454c361e42885f2623786",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AAuto_Hunting.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/14/Auto_Hunting.png/revision/latest?cb=20191128100234",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/auto_hunting.png"
+    },
+    {
+      "title": "File:Battling.png",
+      "buckets": [
+        "battling"
+      ],
+      "file": "owo_assets/battling.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 39910,
+      "sha256": "ca5b2f3f00d095b246558148a5e775eb9543ded4eafd32119cca02debe6929d4",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABattling.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c3/Battling.png/revision/latest?cb=20191128100234",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/battling.png"
+    },
+    {
+      "title": "File:Bee.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/bee.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1768,
+      "sha256": "462a19f9db69d8938155c589be0aeed4ce3538ea734c2d3278b205c83932de3d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABee.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7d/Bee.svg/revision/latest?cb=20191128063353",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/bee.svg"
+    },
+    {
+      "title": "File:Beetle.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/beetle.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1984,
+      "sha256": "e846ca01f190e98e1e3c57d8d24b984c64f5dbb0aabad93997f10b5dd8ef3587",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABeetle.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/28/Beetle.svg/revision/latest?cb=20191128063355",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/beetle.svg"
+    },
+    {
+      "title": "File:Bleeding Gaze.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/bleeding_gaze.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 12322,
+      "sha256": "fb4546144af52974eeac579457b943a34008088fe8b599da6607ac78bd735127",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABleeding_Gaze.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/95/Bleeding_Gaze.png/revision/latest?cb=20260308062305",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/bleeding_gaze.png"
+    },
+    {
+      "title": "File:Boar.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/boar.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 45582,
+      "sha256": "4db77c15f70a08cc45688edd980f791ba9d40f53fd54214163b1e76e4663b7c7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABoar.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/56/Boar.gif/revision/latest?cb=20191128072058",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/boar.gif"
+    },
+    {
+      "title": "File:Boss Crate.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/boss_crate.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7058,
+      "sha256": "022e59a8471728fd285bdc6bf4ba6856c4e7702cbb23905e93687a98f48c494f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABoss_Crate.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/26/Boss_Crate.png/revision/latest?cb=20260119203715",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/boss_crate.png"
+    },
+    {
+      "title": "File:Bot(Tier).gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/bot(tier).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 43044,
+      "sha256": "d68fecec6eba9ae9c14b8010956c20081e8387611b1ab0bbf42f9baefa230d2d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABot(Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b0/Bot%28Tier%29.gif/revision/latest?cb=20200609131944",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/bot(tier).gif"
+    },
+    {
+      "title": "File:Bow.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/bow.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6724,
+      "sha256": "4953f77941ef5431aa3a26df8bcbf7bf808e17af6c9a6dba032553dac9c54be5",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABow.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/65/Bow.png/revision/latest?cb=20191128112426",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/bow.png"
+    },
+    {
+      "title": "File:Box open.gif",
+      "buckets": [
+        "lootbox"
+      ],
+      "file": "owo_assets/box_open.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 15264,
+      "sha256": "48d7109b32038a71fbd39499f2af15570307e691b4bd76c553e07cbf02950755",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABox_open.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d1/Box_open.gif/revision/latest?cb=20191212080939",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/box_open.gif"
+    },
+    {
+      "title": "File:Box.png",
+      "buckets": [
+        "gems",
+        "lootbox"
+      ],
+      "file": "owo_assets/box.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3824,
+      "sha256": "c0bc5e2515d6a6d7d1a4e4efe548e4a0f5330e12395ade5726107d672597df97",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABox.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/2b/Box.png/revision/latest?cb=20191130050406",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/box.png"
+    },
+    {
+      "title": "File:Briar-Heart Staff.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/briar-heart_staff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 8998,
+      "sha256": "be68d05dd02b9c27d9b5a40e138c2d1da302331dbe6a4723c74364ca12eacd91",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABriar-Heart_Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fd/Briar-Heart_Staff.png/revision/latest?cb=20260116231308",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/briar-heart_staff.png"
+    },
+    {
+      "title": "File:Bug.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/bug.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 2845,
+      "sha256": "4baa20e467a3f55ea47d4baf2520a7c9c91a9ce03ddeb9e48e4ba6f703689876",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ABug.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1d/Bug.svg/revision/latest?cb=20191128063354",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/bug.svg"
+    },
+    {
+      "title": "File:Butterfly.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/butterfly.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 5042,
+      "sha256": "6ce1f664bbdfbcf69732b00f55cc257469a26c115b8891526193e0ea837f836a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AButterfly.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f2/Butterfly.svg/revision/latest?cb=20191128063356",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/butterfly.svg"
+    },
+    {
+      "title": "File:Camel.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/camel.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 57634,
+      "sha256": "9d276bfb3020f7e73b9e5eb0b6b10d264d6a0003a02cb44334fc8f5b45efdabf",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACamel.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c9/Camel.gif/revision/latest?cb=20191128071322",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/camel.gif"
+    },
+    {
+      "title": "File:Cat.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/cat.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 2749,
+      "sha256": "d292efbd5e00fcf7c8aee855a5ec5846553236dd8e6c28777832a82fb04d578c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACat.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1c/Cat.svg/revision/latest?cb=20191128065418",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/cat.svg"
+    },
+    {
+      "title": "File:Celebration (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/celebration_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3142,
+      "sha256": "0bd16d71b42446f57f8f6a9032061933449bcae68388b796754614f0f286d14a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACelebration_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/38/Celebration_%28Effect%29.png/revision/latest?cb=20230310203529",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/celebration_(effect).png"
+    },
+    {
+      "title": "File:Chick.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/chick.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1301,
+      "sha256": "fe6ab1766371c0d585eb4c17e4638f3dcb69e761bfd91767ef31be9a60f36df0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AChick.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f9/Chick.svg/revision/latest?cb=20191128065018",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/chick.svg"
+    },
+    {
+      "title": "File:Chicken.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/chicken.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1075,
+      "sha256": "b2701807925b8f58988d75c5a1a619cc58e3b47e9fb62bdd91d2f6ff24f5f344",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AChicken.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7f/Chicken.svg/revision/latest?cb=20191128065019",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/chicken.svg"
+    },
+    {
+      "title": "File:Chipmunk.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/chipmunk.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1827,
+      "sha256": "1b2d9e432ccea3989d41fc52d731e0b0a8aefb21861313c2f7a02951d0d8426b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AChipmunk.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/84/Chipmunk.svg/revision/latest?cb=20191128065020",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/chipmunk.svg"
+    },
+    {
+      "title": "File:Common (HuntBot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "file": "owo_assets/common_(huntbot).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5634,
+      "sha256": "872bdc78187c4031ca56b741fc30e944320420d34ca4f147ac61b7c545e6aa02",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACommon_(HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/ff/Common_%28HuntBot%29.png/revision/latest?cb=20191205141408",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/common_(huntbot).png"
+    },
+    {
+      "title": "File:Common (Tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/common_(tier).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2890,
+      "sha256": "8cb74207539e6237640ff2a5402012338e1310c49c500cefb66ed61531a6e957",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACommon_(Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9b/Common_%28Tier%29.png/revision/latest?cb=20191128093522",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/common_(tier).png"
+    },
+    {
+      "title": "File:Common Weapon Frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/common_weapon_frame.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 1774,
+      "sha256": "f04874b22ac3872f381e383673693dad4ac63b8c03875266de7dfc1a59fd3e38",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACommon_Weapon_Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/ba/Common_Weapon_Frame.png/revision/latest?cb=20230525031831",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/common_weapon_frame.png"
+    },
+    {
+      "title": "File:Conduit Claw.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/conduit_claw.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 8134,
+      "sha256": "2223caf39d15c89770586ca4602064579e0082a6424a8615746561f85b3427da",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AConduit_Claw.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/af/Conduit_Claw.png/revision/latest?cb=20260309005149",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/conduit_claw.png"
+    },
+    {
+      "title": "File:Cow.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/cow.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1059,
+      "sha256": "91749a903f15edb113b92edafda8dd70f9e9bd1bee49cfb9b8bbe500a8881020",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACow.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b2/Cow.svg/revision/latest?cb=20191128065417",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/cow.svg"
+    },
+    {
+      "title": "File:Cowoncy Note.png",
+      "buckets": [
+        "animals",
+        "weapons"
+      ],
+      "file": "owo_assets/cowoncy_note.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 85,
+      "bytes": 2676,
+      "sha256": "45749854febb390fe9e6c112dfa0bf9e9967f9c0e20e9b09e8d2236477f702fd",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACowoncy_Note.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/06/Cowoncy_Note.png/revision/latest?cb=20191203153323",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/cowoncy_note.png"
+    },
+    {
+      "title": "File:Crate open.gif",
+      "buckets": [
+        "weapon_crate"
+      ],
+      "file": "owo_assets/crate_open.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 18612,
+      "sha256": "f05ae9cd33f4281d8c8aa474673be1fe004b4ce94ebb7b337f63fa7b63f849e7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACrate_open.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/79/Crate_open.gif/revision/latest?cb=20191212075444",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/crate_open.gif"
+    },
+    {
+      "title": "File:Crate.png",
+      "buckets": [
+        "weapon_crate"
+      ],
+      "file": "owo_assets/crate.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 126,
+      "bytes": 8384,
+      "sha256": "5d6f492d466855279f14b39f47e6be4d865fe7a906ca171c49e973790fcea0f7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACrate.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4f/Crate.png/revision/latest?cb=20191130050407",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/crate.png"
+    },
+    {
+      "title": "File:Critical (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/critical_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 4658,
+      "sha256": "42f1f9794f02adf1136df717ec7699c53df8a9cb738f3e7bbf48aa923d04bd25",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACritical_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/ce/Critical_%28Passive%29.png/revision/latest?cb=20191128132833",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/critical_(passive).png"
+    },
+    {
+      "title": "File:Crocodile.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/crocodile.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1201,
+      "sha256": "8acb7dfd69ceb853d57eeaaf63b2b3237ae8dfdf9d770c0637e20bb9c0331b3c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACrocodile.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f7/Crocodile.svg/revision/latest?cb=20191128065715",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/crocodile.svg"
+    },
+    {
+      "title": "File:Culling Scythe.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/culling_scythe.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6506,
+      "sha256": "1298650856ff99b9bae7ddaf6e205c83c779e24e855a111a1532901116ebdcd7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACulling_Scythe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/92/Culling_Scythe.png/revision/latest?cb=20191128112426",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/culling_scythe.png"
+    },
+    {
+      "title": "File:Custom Patreon (Tier).gif",
+      "buckets": [
+        "animals",
+        "zoo"
+      ],
+      "file": "owo_assets/custom_patreon_(tier).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 39258,
+      "sha256": "ffae9877e67a5347cb22d770469940f1fcc5dc10c87472e3127a7c41709e94a0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ACustom_Patreon_(Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4c/Custom_Patreon_%28Tier%29.gif/revision/latest?cb=20191128093722",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/custom_patreon_(tier).gif"
+    },
+    {
+      "title": "File:Deer.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/deer.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 52822,
+      "sha256": "991985e60cb8dfc2d1a5493806f8927494219ea4cc195cb0be9b4876c6120e86",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADeer.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/be/Deer.gif/revision/latest?cb=20191128071745",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/deer.gif"
+    },
+    {
+      "title": "File:Defender's Aegis.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/defender_s_aegis.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6420,
+      "sha256": "152aba6f89f8bff042daf7b5f3cab0f465910d706ad36304af6e8f973fa4fec1",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADefender's_Aegis.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/77/Defender%27s_Aegis.png/revision/latest?cb=20191128112427",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/defender_s_aegis.png"
+    },
+    {
+      "title": "File:Defense Buff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/defense_buff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 530,
+      "sha256": "6652adba6501ce64e9c3b6a3db2c233a15df1c3854de73a4cb66c8863c1fb13b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADefense_Buff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e9/Defense_Buff.png/revision/latest?cb=20260116232254",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/defense_buff.png"
+    },
+    {
+      "title": "File:Defense Up (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/defense_up_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5258,
+      "sha256": "a76d811f73f3180ae7451adb4e53555dc442230c9fa6191a33588c9c00a92314",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADefense_Up_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6e/Defense_Up_%28Effect%29.png/revision/latest?cb=20191128132833",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/defense_up_(effect).png"
+    },
+    {
+      "title": "File:DinoBot.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/dinobot.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 38354,
+      "sha256": "18998b1418616902d7bd6c61f3de03d2f326f07470eec9f90ad370bf72971f3e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADinoBot.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/82/DinoBot.gif/revision/latest?cb=20200609130740",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/dinobot.gif"
+    },
+    {
+      "title": "File:Discharge (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/discharge_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6826,
+      "sha256": "47a7497b177ca47cabe0f99e879e1ebf65745880a044740ea065574d8ab53c04",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADischarge_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b6/Discharge_%28Passive%29.png/revision/latest?cb=20191129061310",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/discharge_(passive).png"
+    },
+    {
+      "title": "File:DiscordApp Attach.png",
+      "buckets": [
+        "gems",
+        "lootbox",
+        "manual_hunting",
+        "weapon_crate"
+      ],
+      "file": "owo_assets/discordapp_attach.png",
+      "mime": "image/png",
+      "width": 26,
+      "height": 26,
+      "bytes": 312,
+      "sha256": "971f03b3fed54dbc0163d3727b9595c0c47cc600865f336190af8fa8bcea9b1c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADiscordApp_Attach.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/af/DiscordApp_Attach.png/revision/latest?cb=20191208213504",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/discordapp_attach.png"
+    },
+    {
+      "title": "File:DiscordApp Buttons.png",
+      "buckets": [
+        "gems",
+        "lootbox",
+        "manual_hunting",
+        "weapon_crate"
+      ],
+      "file": "owo_assets/discordapp_buttons.png",
+      "mime": "image/png",
+      "width": 69,
+      "height": 26,
+      "bytes": 920,
+      "sha256": "977d9be9b98f08097f79b16e5ddd4f19a99a3851225ed26eb82090dd7bed0772",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADiscordApp_Buttons.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/60/DiscordApp_Buttons.png/revision/latest?cb=20191208213547",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/discordapp_buttons.png"
+    },
+    {
+      "title": "File:Distorted (Tier).gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/distorted_(tier).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 25096,
+      "sha256": "8f4248e5aab9c411afb50661b2625db848e38fca1fde520432e13fd639f1de57",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADistorted_(Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/94/Distorted_%28Tier%29.gif/revision/latest?cb=20200709205404",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/distorted_(tier).gif"
+    },
+    {
+      "title": "File:Dog.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/dog.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 2506,
+      "sha256": "632fc09dba15d0701ede125193205b9f0968ba54927166e851a20c6f431965e2",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADog.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/89/Dog.svg/revision/latest?cb=20191128065418",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/dog.svg"
+    },
+    {
+      "title": "File:Double Strike (Passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/double_strike_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 5284,
+      "sha256": "9ab663a1804db183561ebad48e04c57015d092d3331b1a9e6df24ca338db1ffa",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADouble_Strike_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/be/Double_Strike_%28Passive%29.png/revision/latest?cb=20260308063743",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/double_strike_(passive).png"
+    },
+    {
+      "title": "File:Dove.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/dove.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1186,
+      "sha256": "c0d31764848cc9f3873efce6f159f1a917fd9540d01e396e417bad653a23c118",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADove.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/10/Dove.svg/revision/latest?cb=20191128070011",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/dove.svg"
+    },
+    {
+      "title": "File:Dragon.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/dragon.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 3370,
+      "sha256": "5ed37e8ecb5244d0866dd20e2ea3dd3b5cc0e87c5dd19ef817548ac4b7bf4e4a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ADragon.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b2/Dragon.svg/revision/latest?cb=20191128070008",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/dragon.svg"
+    },
+    {
+      "title": "File:Eagle.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/eagle.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 34408,
+      "sha256": "b2afaaaa41bfab9b601bb7a68435d7985e431b189b23020c3fccb218fc7d434f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEagle.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/0b/Eagle.gif/revision/latest?cb=20191128072100",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/eagle.gif"
+    },
+    {
+      "title": "File:Economy (Command Group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/economy_(command_group).svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1314,
+      "sha256": "100ecea07468a02c810a78e200b9e7e874d508e859d3106aa19260bebc46c88b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEconomy_(Command_Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/83/Economy_%28Command_Group%29.svg/revision/latest?cb=20191129215028",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/economy_(command_group).svg"
+    },
+    {
+      "title": "File:Elephant.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/elephant.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 997,
+      "sha256": "b23f4d2146dcf07d2dc7fc72d206788581f0ec8c5979a2704ad93d772bc83682",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AElephant.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b3/Elephant.svg/revision/latest?cb=20191128065717",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/elephant.svg"
+    },
+    {
+      "title": "File:Energize (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/energize_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3726,
+      "sha256": "89afe885546c94b73129bb52402575d572896684fe31313c0147bb9d7ba6809a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEnergize_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/5a/Energize_%28Passive%29.png/revision/latest?cb=20191128132834",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/energize_(passive).png"
+    },
+    {
+      "title": "File:Energy Staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/energy_staff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7476,
+      "sha256": "a5e442b6e49726c4fe83882edbe6a4bb8311599bd218fb965f7bf43425fef593",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEnergy_Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/74/Energy_Staff.png/revision/latest?cb=20191128112428",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/energy_staff.png"
+    },
+    {
+      "title": "File:Enrage (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/enrage_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3036,
+      "sha256": "ed1ab39d3620918f7b2ea94dabd0d2555bfdc062994ad3ddb1dffa6a153ff872",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEnrage_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9e/Enrage_%28Passive%29.png/revision/latest?cb=20191128132835",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/enrage_(passive).png"
+    },
+    {
+      "title": "File:Epic (HuntBot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "file": "owo_assets/epic_(huntbot).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5826,
+      "sha256": "d19e6ab3cb45254e0407174c180ea1d294188477d7151fc096d6cb198f875449",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEpic_(HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b9/Epic_%28HuntBot%29.png/revision/latest?cb=20191205141410",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/epic_(huntbot).png"
+    },
+    {
+      "title": "File:Epic (Tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/epic_(tier).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 4704,
+      "sha256": "c3febb6697483242c924ebebe3bb9ac07c60cf1258af4096a79dcef0c9ac0e44",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEpic_(Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b5/Epic_%28Tier%29.png/revision/latest?cb=20191128093525",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/epic_(tier).png"
+    },
+    {
+      "title": "File:Epic Weapon Frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/epic_weapon_frame.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2730,
+      "sha256": "f15877842b5f8b2cb2c9830871332955a6198fac010b1808ff4e1351d47321c5",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AEpic_Weapon_Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/eb/Epic_Weapon_Frame.png/revision/latest?cb=20191129075621",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/epic_weapon_frame.png"
+    },
+    {
+      "title": "File:Experience Points.png",
+      "buckets": [
+        "experience_points"
+      ],
+      "file": "owo_assets/experience_points.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 40186,
+      "sha256": "99f5975b918ec283d89e938966c7097039820091df7ef84faafe598e36c87185",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AExperience_Points.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/44/Experience_Points.png/revision/latest?cb=20191130211543",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/experience_points.png"
+    },
+    {
+      "title": "File:Exposed (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/exposed_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 370,
+      "sha256": "970fb652a2e1a122d330de5329b207c9daccc00a1eed555bb55d1a9b09ac4a94",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AExposed_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/68/Exposed_%28Effect%29.png/revision/latest?cb=20260308062243",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/exposed_(effect).png"
+    },
+    {
+      "title": "File:Fabled (HuntBot).gif",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "file": "owo_assets/fabled_(huntbot).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 58238,
+      "sha256": "0ce372fabf4773bdfb7a9d9228aa3bc3ae01f44c0ec37d79ba27ef41df802563",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFabled_(HuntBot).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c7/Fabled_%28HuntBot%29.gif/revision/latest?cb=20230706184711",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_(huntbot).gif"
+    },
+    {
+      "title": "File:Fabled (Tier).gif",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/fabled_(tier).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 40004,
+      "sha256": "6f32592dc98da801016db767bd24f9e8f97ce18fdd435795a071037844c3b04c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFabled_(Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/da/Fabled_%28Tier%29.gif/revision/latest?cb=20191128093723",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_(tier).gif"
+    },
+    {
+      "title": "File:Fabled lootbox open.gif",
+      "buckets": [
+        "lootbox"
+      ],
+      "file": "owo_assets/fabled_lootbox_open.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 7484,
+      "sha256": "c2407868a45d1dc85011d6018867afa7d6ab6bc5e4c404475a6e33272f1d22fe",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFabled_lootbox_open.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/43/Fabled_lootbox_open.gif/revision/latest?cb=20210408070436",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_lootbox_open.gif"
+    },
+    {
+      "title": "File:Fabled Lootbox.gif",
+      "buckets": [
+        "gems",
+        "lootbox"
+      ],
+      "file": "owo_assets/fabled_lootbox.gif",
+      "mime": "image/gif",
+      "width": 102,
+      "height": 102,
+      "bytes": 11358,
+      "sha256": "f5b9be4971af84289f0ad9df962c67596d0bcb9120a4322ad9558eaa1b252e47",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFabled_Lootbox.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/52/Fabled_Lootbox.gif/revision/latest?cb=20201217115737",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_lootbox.gif"
+    },
+    {
+      "title": "File:Fabled Weapon Frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/fabled_weapon_frame.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6400,
+      "sha256": "fb8afec3f979675a181e23f43e44d7a03cec83605a70655e4e96fa7536f0f18a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFabled_Weapon_Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/88/Fabled_Weapon_Frame.png/revision/latest?cb=20260124214223",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_weapon_frame.png"
+    },
+    {
+      "title": "File:Fish.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/fish.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 45126,
+      "sha256": "4c5a629aff9e11773dbe79fe29ae953f948f3d1605de583ee595560543ea370e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFish.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/bb/Fish.gif/revision/latest?cb=20191128071322",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fish.gif"
+    },
+    {
+      "title": "File:Flame (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/flame_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3288,
+      "sha256": "00a7e26be2a52537e65bfb24212c4b4ee9c54bd0619cfa0b0827e3912f255a26",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFlame_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/66/Flame_%28Effect%29.png/revision/latest?cb=20191128132835",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/flame_(effect).png"
+    },
+    {
+      "title": "File:Flame Staff.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/flame_staff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6796,
+      "sha256": "dab1fdfb48f0efe97da9bb4e15a01a79ebb494d28a47504d7968e66933761a51",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFlame_Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/01/Flame_Staff.png/revision/latest?cb=20191128112428",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/flame_staff.png"
+    },
+    {
+      "title": "File:Foul Fish.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/foul_fish.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 8246,
+      "sha256": "de4a8b44431bcb958b8b15f30b64f44942566597ec83f03fbc21048a0de51966",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFoul_Fish.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/35/Foul_Fish.png/revision/latest?cb=20230925170154",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/foul_fish.png"
+    },
+    {
+      "title": "File:Fox.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/fox.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 54026,
+      "sha256": "a5614d01bbc35903b1c344943fe3146f2327849cb1c94cbe1eca071e9836bcea",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFox.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/ad/Fox.gif/revision/latest?cb=20191128071745",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fox.gif"
+    },
+    {
+      "title": "File:Freeze (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/freeze_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2126,
+      "sha256": "09c01a658f1219e6e393d4cbd16f1391034187b5701b3a83c87681b4d94e651e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFreeze_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/55/Freeze_%28Effect%29.png/revision/latest?cb=20191128132836",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/freeze_(effect).png"
+    },
+    {
+      "title": "File:Frog.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/frog.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 37846,
+      "sha256": "de7540739f0d19e1cbc28b4e28d5868b171c1147bcdfa9ace99de5036bc8aac6",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFrog.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/99/Frog.gif/revision/latest?cb=20191128072101",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/frog.gif"
+    },
+    {
+      "title": "File:Frost Armor (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/frost_armor_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 4238,
+      "sha256": "7c41084b8a07ffe70170f2852b6fdb74ffa8757a80d18219b49c4522e2a86e2a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFrost_Armor_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4b/Frost_Armor_%28Passive%29.png/revision/latest?cb=20260308063755",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/frost_armor_(passive).png"
+    },
+    {
+      "title": "File:Frostbite (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/frostbite_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 4378,
+      "sha256": "872cae0cd9ffa0e679c70a0d6a61bb2f9d046deae5df711311044eb326ac0cc6",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AFrostbite_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/bc/Frostbite_%28Effect%29.png/revision/latest?cb=20260308062217",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/frostbite_(effect).png"
+    },
+    {
+      "title": "File:Gambling (Command Group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/gambling_(command_group).svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 2662,
+      "sha256": "ee7c99b0f55d18bd845daa7335f47634fbb4fcb065014089ef9386a3c06c6396",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGambling_(Command_Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/13/Gambling_%28Command_Group%29.svg/revision/latest?cb=20191129215029",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/gambling_(command_group).svg"
+    },
+    {
+      "title": "File:Gem (Tier).gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/gem_(tier).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 33066,
+      "sha256": "d08507705f1d070d39b79bdf71a9569efd1b0391da6d106f8d695837d61a3761",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGem_(Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b3/Gem_%28Tier%29.gif/revision/latest?cb=20191128093724",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/gem_(tier).gif"
+    },
+    {
+      "title": "File:Gems.png",
+      "buckets": [
+        "gems"
+      ],
+      "file": "owo_assets/gems.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 34112,
+      "sha256": "9932f982ae8f0938a3694143b80503854fbf319bc2c48de94c8d5f12d93311fb",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGems.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d5/Gems.png/revision/latest?cb=20191128100235",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/gems.png"
+    },
+    {
+      "title": "File:Generic Empowering Gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "file": "owo_assets/generic_empowering_gem.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2894,
+      "sha256": "df44a270c4543e4a426aeb1fa719c865820bccc09a1504f20f556509ca5d8252",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGeneric_Empowering_Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4b/Generic_Empowering_Gem.png/revision/latest?cb=20191128110055",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_empowering_gem.png"
+    },
+    {
+      "title": "File:Generic Hunting Gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "file": "owo_assets/generic_hunting_gem.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 1776,
+      "sha256": "a0158017e6ad0a49f92a51de66f874a2ece2c9030044f75e01a1cd586276ca83",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGeneric_Hunting_Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/da/Generic_Hunting_Gem.png/revision/latest?cb=20191128110056",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_hunting_gem.png"
+    },
+    {
+      "title": "File:Generic Lucky Gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "file": "owo_assets/generic_lucky_gem.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2944,
+      "sha256": "072ff18a1c516a8a592642be03bc73f8b168926e12b9b80292ed7bb19bb3a3c0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGeneric_Lucky_Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f4/Generic_Lucky_Gem.png/revision/latest?cb=20191128110057",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_lucky_gem.png"
+    },
+    {
+      "title": "File:Generic Special Gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "file": "owo_assets/generic_special_gem.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3960,
+      "sha256": "188f213a45c2077e5cfffac4f7ed2dc1b5fc9795ed483b4acb11998cca4ee5ad",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGeneric_Special_Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/be/Generic_Special_Gem.png/revision/latest?cb=20230525180427",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_special_gem.png"
+    },
+    {
+      "title": "File:Ghost.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/ghost.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 729,
+      "sha256": "ee4d2dd709cbc10144ebc970d0d67f011b415cd9dee8ac8676625b1336ca10a9",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGhost.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fc/Ghost.svg/revision/latest?cb=20191128070010",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/ghost.svg"
+    },
+    {
+      "title": "File:Giant Slayer (Passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/giant_slayer_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 5134,
+      "sha256": "2a4702aa65fdfdeb8cb4f7c6a5d52774a04d1aa55ece8c9ddec881fbf4ebdc00",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGiant_Slayer_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/8c/Giant_Slayer_%28Passive%29.png/revision/latest?cb=20260116231859",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/giant_slayer_(passive).png"
+    },
+    {
+      "title": "File:GiraffBot.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/giraffbot.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 44744,
+      "sha256": "0a35681e988f59b32e70d7bb4bb75c81f27c4ce828f246d44d7c525be42ffcab",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGiraffBot.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/cb/GiraffBot.gif/revision/latest?cb=20200609133504",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/giraffbot.gif"
+    },
+    {
+      "title": "File:Glacial Axe.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/glacial_axe.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 11310,
+      "sha256": "d0687441966ebd8a695415c85b0d87b7cac5e653299caab32a7a76c7b54da617",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGlacial_Axe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9c/Glacial_Axe.png/revision/latest?cb=20191128112428",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/glacial_axe.png"
+    },
+    {
+      "title": "File:Glitchflamingo.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/glitchflamingo.gif",
+      "mime": "image/gif",
+      "width": 80,
+      "height": 80,
+      "bytes": 8092,
+      "sha256": "643d2a71b828138b8a23516cecbb8a1fcd84b55c8cc82cb7ae84ab54a197fa4c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGlitchflamingo.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/16/Glitchflamingo.gif/revision/latest?cb=20200709214703",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/glitchflamingo.gif"
+    },
+    {
+      "title": "File:Glitchotter.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/glitchotter.gif",
+      "mime": "image/gif",
+      "width": 80,
+      "height": 80,
+      "bytes": 11326,
+      "sha256": "0dbeda98aefda1b3f32c963c431a84b797e8f2ded4eef698a3d1eed9e821ab53",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGlitchotter.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4a/Glitchotter.gif/revision/latest?cb=20200709214701",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/glitchotter.gif"
+    },
+    {
+      "title": "File:Glitchparrot.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/glitchparrot.gif",
+      "mime": "image/gif",
+      "width": 80,
+      "height": 80,
+      "bytes": 10326,
+      "sha256": "cfa105d59a9fc9fde3c424fe83a4b0095d7561de5e3ead949a94ad6c79093c7c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGlitchparrot.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c0/Glitchparrot.gif/revision/latest?cb=20200709214700",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/glitchparrot.gif"
+    },
+    {
+      "title": "File:Glitchraccoon.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/glitchraccoon.gif",
+      "mime": "image/gif",
+      "width": 80,
+      "height": 80,
+      "bytes": 15006,
+      "sha256": "64028c560aae79a2db5ac7dc9d0ec5230461bc79e35b12a412b4dadc72e14719",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGlitchraccoon.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6c/Glitchraccoon.gif/revision/latest?cb=20200709214702",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/glitchraccoon.gif"
+    },
+    {
+      "title": "File:GlitchZebra.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/glitchzebra.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 22904,
+      "sha256": "ee49b917af855235819a913771fe2beb52ba4557f0be1927fa2f80c3ab150dcd",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGlitchZebra.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f7/GlitchZebra.gif/revision/latest?cb=20200711163429",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/glitchzebra.gif"
+    },
+    {
+      "title": "File:Gorilla.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/gorilla.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 40950,
+      "sha256": "ae3cdf2a15f4c1aa2d3c8384cd0b35579e79eef98ee58bb6b3d98a8a295e4ee0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGorilla.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/86/Gorilla.gif/revision/latest?cb=20191128072102",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/gorilla.gif"
+    },
+    {
+      "title": "File:Great Sword.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/great_sword.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6346,
+      "sha256": "3f043a490cb7c8cb95ba1f5f0ef3f1fe97406869af3673ca35e54d77157d731e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AGreat_Sword.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/42/Great_Sword.png/revision/latest?cb=20191128112429",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/great_sword.png"
+    },
+    {
+      "title": "File:Healing Staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/healing_staff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 12350,
+      "sha256": "09dc506d28c64e0aca55f21c17012a4b2aaf361d35d8d1a4295ba9064fcd6ad1",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AHealing_Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f6/Healing_Staff.png/revision/latest?cb=20191128112430",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/healing_staff.png"
+    },
+    {
+      "title": "File:Health Point (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/health_point_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5570,
+      "sha256": "c9f1cc328d94b1ac30ded10bf962a9c573ebcfbe996c925848840d17799dd589",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AHealth_Point_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/65/Health_Point_%28Passive%29.png/revision/latest?cb=20191128132836",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/health_point_(passive).png"
+    },
+    {
+      "title": "File:Health Points.png",
+      "buckets": [
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/health_points.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 404,
+      "sha256": "ef7c38385a8abc045dce8cbf00d6bfa771ef33b3818f71bd3e5434fdaf5f57fb",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AHealth_Points.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/60/Health_Points.png/revision/latest?cb=20191128061816",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/health_points.png"
+    },
+    {
+      "title": "File:Heavy Arrow (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/heavy_arrow_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 318,
+      "sha256": "c802f7fdd4f0020653f617e68d35dad8aa6b0a859f26f67c852690d3eabda261",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AHeavy_Arrow_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/01/Heavy_Arrow_%28Effect%29.png/revision/latest?cb=20260308062230",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/heavy_arrow_(effect).png"
+    },
+    {
+      "title": "File:HedgeBot.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/hedgebot.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 158016,
+      "sha256": "62d93347c3640f7ce29f57845085c7a05e78d7cda5768ca167b403ad8843072d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AHedgeBot.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/28/HedgeBot.gif/revision/latest?cb=20200611123045",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/hedgebot.gif"
+    },
+    {
+      "title": "File:Hidden (Tier).gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/hidden_(tier).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 32726,
+      "sha256": "74513a0c5ecafce3517cbaf650f9683a6bd1b701c5ce48dd0470e8494cd5706b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AHidden_(Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/8b/Hidden_%28Tier%29.gif/revision/latest?cb=20191128093724",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/hidden_(tier).gif"
+    },
+    {
+      "title": "File:Hunting.png",
+      "buckets": [
+        "auto_hunting",
+        "hunting",
+        "manual_hunting"
+      ],
+      "file": "owo_assets/hunting.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 53428,
+      "sha256": "0cb997d16cb956c9b7335fce006e37afbd55d78c3c0ef988dc462bd4886512c2",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AHunting.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/39/Hunting.png/revision/latest?cb=20191128100236",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/hunting.png"
+    },
+    {
+      "title": "File:Kamikaze (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/kamikaze_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6864,
+      "sha256": "5f5669b0da8f90cc15654e7cb3494a5c2b0cdb296048baa9995df4cc239f2741",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AKamikaze_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/69/Kamikaze_%28Passive%29.png/revision/latest?cb=20191128132837",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/kamikaze_(passive).png"
+    },
+    {
+      "title": "File:Knowledge (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/knowledge_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 3454,
+      "sha256": "f0a8a874dc422895a9a4048d0ebb7a1ccc0238ccc9a70c825120fa833893545a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AKnowledge_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4b/Knowledge_%28Passive%29.png/revision/latest?cb=20230925165208",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/knowledge_(passive).png"
+    },
+    {
+      "title": "File:Koala.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/koala.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 28520,
+      "sha256": "72208d213579cc33950d6fed07d69f52c82bdae596512be89f4dfc69eabfab90",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AKoala.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c4/Koala.gif/revision/latest?cb=20191128072345",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/koala.gif"
+    },
+    {
+      "title": "File:Leech (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/leech_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3438,
+      "sha256": "74de76bf291df39e9cead026cf0f9c5dec59472343412f62157006a8b93377fd",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALeech_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c6/Leech_%28Effect%29.png/revision/latest?cb=20230525031041",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/leech_(effect).png"
+    },
+    {
+      "title": "File:Leeching Scythe.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/leeching_scythe.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 9536,
+      "sha256": "24596f6f2b017a3fa83f710c70bb55daf9ac043706c62921ba8cd4490706f9b1",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALeeching_Scythe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b2/Leeching_Scythe.png/revision/latest?cb=20230524072800",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/leeching_scythe.png"
+    },
+    {
+      "title": "File:Legendary (HuntBot).gif",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "file": "owo_assets/legendary_(huntbot).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 83704,
+      "sha256": "32adc9fb898a05957936e9e8884b3871f8c5d85eee425a6a49033d7ce04b6c2c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALegendary_(HuntBot).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/29/Legendary_%28HuntBot%29.gif/revision/latest?cb=20191205141541",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/legendary_(huntbot).gif"
+    },
+    {
+      "title": "File:Legendary (Tier).gif",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/legendary_(tier).gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 19206,
+      "sha256": "d63fa91858faaf6713837ff5a7404b0e98706dba2f35d54333a40b8950e9009d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALegendary_(Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/2c/Legendary_%28Tier%29.gif/revision/latest?cb=20191128093725",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/legendary_(tier).gif"
+    },
+    {
+      "title": "File:Legendary Weapon Frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/legendary_weapon_frame.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5452,
+      "sha256": "ee694ed5e714e03c510a7258e3ad3487b3843611aa22f7c141c00a5d8e8753d1",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALegendary_Weapon_Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a5/Legendary_Weapon_Frame.png/revision/latest?cb=20191129075622",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/legendary_weapon_frame.png"
+    },
+    {
+      "title": "File:Lifesteal (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/lifesteal_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 4592,
+      "sha256": "73d700bb9583f895d445a9476ec18acce50012ccfe8973a5b0e74a6b5f7d081d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALifesteal_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f8/Lifesteal_%28Passive%29.png/revision/latest?cb=20191128132838",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lifesteal_(passive).png"
+    },
+    {
+      "title": "File:Lion.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/lion.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 66654,
+      "sha256": "9aa08dd922403f8d17b47096f5562ba193cb132b88dc1247f7b6133ec238c357",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALion.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/07/Lion.gif/revision/latest?cb=20191128071746",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lion.gif"
+    },
+    {
+      "title": "File:Living Hive (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/living_hive_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 7046,
+      "sha256": "0f488e274fcc291dddaad3c3b72f23ca0c448ed148a4d30ae7a3941550d0560e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALiving_Hive_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e0/Living_Hive_%28Passive%29.png/revision/latest?cb=20260116231938",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/living_hive_(passive).png"
+    },
+    {
+      "title": "File:Lizard.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/lizard.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 28528,
+      "sha256": "e8dcfeb043716a92a01d7dae3a4882b9ad4f6e8c4a4dce68f1b0038d9afac767",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALizard.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/15/Lizard.gif/revision/latest?cb=20191128072346",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lizard.gif"
+    },
+    {
+      "title": "File:LobBot.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/lobbot.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 72808,
+      "sha256": "c8a8825e791d2b5dd802a5a115d5e531c3241cd117dc09d396bc304a9755179a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALobBot.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/27/LobBot.gif/revision/latest?cb=20200615075556",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lobbot.gif"
+    },
+    {
+      "title": "File:Lone Wolf (Passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/lone_wolf_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 4794,
+      "sha256": "99d88693747d9db473e35db3ee2a6ee86d55ef7238c8551743cf24f19567a351",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALone_Wolf_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7f/Lone_Wolf_%28Passive%29.png/revision/latest?cb=20260308063748",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lone_wolf_(passive).png"
+    },
+    {
+      "title": "File:Lootbox.png",
+      "buckets": [
+        "lootbox"
+      ],
+      "file": "owo_assets/lootbox.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 38902,
+      "sha256": "beb39c496a14701dad3fa6618c120cce99936760879e75eade5ce40f8055c47f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ALootbox.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/38/Lootbox.png/revision/latest?cb=20191128100237",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lootbox.png"
+    },
+    {
+      "title": "File:Magic (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/magic_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5640,
+      "sha256": "257d206e3460d5064b34eb4b6ed4bbd77b7b6156b0e6a700e4a6d954ed94a98e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMagic_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/93/Magic_%28Passive%29.png/revision/latest?cb=20191128132838",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magic_(passive).png"
+    },
+    {
+      "title": "File:Magic Resistance (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/magic_resistance_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6112,
+      "sha256": "a0f905e5561a9da78fba0f4c957970dfcf6837b7aae57938ec167ff33c2bda6b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMagic_Resistance_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c1/Magic_Resistance_%28Passive%29.png/revision/latest?cb=20191128132839",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magic_resistance_(passive).png"
+    },
+    {
+      "title": "File:Magical Attack.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/magical_attack.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 552,
+      "sha256": "5fe4d60aff396a4a4cd2ebc9182543e5818bf51de7842515f0be824fbf1f11db",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMagical_Attack.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c4/Magical_Attack.png/revision/latest?cb=20191128061816",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magical_attack.png"
+    },
+    {
+      "title": "File:Magical Resistance.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/magical_resistance.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 636,
+      "sha256": "46ae785f244149eca0997f8b6fa48d92156fe9f133d42807157e01c41a8babbb",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMagical_Resistance.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e4/Magical_Resistance.png/revision/latest?cb=20191128061817",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magical_resistance.png"
+    },
+    {
+      "title": "File:Mana Tap (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/mana_tap_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6146,
+      "sha256": "744bb15f61d30ff82039994293f878349696a06200d934187bb4a7ab05cd538d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMana_Tap_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d2/Mana_Tap_%28Passive%29.png/revision/latest?cb=20191128132839",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mana_tap_(passive).png"
+    },
+    {
+      "title": "File:Manual Hunting.png",
+      "buckets": [
+        "auto_hunting",
+        "hunting",
+        "manual_hunting"
+      ],
+      "file": "owo_assets/manual_hunting.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 40402,
+      "sha256": "00d8256ad65cb93115891b8fd613c68271cd35e2f52d108ce787c07d88685d37",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AManual_Hunting.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6d/Manual_Hunting.png/revision/latest?cb=20191128100237",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/manual_hunting.png"
+    },
+    {
+      "title": "File:Monkey.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/monkey.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 36552,
+      "sha256": "4e06cc990e06675d3abf67fa2a36e149635f31cecf8dfeb69ff937ad7c5b46ec",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMonkey.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/46/Monkey.gif/revision/latest?cb=20191128072346",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/monkey.gif"
+    },
+    {
+      "title": "File:Mortality (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/mortality_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3042,
+      "sha256": "943e8a047c222628350ed4d3da14878fd9182bb65e162da7dc1b4da3b72ed6b0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMortality_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/13/Mortality_%28Effect%29.png/revision/latest?cb=20191128132840",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mortality_(effect).png"
+    },
+    {
+      "title": "File:Mouse.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/mouse.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 980,
+      "sha256": "e92c81d0ebb0224b43a552386602d8a41dc3e6220514b4d365495025bdedfbf0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMouse.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f1/Mouse.svg/revision/latest?cb=20191128065019",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mouse.svg"
+    },
+    {
+      "title": "File:Mythical (HuntBot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "file": "owo_assets/mythical_(huntbot).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5870,
+      "sha256": "4b23ca017e91a9c5a091b7def58403503a37912d93eec0f1bd8a1f6165b954b0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMythical_(HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d8/Mythical_%28HuntBot%29.png/revision/latest?cb=20191205141411",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mythical_(huntbot).png"
+    },
+    {
+      "title": "File:Mythical (Tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/mythical_(tier).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5098,
+      "sha256": "35fae4d9fbde510c88287880ef5ba4d22646e718ad318ebbeea87aa0c1a38885",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMythical_(Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7b/Mythical_%28Tier%29.png/revision/latest?cb=20191128093526",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mythical_(tier).png"
+    },
+    {
+      "title": "File:Mythical Weapon Frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/mythical_weapon_frame.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 4714,
+      "sha256": "e13d8bb5cc083bf9df13f8f563b8628dfbb706c8831e9e5b05d0111ed6f0e5eb",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AMythical_Weapon_Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fc/Mythical_Weapon_Frame.png/revision/latest?cb=20191129075622",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mythical_weapon_frame.png"
+    },
+    {
+      "title": "File:Octopus.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/octopus.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 36348,
+      "sha256": "202ac63c24751bf448c7d9a254102b6a70383909df0aee06c36eaf0a5216c608",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AOctopus.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/5d/Octopus.gif/revision/latest?cb=20191128072347",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/octopus.gif"
+    },
+    {
+      "title": "File:Orb of Potency.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/orb_of_potency.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 9746,
+      "sha256": "6f4aa0d4845f90e54a29973e3f7fb5c15d1e5fc50c4f050184962df6208897aa",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AOrb_of_Potency.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1c/Orb_of_Potency.png/revision/latest?cb=20191128112430",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/orb_of_potency.png"
+    },
+    {
+      "title": "File:Owl.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/owl.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 63870,
+      "sha256": "ccd45e3ca1b99bf0c8894f60c39976023e4fd101a599e6a7de0185545338e133",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AOwl.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d2/Owl.gif/revision/latest?cb=20191128071747",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/owl.gif"
+    },
+    {
+      "title": "File:Owoplayer's pets.png",
+      "buckets": [
+        "pets"
+      ],
+      "file": "owo_assets/owoplayer_s_pets.png",
+      "mime": "image/png",
+      "width": 520,
+      "height": 527,
+      "bytes": 33180,
+      "sha256": "93cb14d3858e03041d447a527f4e27fe97a6731e32f5bc805496f7a4f457fc8f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AOwoplayer's_pets.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/55/Owoplayer%27s_pets.png/revision/latest?cb=20191205021435",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/owoplayer_s_pets.png"
+    },
+    {
+      "title": "File:Panda.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/panda.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 61820,
+      "sha256": "0cceea004c1d14866871b31d5b5b69945e93fd1b9e8a97e411f05710a9d8944e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APanda.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/64/Panda.gif/revision/latest?cb=20191128071259",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/panda.gif"
+    },
+    {
+      "title": "File:Patreon (Tier).png",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/patreon_(tier).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 122,
+      "bytes": 2226,
+      "sha256": "7fc3363f2d22c15a97d54eb305a5ad074c49578533827a436a31d36628077f8b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APatreon_(Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6d/Patreon_%28Tier%29.png/revision/latest?cb=20191128093526",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/patreon_(tier).png"
+    },
+    {
+      "title": "File:Pbird.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/pbird.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6108,
+      "sha256": "81f696c517ea89ccf34d8d8f49ab4e617f5d201f49e39fd5d005afb4ffb1230b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APbird.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/46/Pbird.png/revision/latest?cb=20191128070450",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pbird.png"
+    },
+    {
+      "title": "File:Pdolphin.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/pdolphin.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6230,
+      "sha256": "284f6d0a20ece9012e177c6e6ae0cadabde918d2fa06e02fb03eb8e99895cf8c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APdolphin.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/10/Pdolphin.png/revision/latest?cb=20191128070453",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pdolphin.png"
+    },
+    {
+      "title": "File:Penguin.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/penguin.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1254,
+      "sha256": "68dc119e054a8660c1d0e7ee999b649be22309e050a7f68ba9458f36eb2db489",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APenguin.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/25/Penguin.svg/revision/latest?cb=20191128065717",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/penguin.svg"
+    },
+    {
+      "title": "File:Pest (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/pest_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2410,
+      "sha256": "512226563d0b0333b699304accf94c8729a983c0d8f669b70800fa35310345ba",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APest_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/aa/Pest_%28Effect%29.png/revision/latest?cb=20260116232119",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pest_(effect).png"
+    },
+    {
+      "title": "File:Pets.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "team"
+      ],
+      "file": "owo_assets/pets.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 44236,
+      "sha256": "6eae6c4de5f52c8c01a5d14a21af281f5b3054bfd65d5403cd0b80c1114ab78b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APets.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f1/Pets.png/revision/latest?cb=20191128100238",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pets.png"
+    },
+    {
+      "title": "File:Physical Attack.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/physical_attack.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 340,
+      "sha256": "871d18a025d8f4917c518a40e6f2b4441847c776f237f2586769bba6ace4972f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APhysical_Attack.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/94/Physical_Attack.png/revision/latest?cb=20191128061817",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/physical_attack.png"
+    },
+    {
+      "title": "File:Physical Resistance (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/physical_resistance_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6574,
+      "sha256": "05adc4f8f70c3a871c5ea73b1fac383709e1b0443c27fa0d766ca7d0c52da25f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APhysical_Resistance_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d6/Physical_Resistance_%28Passive%29.png/revision/latest?cb=20191128132840",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/physical_resistance_(passive).png"
+    },
+    {
+      "title": "File:Physical Resistance.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/physical_resistance.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 412,
+      "sha256": "ca02c4eb49ab4e82bd6ad37bbb7fd7acff528b35f90058c57d7b37030e7b8b32",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APhysical_Resistance.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/24/Physical_Resistance.png/revision/latest?cb=20191128061818",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/physical_resistance.png"
+    },
+    {
+      "title": "File:Pig.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/pig.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 926,
+      "sha256": "0ff3bbb78d83d494ac21abbc63e95f1db5ea594c82f8efe4e3b08cf85d104642",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APig.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c7/Pig.svg/revision/latest?cb=20191128065417",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pig.svg"
+    },
+    {
+      "title": "File:Pogre.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/pogre.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7450,
+      "sha256": "3ffb1bf7c4a24a8cc2c914b5404cf7b00db7215bef72918cd3b9b0e23a4cda65",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APogre.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/5c/Pogre.png/revision/latest?cb=20191128070455",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pogre.png"
+    },
+    {
+      "title": "File:Poison (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/poison_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3010,
+      "sha256": "d2dd557196ed8b8d345150be6e5d070c620b1170a68af26cf7d8341b0563888b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APoison_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f7/Poison_%28Effect%29.png/revision/latest?cb=20191128132841",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/poison_(effect).png"
+    },
+    {
+      "title": "File:Poison Dagger.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/poison_dagger.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7286,
+      "sha256": "d5dd7c0a7ef69a4facb4806adfbdfdb3c31d648ee1c06dcbfb6f892f2f2ede47",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APoison_Dagger.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7a/Poison_Dagger.png/revision/latest?cb=20191128112431",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/poison_dagger.png"
+    },
+    {
+      "title": "File:Pscorpion.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/pscorpion.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 8574,
+      "sha256": "ae5d7428ab79e182b1863f23eaa08cbbfc5af707497cef31501dfc5bf63c6b84",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APscorpion.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/25/Pscorpion.png/revision/latest?cb=20191128070459",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pscorpion.png"
+    },
+    {
+      "title": "File:Ptiger.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/ptiger.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7620,
+      "sha256": "26f28b1d4f97d4dc40f4c7e4d4fdf5ad069f0d39074ef5ded5d0d73866288ed0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3APtiger.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/83/Ptiger.png/revision/latest?cb=20191128070502",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/ptiger.png"
+    },
+    {
+      "title": "File:Rabbit.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/rabbit.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1222,
+      "sha256": "3d1e7029bea8b6cf2d550d4810e5ce11c1f50d8df1c22a45c9e0dff8e9694db3",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARabbit.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/24/Rabbit.svg/revision/latest?cb=20191128065020",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rabbit.svg"
+    },
+    {
+      "title": "File:Rare (HuntBot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "file": "owo_assets/rare_(huntbot).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5652,
+      "sha256": "56b1d7ef8e6d6e4db1bd17fd79ab3d874a735bc24b72452f7ae6655619b23a83",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARare_(HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/5a/Rare_%28HuntBot%29.png/revision/latest?cb=20191205141409",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rare_(huntbot).png"
+    },
+    {
+      "title": "File:Rare (Tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/rare_(tier).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3868,
+      "sha256": "2a0383eec6771ed6bfec3b2e49ed3cc65bd869cf704ea349b85ed162397a51b7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARare_(Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6a/Rare_%28Tier%29.png/revision/latest?cb=20191128093525",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rare_(tier).png"
+    },
+    {
+      "title": "File:Rare Weapon Frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/rare_weapon_frame.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 1056,
+      "sha256": "e7873c075f58be33b3c7b424a07d3d063abf9d17e608d95201f900922b8cd69a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARare_Weapon_Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/aa/Rare_Weapon_Frame.png/revision/latest?cb=20191129075621",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rare_weapon_frame.png"
+    },
+    {
+      "title": "File:Regeneration (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/regeneration_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3806,
+      "sha256": "0f047c9244e080a1d4682aec2b3ecc56e087619b1716e9f766a165f8aea47917",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARegeneration_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1e/Regeneration_%28Passive%29.png/revision/latest?cb=20191128132841",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/regeneration_(passive).png"
+    },
+    {
+      "title": "File:Resonance (Passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/resonance_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 6484,
+      "sha256": "6230733d2d0c3ec98a4d6311a4b63d579967ec25164e6a8306d99e31700a3827",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AResonance_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/50/Resonance_%28Passive%29.png/revision/latest?cb=20260116231924",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/resonance_(passive).png"
+    },
+    {
+      "title": "File:Resurrection Staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/resurrection_staff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7676,
+      "sha256": "9e16e817f1cd85f69d3da89dd6342e2e7c471253478a8da0015198c73e61472c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AResurrection_Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/ef/Resurrection_Staff.png/revision/latest?cb=20191128112431",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/resurrection_staff.png"
+    },
+    {
+      "title": "File:Rune of Celebration.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/rune_of_celebration.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 13974,
+      "sha256": "5970e6ff986cca3994abf11637808a1e84430c9c3789ed9e3ba1420cff1d6c3f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARune_of_Celebration.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fc/Rune_of_Celebration.png/revision/latest?cb=20230310223445",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rune_of_celebration.png"
+    },
+    {
+      "title": "File:Rune of Luck.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/rune_of_luck.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 9512,
+      "sha256": "fea69c3e14ca5d5382012c473290ea78bb55cc6c24995c00c8ec97fb1643f3d0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARune_of_Luck.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/38/Rune_of_Luck.png/revision/latest?cb=20240404162120",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rune_of_luck.png"
+    },
+    {
+      "title": "File:Rune of the Forgotten.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/rune_of_the_forgotten.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 9096,
+      "sha256": "712dbd8be499065c113a9263560221b26abc382d5342cffcb9c9b59e8201305b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ARune_of_the_Forgotten.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/66/Rune_of_the_Forgotten.png/revision/latest?cb=20191128112432",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rune_of_the_forgotten.png"
+    },
+    {
+      "title": "File:Sacred Ward (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/sacred_ward_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3746,
+      "sha256": "50605ce66692e1b18b31c7b6329c2ae29c39d9a30f3ab44bc72d38afb22a3671",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASacred_Ward_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1e/Sacred_Ward_%28Effect%29.png/revision/latest?cb=20260308061137",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sacred_ward_(effect).png"
+    },
+    {
+      "title": "File:Sacrifice (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/sacrifice_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 3536,
+      "sha256": "0432118d4084bc3d110f4b9f2bc02f53ae90fade38d2c6215babaf0db51664cf",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASacrifice_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/3c/Sacrifice_%28Passive%29.png/revision/latest?cb=20230525030523",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sacrifice_(passive).png"
+    },
+    {
+      "title": "File:Safeguard (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/safeguard_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 8634,
+      "sha256": "24f1d0ea2cad8192519bdb723424cae79f737b733c0c70169e8d5c5ba5d6c620",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASafeguard_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/dc/Safeguard_%28Passive%29.png/revision/latest?cb=20191128132953",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/safeguard_(passive).png"
+    },
+    {
+      "title": "File:Shards.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/shards.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7480,
+      "sha256": "38d30a564c58e78199bebd0da4f85b7d665cebbf12692d6de9e77b1e0c218d69",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AShards.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/84/Shards.png/revision/latest?cb=20200102064826",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/shards.png"
+    },
+    {
+      "title": "File:Sheep.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/sheep.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1101,
+      "sha256": "23d57bfbd45dd5c58a6762db275b4eade1a98b613b34f04877128ad2dfecf36b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASheep.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e3/Sheep.svg/revision/latest?cb=20191128065416",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sheep.svg"
+    },
+    {
+      "title": "File:Shrimp.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/shrimp.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 58004,
+      "sha256": "018f9ebaa72267fe480df18f8d94130444b42fb3ee5ee3abf9c8fbb765b28d68",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AShrimp.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/8c/Shrimp.gif/revision/latest?cb=20191128071323",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/shrimp.gif"
+    },
+    {
+      "title": "File:Sin (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/sin_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3512,
+      "sha256": "575d4928720b1061baf71eeeb1ba46c0a34d40ff8dcaacb2645be2b5d696055d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASin_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/50/Sin_%28Effect%29.png/revision/latest?cb=20260116232238",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sin_(effect).png"
+    },
+    {
+      "title": "File:SlothBot.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/slothbot.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 125664,
+      "sha256": "2019e873fe6fb4e8af5c40fc88839ec7dfe142db676a3ba612c46d364aa1e396",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASlothBot.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a1/SlothBot.gif/revision/latest?cb=20200610051341",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/slothbot.gif"
+    },
+    {
+      "title": "File:Snail (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/snail_(passive).png",
+      "mime": "image/png",
+      "width": 102,
+      "height": 102,
+      "bytes": 7640,
+      "sha256": "5009e1f921fb39f30c46ed2b09f6df5caf0a7467089daf547ada47580425f0fe",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASnail_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/cd/Snail_%28Passive%29.png/revision/latest?cb=20230525030803",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/snail_(passive).png"
+    },
+    {
+      "title": "File:Snail.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/snail.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1364,
+      "sha256": "2ea85c06c823529e21d018820d1b1326eb7ae30d118a7f252fb35315e3e512a1",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASnail.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/3e/Snail.svg/revision/latest?cb=20191128063355",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/snail.svg"
+    },
+    {
+      "title": "File:Snake.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/snake.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 28246,
+      "sha256": "e594cf53ebd07fe248fa7f295f748be18dcb687050c204edb177ba871a9f7093",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASnake.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/32/Snake.gif/revision/latest?cb=20191128072446",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/snake.gif"
+    },
+    {
+      "title": "File:Snowman.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/snowman.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 4477,
+      "sha256": "d40019c2eda658f9f65adf6efd3e7b44e793bab8ae73b5893aa3a7e3f2a2a642",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASnowman.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fd/Snowman.svg/revision/latest?cb=20191128070010",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/snowman.svg"
+    },
+    {
+      "title": "File:Social (Command Group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/social_(command_group).svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1680,
+      "sha256": "710953dd3f2ca45b4e9811de75d555f2ea9289df8c2e029c32fb17fb8a68acba",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASocial_(Command_Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/af/Social_%28Command_Group%29.svg/revision/latest?cb=20191129215031",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/social_(command_group).svg"
+    },
+    {
+      "title": "File:Soul Tithe.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/soul_tithe.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 8620,
+      "sha256": "efea28055f3c1c80b397c033bfd72b2396acb8467212006a5cee1347314ae46b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASoul_Tithe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9a/Soul_Tithe.png/revision/latest?cb=20260116231243",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/soul_tithe.png"
+    },
+    {
+      "title": "File:Special (Tier).png",
+      "buckets": [
+        "animals",
+        "zoo"
+      ],
+      "file": "owo_assets/special_(tier).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6544,
+      "sha256": "855bd3286f69444207fa5fa8ed781f510ed75b816011d0f044af7283550a6bbd",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASpecial_(Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c0/Special_%28Tier%29.png/revision/latest?cb=20191128093527",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/special_(tier).png"
+    },
+    {
+      "title": "File:Spellskin (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/spellskin_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2636,
+      "sha256": "5d84b1f51922d2a3694c4a6df82d3d410f8119fc24dd215849960006e5ab797f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASpellskin_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c1/Spellskin_%28Effect%29.png/revision/latest?cb=20260116232033",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/spellskin_(effect).png"
+    },
+    {
+      "title": "File:Spider.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/spider.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 51468,
+      "sha256": "08c929008feae2125c18b8379b1a843565568fea08f62b3f411c828ce976412f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASpider.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9f/Spider.gif/revision/latest?cb=20191128071300",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/spider.gif"
+    },
+    {
+      "title": "File:Spirit Staff.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/spirit_staff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 9306,
+      "sha256": "7642bc59957a234d0ca4bb3434f1bc21c29b606d30459307c268f80c17f28933",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASpirit_Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/df/Spirit_Staff.png/revision/latest?cb=20191128112432",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/spirit_staff.png"
+    },
+    {
+      "title": "File:Sprout (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/sprout_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5448,
+      "sha256": "d8c53ed9af33e97a9e73b54239e4b86326919556616cec196f2a907219b250d9",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASprout_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/35/Sprout_%28Passive%29.png/revision/latest?cb=20191128132953",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sprout_(passive).png"
+    },
+    {
+      "title": "File:Squid.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/squid.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 44454,
+      "sha256": "b000129ed9133964ca6176bf871bf6f5a6ef1661a9a8fe993670f3a9a0000e10",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ASquid.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/ce/Squid.gif/revision/latest?cb=20191128071747",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/squid.gif"
+    },
+    {
+      "title": "File:Stack Limit.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/stack_limit.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 550,
+      "sha256": "66cc693579d59d043648dee899c463dc786d163fafacd94e851d658d5059bc57",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStack_Limit.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4f/Stack_Limit.png/revision/latest?cb=20260116232323",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stack_limit.png"
+    },
+    {
+      "title": "File:Staff of Corruption.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/staff_of_corruption.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 9380,
+      "sha256": "bf69166828a76c5f79c85b147c02db15bd44d98ea3a87496076230e0860b1d69",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStaff_of_Corruption.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d9/Staff_of_Corruption.png/revision/latest?cb=20260116231219",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/staff_of_corruption.png"
+    },
+    {
+      "title": "File:Staff of Purity.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/staff_of_purity.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7894,
+      "sha256": "db2ecd31977175a8b1fd9206a9e27a3a1f9133524f8ba72715bf6c5964f4ecb4",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStaff_of_Purity.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b1/Staff_of_Purity.png/revision/latest?cb=20230310223250",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/staff_of_purity.png"
+    },
+    {
+      "title": "File:Stats.png",
+      "buckets": [
+        "stats"
+      ],
+      "file": "owo_assets/stats.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 25600,
+      "sha256": "26842ae1a7a2f587f55bb5d6a8e8da5dd556bdeaf192517110dac22a5735017e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStats.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/aa/Stats.png/revision/latest?cb=20191130032141",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stats.png"
+    },
+    {
+      "title": "File:Status Effects.png",
+      "buckets": [
+        "status_effects"
+      ],
+      "file": "owo_assets/status_effects.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 46262,
+      "sha256": "05183cd7ee8e499bf8e30e4bec5a2924febe53debd7d3a191a07222b45352428",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStatus_Effects.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/31/Status_Effects.png/revision/latest?cb=20191128100239",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/status_effects.png"
+    },
+    {
+      "title": "File:Stinky (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/stinky_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3178,
+      "sha256": "52cef4680be50926383e2e92b27dea80492d9fbe03fe71b4f0fe04d109952516",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStinky_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d5/Stinky_%28Effect%29.png/revision/latest?cb=20230925185456",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stinky_(effect).png"
+    },
+    {
+      "title": "File:Stoneskin (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/stoneskin_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2446,
+      "sha256": "0a7bc6efd4cf07c4ae557037f0ba6c2606fbada403aa92fbef4d61acf73bba6d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStoneskin_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1f/Stoneskin_%28Effect%29.png/revision/latest?cb=20260116232025",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stoneskin_(effect).png"
+    },
+    {
+      "title": "File:Strength (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/strength_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3660,
+      "sha256": "41ea854eae648310fd22710c7d0afa9d1870e747265b48484868ccb7d8f3fb79",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AStrength_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/63/Strength_%28Passive%29.png/revision/latest?cb=20191128132954",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/strength_(passive).png"
+    },
+    {
+      "title": "File:Taunt (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/taunt_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3522,
+      "sha256": "b9bc5076af824c12c0b70a53fdac500f9b453bbd7241224e1fe81d408811672f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ATaunt_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/06/Taunt_%28Effect%29.png/revision/latest?cb=20191128132954",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/taunt_(effect).png"
+    },
+    {
+      "title": "File:Team.png",
+      "buckets": [
+        "animals",
+        "pets",
+        "team"
+      ],
+      "file": "owo_assets/team.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 41252,
+      "sha256": "710c9bc96da788804f7745b178f3d131d74649b9d60a5a876fc58110775766ad",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ATeam.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/32/Team.png/revision/latest?cb=20210901004647",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/team.png"
+    },
+    {
+      "title": "File:Thorn Tether (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/thorn_tether_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 512,
+      "sha256": "56dd653fc8476334e3870d418efaa76a2a4b761e244569643d4e8452db4af682",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AThorn_Tether_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f2/Thorn_Tether_%28Effect%29.png/revision/latest?cb=20260116232150",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/thorn_tether_(effect).png"
+    },
+    {
+      "title": "File:Thorns (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/thorns_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6212,
+      "sha256": "edde0e05e4933c18d621ff5885866f3a520ceb377acf703880b03afece06fb50",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AThorns_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/2b/Thorns_%28Passive%29.png/revision/latest?cb=20191128132955",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/thorns_(passive).png"
+    },
+    {
+      "title": "File:Tiger.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/tiger.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 1388,
+      "sha256": "99e45ff69c027c505be5bd26a3ec6159505a880686f040ccabe9ede004a748ee",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3ATiger.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e3/Tiger.svg/revision/latest?cb=20191128065716",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/tiger.svg"
+    },
+    {
+      "title": "File:Uncommon (HuntBot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "file": "owo_assets/uncommon_(huntbot).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 5824,
+      "sha256": "ca5549c0e8d4192fa599c7b658d2a80a6883ff3d94197768d3500e8f3e6fe267",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AUncommon_(HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/ab/Uncommon_%28HuntBot%29.png/revision/latest?cb=20191205141409",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/uncommon_(huntbot).png"
+    },
+    {
+      "title": "File:Uncommon (Tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/uncommon_(tier).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2880,
+      "sha256": "32859543f89b7bf637617ccdcfe062aca08e4a035414017db0b0303d117ed11b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AUncommon_(Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1b/Uncommon_%28Tier%29.png/revision/latest?cb=20191128093524",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/uncommon_(tier).png"
+    },
+    {
+      "title": "File:Uncommon Weapon Frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/uncommon_weapon_frame.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 1894,
+      "sha256": "690c64a02d4a364b4278c82fc10994c9c2506bb25bbcec94707f6140b3d52e4a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AUncommon_Weapon_Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/ed/Uncommon_Weapon_Frame.png/revision/latest?cb=20191129075620",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/uncommon_weapon_frame.png"
+    },
+    {
+      "title": "File:Unicorn.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/unicorn.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 2417,
+      "sha256": "6063b1ca7021881784eb5a8110997357026fb7376785e639850335a9c422a639",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AUnicorn.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/3e/Unicorn.svg/revision/latest?cb=20191128070009",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/unicorn.svg"
+    },
+    {
+      "title": "File:Unique Passive.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/unique_passive.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 162,
+      "sha256": "64bbff0c204fe5ffb004d56fca3ddf7a9c8b587cea028ddd9d7a128701a79565",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AUnique_Passive.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/20/Unique_Passive.png/revision/latest?cb=20260308062256",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/unique_passive.png"
+    },
+    {
+      "title": "File:Utility (Command Group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/utility_(command_group).svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 627,
+      "sha256": "9d3b87b8bac215e98d1cb01aedff1a29801e2f174b8b9fc3ca08a455fa270986",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AUtility_(Command_Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/07/Utility_%28Command_Group%29.svg/revision/latest?cb=20191129215031",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/utility_(command_group).svg"
+    },
+    {
+      "title": "File:Vampiric Staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/vampiric_staff.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6376,
+      "sha256": "2d98aa599e03c339a86dc69ca321bfb92369f7a1ba42c195b0dfecbc69383420",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AVampiric_Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b5/Vampiric_Staff.png/revision/latest?cb=20191128112433",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/vampiric_staff.png"
+    },
+    {
+      "title": "File:Vanguard's Banner.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/vanguard_s_banner.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 8362,
+      "sha256": "3351ab40d742fc3c82552bd1c0dc422674272b3045b1efa1f1d3e8f6049637d3",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AVanguard's_Banner.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/32/Vanguard%27s_Banner.png/revision/latest?cb=20191128112433",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/vanguard_s_banner.png"
+    },
+    {
+      "title": "File:Virtue (Effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/virtue_(effect).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 2474,
+      "sha256": "f977b70eb92ab901a571aabc6851c6e84d84341cdbc16efa226c95a29f273cf5",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AVirtue_(Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7a/Virtue_%28Effect%29.png/revision/latest?cb=20260116232230",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/virtue_(effect).png"
+    },
+    {
+      "title": "File:Wand of Absorption.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/wand_of_absorption.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 7824,
+      "sha256": "3e1b7a48900e01cc18014cfae8f74726a91cbffd08a5e96a0be620cf9379bac8",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWand_of_Absorption.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f1/Wand_of_Absorption.png/revision/latest?cb=20191128112434",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/wand_of_absorption.png"
+    },
+    {
+      "title": "File:Weapon Crate.png",
+      "buckets": [
+        "weapon_crate"
+      ],
+      "file": "owo_assets/weapon_crate.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 47206,
+      "sha256": "8081e19f96acc5a13de36528e4697dca285e45386e1211c719951f767f9ef4af",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWeapon_Crate.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/13/Weapon_Crate.png/revision/latest?cb=20191128100240",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapon_crate.png"
+    },
+    {
+      "title": "File:Weapon Point (Passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/weapon_point_(passive).png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 4624,
+      "sha256": "eef8b6e47c3864186c3e6be0b483353a6c25879ea589b7a8e05bff0519fdb483",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWeapon_Point_(Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a9/Weapon_Point_%28Passive%29.png/revision/latest?cb=20191128132956",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapon_point_(passive).png"
+    },
+    {
+      "title": "File:Weapon Points.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/weapon_points.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 1048,
+      "sha256": "55642ad7559ff2d7ebeeb8697b03555e86df020936eb2f06b26795e0b1263533",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWeapon_Points.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/95/Weapon_Points.png/revision/latest?cb=20191128061818",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapon_points.png"
+    },
+    {
+      "title": "File:Weapons.png",
+      "buckets": [
+        "weapons"
+      ],
+      "file": "owo_assets/weapons.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320,
+      "bytes": 45418,
+      "sha256": "0b553d50d82f4e18e8665924c8f333c1a9523f45dbb48daac45b8769aa4fb263",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWeapons.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/ae/Weapons.png/revision/latest?cb=20191128100241",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapons.png"
+    },
+    {
+      "title": "File:Whale.svg",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/whale.svg",
+      "mime": "image/svg+xml",
+      "width": 512,
+      "height": 512,
+      "bytes": 789,
+      "sha256": "28d63fec48ab0c89355c23de6727b6fe04de522a4760f9cfa8361f7de40a745d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWhale.svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e9/Whale.svg/revision/latest?cb=20191128065718",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/whale.svg"
+    },
+    {
+      "title": "File:Wiki-wordmark.png",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "file": "owo_assets/wiki-wordmark.png",
+      "mime": "image/png",
+      "width": 64,
+      "height": 64,
+      "bytes": 3720,
+      "sha256": "11d5e9e68f50fa423c9d17c366c475c7455f85ab91aed3059a6392dfead2725f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWiki-wordmark.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/89/Wiki-wordmark.png/revision/latest?cb=20210601202806",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/wiki-wordmark.png"
+    },
+    {
+      "title": "File:Wolf.gif",
+      "buckets": [
+        "animals",
+        "pets",
+        "zoo"
+      ],
+      "file": "owo_assets/wolf.gif",
+      "mime": "image/gif",
+      "width": 128,
+      "height": 128,
+      "bytes": 43620,
+      "sha256": "8c89cd1a5d56001437078bec6be209284c68594532f0bb730e59be47694a97d4",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWolf.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/82/Wolf.gif/revision/latest?cb=20191128072102",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/wolf.gif"
+    },
+    {
+      "title": "File:Wounding Crossbow.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "file": "owo_assets/wounding_crossbow.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 128,
+      "bytes": 10434,
+      "sha256": "c5b04308808734019a04aa0543ff9930f4c4a954b642b6e9ff140f3bddc4b2aa",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWounding_Crossbow.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4f/Wounding_Crossbow.png/revision/latest?cb=20260308062327",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/wounding_crossbow.png"
+    },
+    {
+      "title": "File:Wallpaper1.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper1.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 32400,
+      "sha256": "fb48cd62a9dd9de2f05e3ecadfe77e61f99ae0fb8dc41ce8b504dba091429925",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper1.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a1/Wallpaper1.png/revision/latest?cb=20230216133355",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper1.png"
+    },
+    {
+      "title": "File:Wallpaper10.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper10.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 63032,
+      "sha256": "67db7a5f4ff308c55dcd5029e15fdcf803981b44178731ae620cd19580f527bd",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper10.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6c/Wallpaper10.png/revision/latest?cb=20230216133517",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper10.png"
+    },
+    {
+      "title": "File:Wallpaper11.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper11.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 27998,
+      "sha256": "c8334a889ccceb8c830740b0f51f1002e9a426a9a02278731ac3e9141728290d",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper11.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/61/Wallpaper11.png/revision/latest?cb=20230216133523",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper11.png"
+    },
+    {
+      "title": "File:Wallpaper12.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper12.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 13156,
+      "sha256": "39541ccecde25ae9cbbb1f5cd62ccaab9091c2918e0c35e3b198a292be7aa358",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper12.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fc/Wallpaper12.png/revision/latest?cb=20230216133527",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper12.png"
+    },
+    {
+      "title": "File:Wallpaper13.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper13.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 27582,
+      "sha256": "6a0854c03c7e23ecd0972f348c76be8f642e49257a90ed3538d99e32f53c02e4",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper13.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c0/Wallpaper13.png/revision/latest?cb=20230216133536",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper13.png"
+    },
+    {
+      "title": "File:Wallpaper14.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper14.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 19380,
+      "sha256": "726e5f2d1b11f850f9a556cd43c9a1ccf260162e1d196fa3b3a425f9e801508c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper14.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/97/Wallpaper14.png/revision/latest?cb=20230216133543",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper14.png"
+    },
+    {
+      "title": "File:Wallpaper15.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper15.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 49330,
+      "sha256": "8777b7220eb93c76c3929fa54dbdb0600ab5df059c4bb82a60703dfa97e2a934",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper15.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1f/Wallpaper15.png/revision/latest?cb=20230216133553",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper15.png"
+    },
+    {
+      "title": "File:Wallpaper2.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper2.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 40534,
+      "sha256": "e2a499dfa42b380659eb30a8078d703ae938da48f773da74124553bda65f9a48",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper2.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/3c/Wallpaper2.png/revision/latest?cb=20230216133404",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper2.png"
+    },
+    {
+      "title": "File:Wallpaper3.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper3.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 15352,
+      "sha256": "a95c11681a5321b7f60246b87009e1432e1636da9df1006f1c2a682bb2b3a1fe",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper3.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/93/Wallpaper3.png/revision/latest?cb=20230216133409",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper3.png"
+    },
+    {
+      "title": "File:Wallpaper32.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper32.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 50286,
+      "sha256": "259b2b2879f0ce6c3f86e38f5f58ebe53e5de76421bcafaaadd7c6d5e6175903",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper32.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/22/Wallpaper32.png/revision/latest?cb=20230216133139",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper32.png"
+    },
+    {
+      "title": "File:Wallpaper33.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper33.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 63552,
+      "sha256": "a33cba4a23e1d2fa66d4d4a8dd440570b85c821a441ed3d24f5d0ed9d1f5cde0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper33.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fc/Wallpaper33.png/revision/latest?cb=20230216133152",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper33.png"
+    },
+    {
+      "title": "File:Wallpaper34.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper34.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 24148,
+      "sha256": "0ee9d66d9fcd78c1814fec1208ec9b0b598b55c59d03ed128fcad4faf79f746e",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper34.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4f/Wallpaper34.png/revision/latest?cb=20230216133159",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper34.png"
+    },
+    {
+      "title": "File:Wallpaper35.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper35.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 22162,
+      "sha256": "abaec8e3fa6c5826e05b0d2d48e4206054a5b258b065c9ba300d452189627c1c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper35.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/59/Wallpaper35.png/revision/latest?cb=20230216133203",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper35.png"
+    },
+    {
+      "title": "File:Wallpaper36.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper36.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 28448,
+      "sha256": "92e956b072b54f3471bd0679b6df719c579fd44e793a44a690e238da143c7500",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper36.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d3/Wallpaper36.png/revision/latest?cb=20230216133210",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper36.png"
+    },
+    {
+      "title": "File:Wallpaper37.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper37.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 35794,
+      "sha256": "63be59c10f180d762a65122b65065a1f5d6a4e3a91eee22eed76fd8416ae9d5b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper37.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/99/Wallpaper37.png/revision/latest?cb=20230216133218",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper37.png"
+    },
+    {
+      "title": "File:Wallpaper38.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper38.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 48380,
+      "sha256": "9d4d011701d84af8c60a8dbcc6773bb0767815117ed1e7350fb21f2fa7b0706a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper38.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6b/Wallpaper38.png/revision/latest?cb=20230216133236",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper38.png"
+    },
+    {
+      "title": "File:Wallpaper39.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper39.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 39454,
+      "sha256": "0b102c5c1bdd05f77dd1344f1679d21806f1931d4731083c72cfb76e442d4a4f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper39.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/cf/Wallpaper39.png/revision/latest?cb=20230216133226",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper39.png"
+    },
+    {
+      "title": "File:Wallpaper4.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper4.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 64248,
+      "sha256": "07e1075cd93a75f0a4f077b702370aa8fa366d9a83cb7efa0d0051c27c7f69c9",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper4.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/cf/Wallpaper4.png/revision/latest?cb=20230216133422",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper4.png"
+    },
+    {
+      "title": "File:Wallpaper40.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper40.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 16198,
+      "sha256": "0ba33eedbdf676e2879eb6b7a5752da9259856ccd32f7bac8459b71db6912be4",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper40.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d0/Wallpaper40.png/revision/latest?cb=20230216133256",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper40.png"
+    },
+    {
+      "title": "File:Wallpaper41.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper41.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 17006,
+      "sha256": "4c9f233775e7c809779acf8ba9b4c4fb0c10e625826c39bd1fa81f7178e3d444",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper41.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a2/Wallpaper41.png/revision/latest?cb=20230216133309",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper41.png"
+    },
+    {
+      "title": "File:Wallpaper42.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper42.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 23560,
+      "sha256": "a6becd5886e4d86e4357564f1919d2e26af629c187befa3525bf40d05c90b556",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper42.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a3/Wallpaper42.png/revision/latest?cb=20230216133243",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper42.png"
+    },
+    {
+      "title": "File:Wallpaper43.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper43.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 14956,
+      "sha256": "31231fc5f80c65dde3996a351031eb364db5a9fa8f87be1b5256239b9ea8f3b7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper43.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1c/Wallpaper43.png/revision/latest?cb=20230216133302",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper43.png"
+    },
+    {
+      "title": "File:Wallpaper44.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper44.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 20696,
+      "sha256": "c8e8c0d18c3a3f68f0efd26b0de002a81e1f3563820a96c2e4789106f290a22c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper44.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/86/Wallpaper44.png/revision/latest?cb=20230216133250",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper44.png"
+    },
+    {
+      "title": "File:Wallpaper45.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper45.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 33796,
+      "sha256": "eb5141c5bc23a9325236c73edf662770697ec2f86b179b8624ac78e2395acfa9",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper45.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/26/Wallpaper45.png/revision/latest?cb=20230216133340",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper45.png"
+    },
+    {
+      "title": "File:Wallpaper46.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper46.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 27878,
+      "sha256": "2dc7291352b0d28340c039d4a2429ac8b1d84125874467d5a4452ab7dc1415f0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper46.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6b/Wallpaper46.png/revision/latest?cb=20230216133317",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper46.png"
+    },
+    {
+      "title": "File:Wallpaper47.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper47.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 18804,
+      "sha256": "57d9366d9f7bff9159e5ef5bd2f9d142faef5529b9fbdeb0c27fab78dad9b37b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper47.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/2f/Wallpaper47.png/revision/latest?cb=20230216133347",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper47.png"
+    },
+    {
+      "title": "File:Wallpaper48.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper48.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 40498,
+      "sha256": "b323d5aaeeaaebe1bd78bebf454fbe33a7dd02c613328b44d70c49dc38522c49",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper48.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7d/Wallpaper48.png/revision/latest?cb=20230216133329",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper48.png"
+    },
+    {
+      "title": "File:Wallpaper49.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper49.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 34668,
+      "sha256": "fb5e668d6b8e6b0db81a83d0a5d713aa54a50d88433a621e0092d2d6765ba37a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper49.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b1/Wallpaper49.png/revision/latest?cb=20230216133019",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper49.png"
+    },
+    {
+      "title": "File:Wallpaper5.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper5.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 7740,
+      "sha256": "e97b69518e472b74e6566f7b53705aa46c9abc2f862098b08957cbe0a627d621",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper5.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/ce/Wallpaper5.png/revision/latest?cb=20230216133427",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper5.png"
+    },
+    {
+      "title": "File:Wallpaper50.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper50.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 16072,
+      "sha256": "7632a1a921186304ba4648123a28d6270c4b485fd6d5f67a2470d561a9450544",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper50.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/85/Wallpaper50.png/revision/latest?cb=20230216133023",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper50.png"
+    },
+    {
+      "title": "File:Wallpaper51.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper51.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 30896,
+      "sha256": "e8c23fbb727cee0e0a4f1e37dc997265d46aa588c6fceb8b7c7501ae8ce027da",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper51.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9d/Wallpaper51.png/revision/latest?cb=20230216133030",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper51.png"
+    },
+    {
+      "title": "File:Wallpaper52.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper52.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 44590,
+      "sha256": "84adfac77eb52ac77501be7d7d7b264a5fc56b92fe428b3f813b4c4b94b15a35",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper52.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/32/Wallpaper52.png/revision/latest?cb=20230216133040",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper52.png"
+    },
+    {
+      "title": "File:Wallpaper53.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper53.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 55646,
+      "sha256": "5a0cbbc663472f0163fc87e44f95541f069015f5ae6dac44bd139820618ef891",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper53.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/67/Wallpaper53.png/revision/latest?cb=20230216133050",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper53.png"
+    },
+    {
+      "title": "File:Wallpaper56.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper56.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 17898,
+      "sha256": "4a48e4d4677a7ce0d7f9e1b498e27b64986656185a7ca1c6d4080e2a0eed276f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper56.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/37/Wallpaper56.png/revision/latest?cb=20230216133056",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper56.png"
+    },
+    {
+      "title": "File:Wallpaper57.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper57.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 54028,
+      "sha256": "f1e43de7cd8b531ac19a06a067581fdbe40ab38f5418c94aaf098d7d8668f786",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper57.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a4/Wallpaper57.png/revision/latest?cb=20230216133107",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper57.png"
+    },
+    {
+      "title": "File:Wallpaper58.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper58.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 20630,
+      "sha256": "fa199f49d11a0e687a930425ed97aa7a8e776bdc6e945282dea5aa90c59a62e2",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper58.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fb/Wallpaper58.png/revision/latest?cb=20230216132943",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper58.png"
+    },
+    {
+      "title": "File:Wallpaper59.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper59.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 29276,
+      "sha256": "5302ce94ccfbc25c17f09a6c715ebf302fa73a57ecc89deee89d7204b38f29a7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper59.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d5/Wallpaper59.png/revision/latest?cb=20230216133113",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper59.png"
+    },
+    {
+      "title": "File:Wallpaper6.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper6.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 29542,
+      "sha256": "92a754f061cb1b39f3d823205673f4b653557a4c0756743e35e05cf85da2fde7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper6.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9d/Wallpaper6.png/revision/latest?cb=20230216133435",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper6.png"
+    },
+    {
+      "title": "File:Wallpaper60.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper60.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 31324,
+      "sha256": "7bd530cb2556566c61d71d5c598277b0e09d1cb42c7d6eeb26077939070aa3be",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper60.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/21/Wallpaper60.png/revision/latest?cb=20230216132950",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper60.png"
+    },
+    {
+      "title": "File:Wallpaper61.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper61.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 37362,
+      "sha256": "944ce33ce6dd129ed509b32439b5c4ef4c0113583f6a8889a6223dfe9316ed51",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper61.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/42/Wallpaper61.png/revision/latest?cb=20230216132959",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper61.png"
+    },
+    {
+      "title": "File:Wallpaper62.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper62.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 20518,
+      "sha256": "f6d162c798f00fd3d3784b6e942236215dd62bfab8aa5321a8c8b2216e6a6cbf",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper62.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/eb/Wallpaper62.png/revision/latest?cb=20230216133003",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper62.png"
+    },
+    {
+      "title": "File:Wallpaper63.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper63.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 37964,
+      "sha256": "72c693397b669295c32deaecaa82e7edfe84a02d83738a989467ac3a7cfc887b",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper63.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/77/Wallpaper63.png/revision/latest?cb=20230216133011",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper63.png"
+    },
+    {
+      "title": "File:Wallpaper64.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper64.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 30068,
+      "sha256": "dcfe8d292b83a1caf7c53b0b854dcda2f2259ed655df831554e5d97a24098128",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper64.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/cd/Wallpaper64.png/revision/latest?cb=20230216132845",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper64.png"
+    },
+    {
+      "title": "File:Wallpaper65.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper65.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 17148,
+      "sha256": "5bd6595059d11dd0261cbd23445758cce9b0f7ff1da40008f3e9e4ddda9f1d65",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper65.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/ae/Wallpaper65.png/revision/latest?cb=20230216132853",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper65.png"
+    },
+    {
+      "title": "File:Wallpaper66.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper66.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 16520,
+      "sha256": "785eac0a6784e970f776b292a76437286780d19109674fe9cfb5857a64d602f6",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper66.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d8/Wallpaper66.png/revision/latest?cb=20230216132859",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper66.png"
+    },
+    {
+      "title": "File:Wallpaper67.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper67.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 39640,
+      "sha256": "8ad839144e263cc3cf79c51bc183a4361f39e8d8a808ef87acde274512c423f1",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper67.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/28/Wallpaper67.png/revision/latest?cb=20230216132907",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper67.png"
+    },
+    {
+      "title": "File:Wallpaper68.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper68.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 13252,
+      "sha256": "9a63e6d6797ec06ade730464a146f294cbb1b8a81eb15127000f237c9756c7be",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper68.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/8c/Wallpaper68.png/revision/latest?cb=20230216132911",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper68.png"
+    },
+    {
+      "title": "File:Wallpaper69.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper69.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 35924,
+      "sha256": "4a7e93ed1f1e378ba9d410a4cd0d3e0bf1026ea546dee5abc9e7256036145f3c",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper69.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/0d/Wallpaper69.png/revision/latest?cb=20230216132918",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper69.png"
+    },
+    {
+      "title": "File:Wallpaper7.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper7.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 43642,
+      "sha256": "33faea843616b5d74f1111e92d3f33b27e9076d374b151207e57785c64cc39d7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper7.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/23/Wallpaper7.png/revision/latest?cb=20230216133445",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper7.png"
+    },
+    {
+      "title": "File:Wallpaper70.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper70.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 41412,
+      "sha256": "396c808ee39ad4a59da0086d5c2ab7e8de7921e8e11d7f1db61a05fcfe58a067",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper70.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e1/Wallpaper70.png/revision/latest?cb=20230216132927",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper70.png"
+    },
+    {
+      "title": "File:Wallpaper71.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper71.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 25422,
+      "sha256": "f722ff050e490bb2298cabcf4123b4c7c3761ce79cbe69c98d14da637f29a4b2",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper71.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/35/Wallpaper71.png/revision/latest?cb=20230216132935",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper71.png"
+    },
+    {
+      "title": "File:Wallpaper72.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper72.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 48550,
+      "sha256": "a7ee3d9a004c3858642cc14f7ed64ee396cc21990e42bf57fcb59f6b729bec9a",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper72.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/80/Wallpaper72.png/revision/latest?cb=20230216132838",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper72.png"
+    },
+    {
+      "title": "File:Wallpaper73.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper73.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 43714,
+      "sha256": "674318364eef35861c624b41e4605458be26ac5da4b68025d57c9653284b02f5",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper73.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/35/Wallpaper73.png/revision/latest?cb=20230216133121",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper73.png"
+    },
+    {
+      "title": "File:Wallpaper74.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper74.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 20592,
+      "sha256": "e8e88033edccdf38643eb8a4573749066de5613e0b6b45d7522a1a7ad586df58",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper74.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c9/Wallpaper74.png/revision/latest?cb=20230216133128",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper74.png"
+    },
+    {
+      "title": "File:Wallpaper8.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper8.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 72106,
+      "sha256": "114b13d722b934f0efd2f19c897205ee9c297eaadf3a0c614f2873e5010bfcc3",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper8.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b5/Wallpaper8.png/revision/latest?cb=20230216133458",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper8.png"
+    },
+    {
+      "title": "File:Wallpaper82.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper82.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 11986,
+      "sha256": "c5d7e93b2c26af420e35ebd445164cb30ca9ba4443b98d37c7af25b75c4a8aa1",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper82.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/67/Wallpaper82.png/revision/latest?cb=20230216122741",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper82.png"
+    },
+    {
+      "title": "File:Wallpaper83.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper83.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 25176,
+      "sha256": "bb13979791aebabbf6e709e79a551594330e21bd6666c8982a3307e50a3801ab",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper83.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/53/Wallpaper83.png/revision/latest?cb=20230216123022",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper83.png"
+    },
+    {
+      "title": "File:Wallpaper84.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper84.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 26448,
+      "sha256": "009823952e9c61153b52e9bd14424e075a0904c4f3256a71264ada463bef13ee",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper84.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/bb/Wallpaper84.png/revision/latest?cb=20230216123117",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper84.png"
+    },
+    {
+      "title": "File:Wallpaper85.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper85.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 19148,
+      "sha256": "1897fd6bb60fec953cbe33f74706c8f5d151494ce9d55d530ccc2492eeeaa934",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper85.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/5e/Wallpaper85.png/revision/latest?cb=20230216123154",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper85.png"
+    },
+    {
+      "title": "File:Wallpaper86.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper86.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 14370,
+      "sha256": "91430573f35431a0f7f2972f667474c5e0a23d54f9c904766d47d3d2963d47a7",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper86.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6e/Wallpaper86.png/revision/latest?cb=20230216123219",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper86.png"
+    },
+    {
+      "title": "File:Wallpaper87.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper87.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 43740,
+      "sha256": "b46e622f9b3a04f7354212875e51cf78960ac59431d07f6a13cb60baec2cf482",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper87.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/77/Wallpaper87.png/revision/latest?cb=20230310111842",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper87.png"
+    },
+    {
+      "title": "File:Wallpaper88.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper88.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 30952,
+      "sha256": "2cad266110577671dd9b5a24c7870120fc2217269028e8f83a8c76ed47f9faf4",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper88.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7b/Wallpaper88.png/revision/latest?cb=20230310112420",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper88.png"
+    },
+    {
+      "title": "File:Wallpaper89.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper89.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 62716,
+      "sha256": "c968c12897ecd747d0fcdcbc086bc70d041e0db5c498d0c5eaa4175f5fc8445f",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper89.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d5/Wallpaper89.png/revision/latest?cb=20230310111914",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper89.png"
+    },
+    {
+      "title": "File:Wallpaper9.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper9.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 31226,
+      "sha256": "f31d2ee22354f81c82db2295bf0a32a1d72312aca91d3695e4ecc68954f1d7c0",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper9.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f9/Wallpaper9.png/revision/latest?cb=20230216133506",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper9.png"
+    },
+    {
+      "title": "File:Wallpaper90.png",
+      "buckets": [
+        "wallpapers"
+      ],
+      "file": "wallpapers/wallpaper90.png",
+      "mime": "image/png",
+      "width": 400,
+      "height": 300,
+      "bytes": 25508,
+      "sha256": "b137be8916e59e1c384c8c3039cccd962b2f916d48bc68a678cd9ff7b49b3585",
+      "fandomUrl": "https://owobot.fandom.com/wiki/File%3AWallpaper90.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/40/Wallpaper90.png/revision/latest?cb=20230523063908",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/wallpapers/wallpaper90.png"
+    }
+  ],
+  "failures": []
+}
