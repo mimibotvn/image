@@ -1,0 +1,2408 @@
+{
+  "name": "OwO gear/skill/weapon emoji upload pack for Yuna",
+  "generatedAt": "2026-06-24T16:14:50.202Z",
+  "sourceManifest": "C:/Users/Admin/Desktop/imagebot/animalsyuna/manifest.json",
+  "outputDir": "C:/Users/Admin/Desktop/imagebot/emojiowo",
+  "counts": {
+    "requested": 145,
+    "exported": 145,
+    "failed": 0,
+    "byGroup": {
+      "crate_lootbox": 11,
+      "skill_effect": 23,
+      "gem": 4,
+      "huntbot": 7,
+      "skill_passive": 29,
+      "stat": 8,
+      "tier": 7,
+      "ui": 17,
+      "weapon": 32,
+      "weapon_frame": 7
+    }
+  },
+  "note": "Static files are normalized to transparent PNG 128x128. GIF files keep animation.",
+  "assets": [
+    {
+      "id": "crate_3m_present",
+      "file": "crate_3m_present.png",
+      "discordName": "crate_3m_present",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/3m_present.webp",
+      "sourceTitle": "File:3m Present.webp",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6b/3m_Present.webp/revision/latest?cb=20230523062806",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/3m_present.webp",
+      "buckets": [
+        "gems",
+        "weapons"
+      ],
+      "bytes": 31051,
+      "animated": false
+    },
+    {
+      "id": "crate_4m_present",
+      "file": "crate_4m_present.png",
+      "discordName": "crate_4m_present",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/4m_present.png",
+      "sourceTitle": "File:4m present.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7a/4m_present.png/revision/latest?cb=20260118142653",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/4m_present.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 26442,
+      "animated": false
+    },
+    {
+      "id": "crate_anniversary_present_2023",
+      "file": "crate_anniversary_present_2023.png",
+      "discordName": "crate_anniversary_present_2023",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/anniversary_present_2023.webp",
+      "sourceTitle": "File:Anniversary Present 2023.webp",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/3e/Anniversary_Present_2023.webp/revision/latest?cb=20230310093127",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/anniversary_present_2023.webp",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 12014,
+      "animated": false
+    },
+    {
+      "id": "crate_boss_crate",
+      "file": "crate_boss_crate.png",
+      "discordName": "crate_boss_crate",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/boss_crate.png",
+      "sourceTitle": "File:Boss Crate.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/26/Boss_Crate.png/revision/latest?cb=20260119203715",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/boss_crate.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 29506,
+      "animated": false
+    },
+    {
+      "id": "crate_box_open",
+      "file": "crate_box_open.gif",
+      "discordName": "crate_box_open",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/box_open.gif",
+      "sourceTitle": "File:Box open.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d1/Box_open.gif/revision/latest?cb=20191212080939",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/box_open.gif",
+      "buckets": [
+        "lootbox"
+      ],
+      "bytes": 15264,
+      "animated": true
+    },
+    {
+      "id": "crate_box",
+      "file": "crate_box.png",
+      "discordName": "crate_box",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/box.png",
+      "sourceTitle": "File:Box.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/2b/Box.png/revision/latest?cb=20191130050406",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/box.png",
+      "buckets": [
+        "gems",
+        "lootbox"
+      ],
+      "bytes": 13322,
+      "animated": false
+    },
+    {
+      "id": "crate_crate_open",
+      "file": "crate_crate_open.gif",
+      "discordName": "crate_crate_open",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/crate_open.gif",
+      "sourceTitle": "File:Crate open.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/79/Crate_open.gif/revision/latest?cb=20191212075444",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/crate_open.gif",
+      "buckets": [
+        "weapon_crate"
+      ],
+      "bytes": 18612,
+      "animated": true
+    },
+    {
+      "id": "crate_crate",
+      "file": "crate_crate.png",
+      "discordName": "crate_crate",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/crate.png",
+      "sourceTitle": "File:Crate.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4f/Crate.png/revision/latest?cb=20191130050407",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/crate.png",
+      "buckets": [
+        "weapon_crate"
+      ],
+      "bytes": 33253,
+      "animated": false
+    },
+    {
+      "id": "crate_fabled_lootbox_open",
+      "file": "crate_fabled_lootbox_open.gif",
+      "discordName": "crate_fabled_lootbox_open",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/fabled_lootbox_open.gif",
+      "sourceTitle": "File:Fabled lootbox open.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/43/Fabled_lootbox_open.gif/revision/latest?cb=20210408070436",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_lootbox_open.gif",
+      "buckets": [
+        "lootbox"
+      ],
+      "bytes": 7484,
+      "animated": true
+    },
+    {
+      "id": "crate_fabled_lootbox",
+      "file": "crate_fabled_lootbox.gif",
+      "discordName": "crate_fabled_lootbox",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/fabled_lootbox.gif",
+      "sourceTitle": "File:Fabled Lootbox.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/52/Fabled_Lootbox.gif/revision/latest?cb=20201217115737",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_lootbox.gif",
+      "buckets": [
+        "gems",
+        "lootbox"
+      ],
+      "bytes": 11358,
+      "animated": true
+    },
+    {
+      "id": "crate_lootbox_anim",
+      "file": "crate_lootbox_anim.gif",
+      "discordName": "crate_lootbox_anim",
+      "group": "crate_lootbox",
+      "sourceFile": "owo_assets/725570544065445919.gif",
+      "sourceTitle": "File:725570544065445919.gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/52/Fabled_Lootbox.gif/revision/latest?cb=20201217115737",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/725570544065445919.gif",
+      "buckets": [
+        "gems",
+        "lootbox"
+      ],
+      "bytes": 11358,
+      "animated": true
+    },
+    {
+      "id": "effect_attack_up_2",
+      "file": "effect_attack_up_2.png",
+      "discordName": "effect_attack_up_2",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/attack_up_(effect)_2.png",
+      "sourceTitle": "File:Attack Up+ (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/ee/Attack_Up%2B_%28Effect%29.png/revision/latest?cb=20191128132832",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/attack_up_(effect)_2.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 26479,
+      "animated": false
+    },
+    {
+      "id": "effect_attack_up_3",
+      "file": "effect_attack_up_3.png",
+      "discordName": "effect_attack_up_3",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/attack_up_(effect)_3.png",
+      "sourceTitle": "File:Attack Up (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/96/Attack_Up_%28Effect%29.png/revision/latest?cb=20191128132831",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/attack_up_(effect)_3.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 25029,
+      "animated": false
+    },
+    {
+      "id": "effect_attack_up",
+      "file": "effect_attack_up.png",
+      "discordName": "effect_attack_up",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/attack_up_(effect).png",
+      "sourceTitle": "File:Attack Up++ (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/96/Attack_Up%2B%2B_%28Effect%29.png/revision/latest?cb=20191128132832",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/attack_up_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 28776,
+      "animated": false
+    },
+    {
+      "id": "effect_celebration",
+      "file": "effect_celebration.png",
+      "discordName": "effect_celebration",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/celebration_(effect).png",
+      "sourceTitle": "File:Celebration (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/38/Celebration_%28Effect%29.png/revision/latest?cb=20230310203529",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/celebration_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 19756,
+      "animated": false
+    },
+    {
+      "id": "effect_defense_buff",
+      "file": "effect_defense_buff.png",
+      "discordName": "effect_defense_buff",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/defense_buff.png",
+      "sourceTitle": "File:Defense Buff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e9/Defense_Buff.png/revision/latest?cb=20260116232254",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/defense_buff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 1143,
+      "animated": false
+    },
+    {
+      "id": "effect_defense_up",
+      "file": "effect_defense_up.png",
+      "discordName": "effect_defense_up",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/defense_up_(effect).png",
+      "sourceTitle": "File:Defense Up (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6e/Defense_Up_%28Effect%29.png/revision/latest?cb=20191128132833",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/defense_up_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 26610,
+      "animated": false
+    },
+    {
+      "id": "effect_exposed",
+      "file": "effect_exposed.png",
+      "discordName": "effect_exposed",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/exposed_(effect).png",
+      "sourceTitle": "File:Exposed (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/68/Exposed_%28Effect%29.png/revision/latest?cb=20260308062243",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/exposed_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 850,
+      "animated": false
+    },
+    {
+      "id": "effect_flame",
+      "file": "effect_flame.png",
+      "discordName": "effect_flame",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/flame_(effect).png",
+      "sourceTitle": "File:Flame (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/66/Flame_%28Effect%29.png/revision/latest?cb=20191128132835",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/flame_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 20057,
+      "animated": false
+    },
+    {
+      "id": "effect_freeze",
+      "file": "effect_freeze.png",
+      "discordName": "effect_freeze",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/freeze_(effect).png",
+      "sourceTitle": "File:Freeze (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/55/Freeze_%28Effect%29.png/revision/latest?cb=20191128132836",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/freeze_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 11275,
+      "animated": false
+    },
+    {
+      "id": "effect_frostbite",
+      "file": "effect_frostbite.png",
+      "discordName": "effect_frostbite",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/frostbite_(effect).png",
+      "sourceTitle": "File:Frostbite (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/bc/Frostbite_%28Effect%29.png/revision/latest?cb=20260308062217",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/frostbite_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 31362,
+      "animated": false
+    },
+    {
+      "id": "effect_heavy_arrow",
+      "file": "effect_heavy_arrow.png",
+      "discordName": "effect_heavy_arrow",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/heavy_arrow_(effect).png",
+      "sourceTitle": "File:Heavy Arrow (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/01/Heavy_Arrow_%28Effect%29.png/revision/latest?cb=20260308062230",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/heavy_arrow_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 723,
+      "animated": false
+    },
+    {
+      "id": "effect_leech",
+      "file": "effect_leech.png",
+      "discordName": "effect_leech",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/leech_(effect).png",
+      "sourceTitle": "File:Leech (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c6/Leech_%28Effect%29.png/revision/latest?cb=20230525031041",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/leech_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 26971,
+      "animated": false
+    },
+    {
+      "id": "effect_mortality",
+      "file": "effect_mortality.png",
+      "discordName": "effect_mortality",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/mortality_(effect).png",
+      "sourceTitle": "File:Mortality (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/13/Mortality_%28Effect%29.png/revision/latest?cb=20191128132840",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mortality_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 17133,
+      "animated": false
+    },
+    {
+      "id": "effect_pest",
+      "file": "effect_pest.png",
+      "discordName": "effect_pest",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/pest_(effect).png",
+      "sourceTitle": "File:Pest (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/aa/Pest_%28Effect%29.png/revision/latest?cb=20260116232119",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/pest_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 24140,
+      "animated": false
+    },
+    {
+      "id": "effect_poison",
+      "file": "effect_poison.png",
+      "discordName": "effect_poison",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/poison_(effect).png",
+      "sourceTitle": "File:Poison (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f7/Poison_%28Effect%29.png/revision/latest?cb=20191128132841",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/poison_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 4346,
+      "animated": false
+    },
+    {
+      "id": "effect_sacred_ward",
+      "file": "effect_sacred_ward.png",
+      "discordName": "effect_sacred_ward",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/sacred_ward_(effect).png",
+      "sourceTitle": "File:Sacred Ward (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1e/Sacred_Ward_%28Effect%29.png/revision/latest?cb=20260308061137",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sacred_ward_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 20249,
+      "animated": false
+    },
+    {
+      "id": "effect_sin",
+      "file": "effect_sin.png",
+      "discordName": "effect_sin",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/sin_(effect).png",
+      "sourceTitle": "File:Sin (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/50/Sin_%28Effect%29.png/revision/latest?cb=20260116232238",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sin_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 22441,
+      "animated": false
+    },
+    {
+      "id": "effect_spellskin",
+      "file": "effect_spellskin.png",
+      "discordName": "effect_spellskin",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/spellskin_(effect).png",
+      "sourceTitle": "File:Spellskin (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c1/Spellskin_%28Effect%29.png/revision/latest?cb=20260116232033",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/spellskin_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 3784,
+      "animated": false
+    },
+    {
+      "id": "effect_stinky",
+      "file": "effect_stinky.png",
+      "discordName": "effect_stinky",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/stinky_(effect).png",
+      "sourceTitle": "File:Stinky (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d5/Stinky_%28Effect%29.png/revision/latest?cb=20230925185456",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stinky_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 22954,
+      "animated": false
+    },
+    {
+      "id": "effect_stoneskin",
+      "file": "effect_stoneskin.png",
+      "discordName": "effect_stoneskin",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/stoneskin_(effect).png",
+      "sourceTitle": "File:Stoneskin (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1f/Stoneskin_%28Effect%29.png/revision/latest?cb=20260116232025",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stoneskin_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 3571,
+      "animated": false
+    },
+    {
+      "id": "effect_taunt",
+      "file": "effect_taunt.png",
+      "discordName": "effect_taunt",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/taunt_(effect).png",
+      "sourceTitle": "File:Taunt (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/06/Taunt_%28Effect%29.png/revision/latest?cb=20191128132954",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/taunt_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 24328,
+      "animated": false
+    },
+    {
+      "id": "effect_thorn_tether",
+      "file": "effect_thorn_tether.png",
+      "discordName": "effect_thorn_tether",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/thorn_tether_(effect).png",
+      "sourceTitle": "File:Thorn Tether (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f2/Thorn_Tether_%28Effect%29.png/revision/latest?cb=20260116232150",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/thorn_tether_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 1065,
+      "animated": false
+    },
+    {
+      "id": "effect_virtue",
+      "file": "effect_virtue.png",
+      "discordName": "effect_virtue",
+      "group": "skill_effect",
+      "sourceFile": "owo_assets/virtue_(effect).png",
+      "sourceTitle": "File:Virtue (Effect).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7a/Virtue_%28Effect%29.png/revision/latest?cb=20260116232230",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/virtue_(effect).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 14958,
+      "animated": false
+    },
+    {
+      "id": "gem_empowering",
+      "file": "gem_empowering.png",
+      "discordName": "gem_empowering",
+      "group": "gem",
+      "sourceFile": "owo_assets/generic_empowering_gem.png",
+      "sourceTitle": "File:Generic Empowering Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4b/Generic_Empowering_Gem.png/revision/latest?cb=20191128110055",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_empowering_gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "bytes": 4548,
+      "animated": false
+    },
+    {
+      "id": "gem_hunting",
+      "file": "gem_hunting.png",
+      "discordName": "gem_hunting",
+      "group": "gem",
+      "sourceFile": "owo_assets/generic_hunting_gem.png",
+      "sourceTitle": "File:Generic Hunting Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/da/Generic_Hunting_Gem.png/revision/latest?cb=20191128110056",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_hunting_gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "bytes": 2888,
+      "animated": false
+    },
+    {
+      "id": "gem_lucky",
+      "file": "gem_lucky.png",
+      "discordName": "gem_lucky",
+      "group": "gem",
+      "sourceFile": "owo_assets/generic_lucky_gem.png",
+      "sourceTitle": "File:Generic Lucky Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f4/Generic_Lucky_Gem.png/revision/latest?cb=20191128110057",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_lucky_gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "bytes": 4869,
+      "animated": false
+    },
+    {
+      "id": "gem_special",
+      "file": "gem_special.png",
+      "discordName": "gem_special",
+      "group": "gem",
+      "sourceFile": "owo_assets/generic_special_gem.png",
+      "sourceTitle": "File:Generic Special Gem.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/be/Generic_Special_Gem.png/revision/latest?cb=20230525180427",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/generic_special_gem.png",
+      "buckets": [
+        "gems"
+      ],
+      "bytes": 7900,
+      "animated": false
+    },
+    {
+      "id": "huntbot_common",
+      "file": "huntbot_common.png",
+      "discordName": "huntbot_common",
+      "group": "huntbot",
+      "sourceFile": "owo_assets/common_(huntbot).png",
+      "sourceTitle": "File:Common (HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/ff/Common_%28HuntBot%29.png/revision/latest?cb=20191205141408",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/common_(huntbot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "bytes": 23488,
+      "animated": false
+    },
+    {
+      "id": "huntbot_epic",
+      "file": "huntbot_epic.png",
+      "discordName": "huntbot_epic",
+      "group": "huntbot",
+      "sourceFile": "owo_assets/epic_(huntbot).png",
+      "sourceTitle": "File:Epic (HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b9/Epic_%28HuntBot%29.png/revision/latest?cb=20191205141410",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/epic_(huntbot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "bytes": 24333,
+      "animated": false
+    },
+    {
+      "id": "huntbot_fabled",
+      "file": "huntbot_fabled.gif",
+      "discordName": "huntbot_fabled",
+      "group": "huntbot",
+      "sourceFile": "owo_assets/fabled_(huntbot).gif",
+      "sourceTitle": "File:Fabled (HuntBot).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c7/Fabled_%28HuntBot%29.gif/revision/latest?cb=20230706184711",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_(huntbot).gif",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "bytes": 58238,
+      "animated": true
+    },
+    {
+      "id": "huntbot_legendary",
+      "file": "huntbot_legendary.gif",
+      "discordName": "huntbot_legendary",
+      "group": "huntbot",
+      "sourceFile": "owo_assets/legendary_(huntbot).gif",
+      "sourceTitle": "File:Legendary (HuntBot).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/29/Legendary_%28HuntBot%29.gif/revision/latest?cb=20191205141541",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/legendary_(huntbot).gif",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "bytes": 83704,
+      "animated": true
+    },
+    {
+      "id": "huntbot_mythical",
+      "file": "huntbot_mythical.png",
+      "discordName": "huntbot_mythical",
+      "group": "huntbot",
+      "sourceFile": "owo_assets/mythical_(huntbot).png",
+      "sourceTitle": "File:Mythical (HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d8/Mythical_%28HuntBot%29.png/revision/latest?cb=20191205141411",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mythical_(huntbot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "bytes": 24253,
+      "animated": false
+    },
+    {
+      "id": "huntbot_rare",
+      "file": "huntbot_rare.png",
+      "discordName": "huntbot_rare",
+      "group": "huntbot",
+      "sourceFile": "owo_assets/rare_(huntbot).png",
+      "sourceTitle": "File:Rare (HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/5a/Rare_%28HuntBot%29.png/revision/latest?cb=20191205141409",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rare_(huntbot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "bytes": 23436,
+      "animated": false
+    },
+    {
+      "id": "huntbot_uncommon",
+      "file": "huntbot_uncommon.png",
+      "discordName": "huntbot_uncommon",
+      "group": "huntbot",
+      "sourceFile": "owo_assets/uncommon_(huntbot).png",
+      "sourceTitle": "File:Uncommon (HuntBot).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/ab/Uncommon_%28HuntBot%29.png/revision/latest?cb=20191205141409",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/uncommon_(huntbot).png",
+      "buckets": [
+        "auto_hunting"
+      ],
+      "bytes": 23651,
+      "animated": false
+    },
+    {
+      "id": "passive_absolve",
+      "file": "passive_absolve.png",
+      "discordName": "passive_absolve",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/absolve_(passive).png",
+      "sourceTitle": "File:Absolve (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6f/Absolve_%28Passive%29.png/revision/latest?cb=20191128132830",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/absolve_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 44683,
+      "animated": false
+    },
+    {
+      "id": "passive_adaptation",
+      "file": "passive_adaptation.png",
+      "discordName": "passive_adaptation",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/adaptation_(passive).png",
+      "sourceTitle": "File:Adaptation (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/0e/Adaptation_%28Passive%29.png/revision/latest?cb=20260116231915",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/adaptation_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 41109,
+      "animated": false
+    },
+    {
+      "id": "passive_critical",
+      "file": "passive_critical.png",
+      "discordName": "passive_critical",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/critical_(passive).png",
+      "sourceTitle": "File:Critical (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/ce/Critical_%28Passive%29.png/revision/latest?cb=20191128132833",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/critical_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 34727,
+      "animated": false
+    },
+    {
+      "id": "passive_discharge",
+      "file": "passive_discharge.png",
+      "discordName": "passive_discharge",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/discharge_(passive).png",
+      "sourceTitle": "File:Discharge (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b6/Discharge_%28Passive%29.png/revision/latest?cb=20191129061310",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/discharge_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 44346,
+      "animated": false
+    },
+    {
+      "id": "passive_double_strike",
+      "file": "passive_double_strike.png",
+      "discordName": "passive_double_strike",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/double_strike_(passive).png",
+      "sourceTitle": "File:Double Strike (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/be/Double_Strike_%28Passive%29.png/revision/latest?cb=20260308063743",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/double_strike_(passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 44710,
+      "animated": false
+    },
+    {
+      "id": "passive_energize",
+      "file": "passive_energize.png",
+      "discordName": "passive_energize",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/energize_(passive).png",
+      "sourceTitle": "File:Energize (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/5a/Energize_%28Passive%29.png/revision/latest?cb=20191128132834",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/energize_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 34425,
+      "animated": false
+    },
+    {
+      "id": "passive_enrage",
+      "file": "passive_enrage.png",
+      "discordName": "passive_enrage",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/enrage_(passive).png",
+      "sourceTitle": "File:Enrage (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9e/Enrage_%28Passive%29.png/revision/latest?cb=20191128132835",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/enrage_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 20559,
+      "animated": false
+    },
+    {
+      "id": "passive_frost_armor",
+      "file": "passive_frost_armor.png",
+      "discordName": "passive_frost_armor",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/frost_armor_(passive).png",
+      "sourceTitle": "File:Frost Armor (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4b/Frost_Armor_%28Passive%29.png/revision/latest?cb=20260308063755",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/frost_armor_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 36142,
+      "animated": false
+    },
+    {
+      "id": "passive_giant_slayer",
+      "file": "passive_giant_slayer.png",
+      "discordName": "passive_giant_slayer",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/giant_slayer_(passive).png",
+      "sourceTitle": "File:Giant Slayer (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/8c/Giant_Slayer_%28Passive%29.png/revision/latest?cb=20260116231859",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/giant_slayer_(passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 35310,
+      "animated": false
+    },
+    {
+      "id": "passive_health_point",
+      "file": "passive_health_point.png",
+      "discordName": "passive_health_point",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/health_point_(passive).png",
+      "sourceTitle": "File:Health Point (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/65/Health_Point_%28Passive%29.png/revision/latest?cb=20191128132836",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/health_point_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 45303,
+      "animated": false
+    },
+    {
+      "id": "passive_kamikaze",
+      "file": "passive_kamikaze.png",
+      "discordName": "passive_kamikaze",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/kamikaze_(passive).png",
+      "sourceTitle": "File:Kamikaze (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/69/Kamikaze_%28Passive%29.png/revision/latest?cb=20191128132837",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/kamikaze_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 45357,
+      "animated": false
+    },
+    {
+      "id": "passive_knowledge",
+      "file": "passive_knowledge.png",
+      "discordName": "passive_knowledge",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/knowledge_(passive).png",
+      "sourceTitle": "File:Knowledge (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4b/Knowledge_%28Passive%29.png/revision/latest?cb=20230925165208",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/knowledge_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 38166,
+      "animated": false
+    },
+    {
+      "id": "passive_lifesteal",
+      "file": "passive_lifesteal.png",
+      "discordName": "passive_lifesteal",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/lifesteal_(passive).png",
+      "sourceTitle": "File:Lifesteal (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f8/Lifesteal_%28Passive%29.png/revision/latest?cb=20191128132838",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lifesteal_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 36938,
+      "animated": false
+    },
+    {
+      "id": "passive_living_hive",
+      "file": "passive_living_hive.png",
+      "discordName": "passive_living_hive",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/living_hive_(passive).png",
+      "sourceTitle": "File:Living Hive (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e0/Living_Hive_%28Passive%29.png/revision/latest?cb=20260116231938",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/living_hive_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 45969,
+      "animated": false
+    },
+    {
+      "id": "passive_lone_wolf",
+      "file": "passive_lone_wolf.png",
+      "discordName": "passive_lone_wolf",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/lone_wolf_(passive).png",
+      "sourceTitle": "File:Lone Wolf (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7f/Lone_Wolf_%28Passive%29.png/revision/latest?cb=20260308063748",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lone_wolf_(passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 34821,
+      "animated": false
+    },
+    {
+      "id": "passive_magic_resistance",
+      "file": "passive_magic_resistance.png",
+      "discordName": "passive_magic_resistance",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/magic_resistance_(passive).png",
+      "sourceTitle": "File:Magic Resistance (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c1/Magic_Resistance_%28Passive%29.png/revision/latest?cb=20191128132839",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magic_resistance_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 42596,
+      "animated": false
+    },
+    {
+      "id": "passive_magic",
+      "file": "passive_magic.png",
+      "discordName": "passive_magic",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/magic_(passive).png",
+      "sourceTitle": "File:Magic (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/93/Magic_%28Passive%29.png/revision/latest?cb=20191128132838",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magic_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 48271,
+      "animated": false
+    },
+    {
+      "id": "passive_mana_tap",
+      "file": "passive_mana_tap.png",
+      "discordName": "passive_mana_tap",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/mana_tap_(passive).png",
+      "sourceTitle": "File:Mana Tap (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d2/Mana_Tap_%28Passive%29.png/revision/latest?cb=20191128132839",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mana_tap_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 43762,
+      "animated": false
+    },
+    {
+      "id": "passive_physical_resistance",
+      "file": "passive_physical_resistance.png",
+      "discordName": "passive_physical_resistance",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/physical_resistance_(passive).png",
+      "sourceTitle": "File:Physical Resistance (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d6/Physical_Resistance_%28Passive%29.png/revision/latest?cb=20191128132840",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/physical_resistance_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 46471,
+      "animated": false
+    },
+    {
+      "id": "passive_regeneration",
+      "file": "passive_regeneration.png",
+      "discordName": "passive_regeneration",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/regeneration_(passive).png",
+      "sourceTitle": "File:Regeneration (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1e/Regeneration_%28Passive%29.png/revision/latest?cb=20191128132841",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/regeneration_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 32904,
+      "animated": false
+    },
+    {
+      "id": "passive_resonance",
+      "file": "passive_resonance.png",
+      "discordName": "passive_resonance",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/resonance_(passive).png",
+      "sourceTitle": "File:Resonance (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/5/50/Resonance_%28Passive%29.png/revision/latest?cb=20260116231924",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/resonance_(passive).png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 48388,
+      "animated": false
+    },
+    {
+      "id": "passive_sacrifice",
+      "file": "passive_sacrifice.png",
+      "discordName": "passive_sacrifice",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/sacrifice_(passive).png",
+      "sourceTitle": "File:Sacrifice (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/3c/Sacrifice_%28Passive%29.png/revision/latest?cb=20230525030523",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sacrifice_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 30323,
+      "animated": false
+    },
+    {
+      "id": "passive_safeguard",
+      "file": "passive_safeguard.png",
+      "discordName": "passive_safeguard",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/safeguard_(passive).png",
+      "sourceTitle": "File:Safeguard (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/dc/Safeguard_%28Passive%29.png/revision/latest?cb=20191128132953",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/safeguard_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 44286,
+      "animated": false
+    },
+    {
+      "id": "passive_snail",
+      "file": "passive_snail.png",
+      "discordName": "passive_snail",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/snail_(passive).png",
+      "sourceTitle": "File:Snail (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/cd/Snail_%28Passive%29.png/revision/latest?cb=20230525030803",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/snail_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 49519,
+      "animated": false
+    },
+    {
+      "id": "passive_sprout",
+      "file": "passive_sprout.png",
+      "discordName": "passive_sprout",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/sprout_(passive).png",
+      "sourceTitle": "File:Sprout (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/35/Sprout_%28Passive%29.png/revision/latest?cb=20191128132953",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/sprout_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 35625,
+      "animated": false
+    },
+    {
+      "id": "passive_strength",
+      "file": "passive_strength.png",
+      "discordName": "passive_strength",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/strength_(passive).png",
+      "sourceTitle": "File:Strength (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/63/Strength_%28Passive%29.png/revision/latest?cb=20191128132954",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/strength_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 34283,
+      "animated": false
+    },
+    {
+      "id": "passive_thorns",
+      "file": "passive_thorns.png",
+      "discordName": "passive_thorns",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/thorns_(passive).png",
+      "sourceTitle": "File:Thorns (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/2b/Thorns_%28Passive%29.png/revision/latest?cb=20191128132955",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/thorns_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 45599,
+      "animated": false
+    },
+    {
+      "id": "passive_unique",
+      "file": "passive_unique.png",
+      "discordName": "passive_unique",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/unique_passive.png",
+      "sourceTitle": "File:Unique Passive.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/20/Unique_Passive.png/revision/latest?cb=20260308062256",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/unique_passive.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 680,
+      "animated": false
+    },
+    {
+      "id": "passive_weapon_point",
+      "file": "passive_weapon_point.png",
+      "discordName": "passive_weapon_point",
+      "group": "skill_passive",
+      "sourceFile": "owo_assets/weapon_point_(passive).png",
+      "sourceTitle": "File:Weapon Point (Passive).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a9/Weapon_Point_%28Passive%29.png/revision/latest?cb=20191128132956",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapon_point_(passive).png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 38122,
+      "animated": false
+    },
+    {
+      "id": "stat_experience_points",
+      "file": "stat_experience_points.png",
+      "discordName": "stat_experience_points",
+      "group": "stat",
+      "sourceFile": "owo_assets/experience_points.png",
+      "sourceTitle": "File:Experience Points.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/44/Experience_Points.png/revision/latest?cb=20191130211543",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/experience_points.png",
+      "buckets": [
+        "experience_points"
+      ],
+      "bytes": 42849,
+      "animated": false
+    },
+    {
+      "id": "stat_health_points",
+      "file": "stat_health_points.png",
+      "discordName": "stat_health_points",
+      "group": "stat",
+      "sourceFile": "owo_assets/health_points.png",
+      "sourceTitle": "File:Health Points.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/60/Health_Points.png/revision/latest?cb=20191128061816",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/health_points.png",
+      "buckets": [
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 1117,
+      "animated": false
+    },
+    {
+      "id": "stat_magical_attack",
+      "file": "stat_magical_attack.png",
+      "discordName": "stat_magical_attack",
+      "group": "stat",
+      "sourceFile": "owo_assets/magical_attack.png",
+      "sourceTitle": "File:Magical Attack.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c4/Magical_Attack.png/revision/latest?cb=20191128061816",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magical_attack.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 1506,
+      "animated": false
+    },
+    {
+      "id": "stat_magical_resistance",
+      "file": "stat_magical_resistance.png",
+      "discordName": "stat_magical_resistance",
+      "group": "stat",
+      "sourceFile": "owo_assets/magical_resistance.png",
+      "sourceTitle": "File:Magical Resistance.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e4/Magical_Resistance.png/revision/latest?cb=20191128061817",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/magical_resistance.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 1624,
+      "animated": false
+    },
+    {
+      "id": "stat_physical_attack",
+      "file": "stat_physical_attack.png",
+      "discordName": "stat_physical_attack",
+      "group": "stat",
+      "sourceFile": "owo_assets/physical_attack.png",
+      "sourceTitle": "File:Physical Attack.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/94/Physical_Attack.png/revision/latest?cb=20191128061817",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/physical_attack.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 959,
+      "animated": false
+    },
+    {
+      "id": "stat_physical_resistance",
+      "file": "stat_physical_resistance.png",
+      "discordName": "stat_physical_resistance",
+      "group": "stat",
+      "sourceFile": "owo_assets/physical_resistance.png",
+      "sourceTitle": "File:Physical Resistance.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/24/Physical_Resistance.png/revision/latest?cb=20191128061818",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/physical_resistance.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 1055,
+      "animated": false
+    },
+    {
+      "id": "stat_stats",
+      "file": "stat_stats.png",
+      "discordName": "stat_stats",
+      "group": "stat",
+      "sourceFile": "owo_assets/stats.png",
+      "sourceTitle": "File:Stats.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/aa/Stats.png/revision/latest?cb=20191130032141",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stats.png",
+      "buckets": [
+        "stats"
+      ],
+      "bytes": 29579,
+      "animated": false
+    },
+    {
+      "id": "stat_weapon_points",
+      "file": "stat_weapon_points.png",
+      "discordName": "stat_weapon_points",
+      "group": "stat",
+      "sourceFile": "owo_assets/weapon_points.png",
+      "sourceTitle": "File:Weapon Points.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/95/Weapon_Points.png/revision/latest?cb=20191128061818",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapon_points.png",
+      "buckets": [
+        "battling",
+        "stats",
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 1915,
+      "animated": false
+    },
+    {
+      "id": "tier_common",
+      "file": "tier_common.png",
+      "discordName": "tier_common",
+      "group": "tier",
+      "sourceFile": "owo_assets/common_(tier).png",
+      "sourceTitle": "File:Common (Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9b/Common_%28Tier%29.png/revision/latest?cb=20191128093522",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/common_(tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 13000,
+      "animated": false
+    },
+    {
+      "id": "tier_epic",
+      "file": "tier_epic.png",
+      "discordName": "tier_epic",
+      "group": "tier",
+      "sourceFile": "owo_assets/epic_(tier).png",
+      "sourceTitle": "File:Epic (Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b5/Epic_%28Tier%29.png/revision/latest?cb=20191128093525",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/epic_(tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 18117,
+      "animated": false
+    },
+    {
+      "id": "tier_fabled",
+      "file": "tier_fabled.gif",
+      "discordName": "tier_fabled",
+      "group": "tier",
+      "sourceFile": "owo_assets/fabled_(tier).gif",
+      "sourceTitle": "File:Fabled (Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/da/Fabled_%28Tier%29.gif/revision/latest?cb=20191128093723",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_(tier).gif",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 40004,
+      "animated": true
+    },
+    {
+      "id": "tier_legendary",
+      "file": "tier_legendary.gif",
+      "discordName": "tier_legendary",
+      "group": "tier",
+      "sourceFile": "owo_assets/legendary_(tier).gif",
+      "sourceTitle": "File:Legendary (Tier).gif",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/2/2c/Legendary_%28Tier%29.gif/revision/latest?cb=20191128093725",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/legendary_(tier).gif",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 19206,
+      "animated": true
+    },
+    {
+      "id": "tier_mythical",
+      "file": "tier_mythical.png",
+      "discordName": "tier_mythical",
+      "group": "tier",
+      "sourceFile": "owo_assets/mythical_(tier).png",
+      "sourceTitle": "File:Mythical (Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7b/Mythical_%28Tier%29.png/revision/latest?cb=20191128093526",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mythical_(tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 20175,
+      "animated": false
+    },
+    {
+      "id": "tier_rare",
+      "file": "tier_rare.png",
+      "discordName": "tier_rare",
+      "group": "tier",
+      "sourceFile": "owo_assets/rare_(tier).png",
+      "sourceTitle": "File:Rare (Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6a/Rare_%28Tier%29.png/revision/latest?cb=20191128093525",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rare_(tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 15721,
+      "animated": false
+    },
+    {
+      "id": "tier_uncommon",
+      "file": "tier_uncommon.png",
+      "discordName": "tier_uncommon",
+      "group": "tier",
+      "sourceFile": "owo_assets/uncommon_(tier).png",
+      "sourceTitle": "File:Uncommon (Tier).png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1b/Uncommon_%28Tier%29.png/revision/latest?cb=20191128093524",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/uncommon_(tier).png",
+      "buckets": [
+        "animals",
+        "gems",
+        "pets",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 12527,
+      "animated": false
+    },
+    {
+      "id": "ui_animals",
+      "file": "ui_animals.png",
+      "discordName": "ui_animals",
+      "group": "ui",
+      "sourceFile": "owo_assets/animals_(command_group).svg",
+      "sourceTitle": "File:Animals (Command Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/17/Animals_%28Command_Group%29.svg/revision/latest?cb=20191129215027",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/animals_(command_group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 2172,
+      "animated": false
+    },
+    {
+      "id": "ui_auto_hunting",
+      "file": "ui_auto_hunting.png",
+      "discordName": "ui_auto_hunting",
+      "group": "ui",
+      "sourceFile": "owo_assets/auto_hunting.png",
+      "sourceTitle": "File:Auto Hunting.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/14/Auto_Hunting.png/revision/latest?cb=20191128100234",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/auto_hunting.png",
+      "buckets": [
+        "auto_hunting",
+        "hunting",
+        "manual_hunting"
+      ],
+      "bytes": 44386,
+      "animated": false
+    },
+    {
+      "id": "ui_battling",
+      "file": "ui_battling.png",
+      "discordName": "ui_battling",
+      "group": "ui",
+      "sourceFile": "owo_assets/battling.png",
+      "sourceTitle": "File:Battling.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/c/c3/Battling.png/revision/latest?cb=20191128100234",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/battling.png",
+      "buckets": [
+        "battling"
+      ],
+      "bytes": 42171,
+      "animated": false
+    },
+    {
+      "id": "ui_discordapp_attach",
+      "file": "ui_discordapp_attach.png",
+      "discordName": "ui_discordapp_attach",
+      "group": "ui",
+      "sourceFile": "owo_assets/discordapp_attach.png",
+      "sourceTitle": "File:DiscordApp Attach.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/af/DiscordApp_Attach.png/revision/latest?cb=20191208213504",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/discordapp_attach.png",
+      "buckets": [
+        "gems",
+        "lootbox",
+        "manual_hunting",
+        "weapon_crate"
+      ],
+      "bytes": 8022,
+      "animated": false
+    },
+    {
+      "id": "ui_discordapp_buttons",
+      "file": "ui_discordapp_buttons.png",
+      "discordName": "ui_discordapp_buttons",
+      "group": "ui",
+      "sourceFile": "owo_assets/discordapp_buttons.png",
+      "sourceTitle": "File:DiscordApp Buttons.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/60/DiscordApp_Buttons.png/revision/latest?cb=20191208213547",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/discordapp_buttons.png",
+      "buckets": [
+        "gems",
+        "lootbox",
+        "manual_hunting",
+        "weapon_crate"
+      ],
+      "bytes": 5278,
+      "animated": false
+    },
+    {
+      "id": "ui_economy",
+      "file": "ui_economy.png",
+      "discordName": "ui_economy",
+      "group": "ui",
+      "sourceFile": "owo_assets/economy_(command_group).svg",
+      "sourceTitle": "File:Economy (Command Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/83/Economy_%28Command_Group%29.svg/revision/latest?cb=20191129215028",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/economy_(command_group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 3488,
+      "animated": false
+    },
+    {
+      "id": "ui_gambling",
+      "file": "ui_gambling.png",
+      "discordName": "ui_gambling",
+      "group": "ui",
+      "sourceFile": "owo_assets/gambling_(command_group).svg",
+      "sourceTitle": "File:Gambling (Command Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/13/Gambling_%28Command_Group%29.svg/revision/latest?cb=20191129215029",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/gambling_(command_group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 4303,
+      "animated": false
+    },
+    {
+      "id": "ui_gems",
+      "file": "ui_gems.png",
+      "discordName": "ui_gems",
+      "group": "ui",
+      "sourceFile": "owo_assets/gems.png",
+      "sourceTitle": "File:Gems.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d5/Gems.png/revision/latest?cb=20191128100235",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/gems.png",
+      "buckets": [
+        "gems"
+      ],
+      "bytes": 39705,
+      "animated": false
+    },
+    {
+      "id": "ui_hunting",
+      "file": "ui_hunting.png",
+      "discordName": "ui_hunting",
+      "group": "ui",
+      "sourceFile": "owo_assets/hunting.png",
+      "sourceTitle": "File:Hunting.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/39/Hunting.png/revision/latest?cb=20191128100236",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/hunting.png",
+      "buckets": [
+        "auto_hunting",
+        "hunting",
+        "manual_hunting"
+      ],
+      "bytes": 44221,
+      "animated": false
+    },
+    {
+      "id": "ui_lootbox",
+      "file": "ui_lootbox.png",
+      "discordName": "ui_lootbox",
+      "group": "ui",
+      "sourceFile": "owo_assets/lootbox.png",
+      "sourceTitle": "File:Lootbox.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/38/Lootbox.png/revision/latest?cb=20191128100237",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/lootbox.png",
+      "buckets": [
+        "lootbox"
+      ],
+      "bytes": 41537,
+      "animated": false
+    },
+    {
+      "id": "ui_manual_hunting",
+      "file": "ui_manual_hunting.png",
+      "discordName": "ui_manual_hunting",
+      "group": "ui",
+      "sourceFile": "owo_assets/manual_hunting.png",
+      "sourceTitle": "File:Manual Hunting.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/6d/Manual_Hunting.png/revision/latest?cb=20191128100237",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/manual_hunting.png",
+      "buckets": [
+        "auto_hunting",
+        "hunting",
+        "manual_hunting"
+      ],
+      "bytes": 41322,
+      "animated": false
+    },
+    {
+      "id": "ui_social",
+      "file": "ui_social.png",
+      "discordName": "ui_social",
+      "group": "ui",
+      "sourceFile": "owo_assets/social_(command_group).svg",
+      "sourceTitle": "File:Social (Command Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/af/Social_%28Command_Group%29.svg/revision/latest?cb=20191129215031",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/social_(command_group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 4921,
+      "animated": false
+    },
+    {
+      "id": "ui_status_effects",
+      "file": "ui_status_effects.png",
+      "discordName": "ui_status_effects",
+      "group": "ui",
+      "sourceFile": "owo_assets/status_effects.png",
+      "sourceTitle": "File:Status Effects.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/31/Status_Effects.png/revision/latest?cb=20191128100239",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/status_effects.png",
+      "buckets": [
+        "status_effects"
+      ],
+      "bytes": 46207,
+      "animated": false
+    },
+    {
+      "id": "ui_utility",
+      "file": "ui_utility.png",
+      "discordName": "ui_utility",
+      "group": "ui",
+      "sourceFile": "owo_assets/utility_(command_group).svg",
+      "sourceTitle": "File:Utility (Command Group).svg",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/07/Utility_%28Command_Group%29.svg/revision/latest?cb=20191129215031",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/utility_(command_group).svg",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 2074,
+      "animated": false
+    },
+    {
+      "id": "ui_weapon_crate",
+      "file": "ui_weapon_crate.png",
+      "discordName": "ui_weapon_crate",
+      "group": "ui",
+      "sourceFile": "owo_assets/weapon_crate.png",
+      "sourceTitle": "File:Weapon Crate.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/13/Weapon_Crate.png/revision/latest?cb=20191128100240",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapon_crate.png",
+      "buckets": [
+        "weapon_crate"
+      ],
+      "bytes": 45023,
+      "animated": false
+    },
+    {
+      "id": "ui_weapons",
+      "file": "ui_weapons.png",
+      "discordName": "ui_weapons",
+      "group": "ui",
+      "sourceFile": "owo_assets/weapons.png",
+      "sourceTitle": "File:Weapons.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/ae/Weapons.png/revision/latest?cb=20191128100241",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/weapons.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 46432,
+      "animated": false
+    },
+    {
+      "id": "ui_wiki_wordmark",
+      "file": "ui_wiki_wordmark.png",
+      "discordName": "ui_wiki_wordmark",
+      "group": "ui",
+      "sourceFile": "owo_assets/wiki-wordmark.png",
+      "sourceTitle": "File:Wiki-wordmark.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/89/Wiki-wordmark.png/revision/latest?cb=20210601202806",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/wiki-wordmark.png",
+      "buckets": [
+        "animals",
+        "auto_hunting",
+        "battling",
+        "experience_points",
+        "gems",
+        "hunting",
+        "lootbox",
+        "manual_hunting",
+        "pets",
+        "stats",
+        "status_effects",
+        "team",
+        "weapon_crate",
+        "weapons",
+        "zoo"
+      ],
+      "bytes": 47574,
+      "animated": false
+    },
+    {
+      "id": "weapon_arbiter_s_edge",
+      "file": "weapon_arbiter_s_edge.png",
+      "discordName": "weapon_arbiter_s_edge",
+      "group": "weapon",
+      "sourceFile": "owo_assets/arbiter_s_edge.png",
+      "sourceTitle": "File:Arbiter's Edge.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/e4/Arbiter%27s_Edge.png/revision/latest?cb=20260116231402",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/arbiter_s_edge.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 42388,
+      "animated": false
+    },
+    {
+      "id": "weapon_arcane_scepter",
+      "file": "weapon_arcane_scepter.png",
+      "discordName": "weapon_arcane_scepter",
+      "group": "weapon",
+      "sourceFile": "owo_assets/arcane_scepter.png",
+      "sourceTitle": "File:Arcane Scepter.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/0e/Arcane_Scepter.png/revision/latest?cb=20191128112425",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/arcane_scepter.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 30771,
+      "animated": false
+    },
+    {
+      "id": "weapon_bleeding_gaze",
+      "file": "weapon_bleeding_gaze.png",
+      "discordName": "weapon_bleeding_gaze",
+      "group": "weapon",
+      "sourceFile": "owo_assets/bleeding_gaze.png",
+      "sourceTitle": "File:Bleeding Gaze.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/95/Bleeding_Gaze.png/revision/latest?cb=20260308062305",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/bleeding_gaze.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 36960,
+      "animated": false
+    },
+    {
+      "id": "weapon_bow",
+      "file": "weapon_bow.png",
+      "discordName": "weapon_bow",
+      "group": "weapon",
+      "sourceFile": "owo_assets/bow.png",
+      "sourceTitle": "File:Bow.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/65/Bow.png/revision/latest?cb=20191128112426",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/bow.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 20780,
+      "animated": false
+    },
+    {
+      "id": "weapon_briar_heart_staff",
+      "file": "weapon_briar_heart_staff.png",
+      "discordName": "weapon_briar_heart_staff",
+      "group": "weapon",
+      "sourceFile": "owo_assets/briar-heart_staff.png",
+      "sourceTitle": "File:Briar-Heart Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fd/Briar-Heart_Staff.png/revision/latest?cb=20260116231308",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/briar-heart_staff.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 34148,
+      "animated": false
+    },
+    {
+      "id": "weapon_conduit_claw",
+      "file": "weapon_conduit_claw.png",
+      "discordName": "weapon_conduit_claw",
+      "group": "weapon",
+      "sourceFile": "owo_assets/conduit_claw.png",
+      "sourceTitle": "File:Conduit Claw.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/af/Conduit_Claw.png/revision/latest?cb=20260309005149",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/conduit_claw.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 26723,
+      "animated": false
+    },
+    {
+      "id": "weapon_cowoncy_note",
+      "file": "weapon_cowoncy_note.png",
+      "discordName": "weapon_cowoncy_note",
+      "group": "weapon",
+      "sourceFile": "owo_assets/cowoncy_note.png",
+      "sourceTitle": "File:Cowoncy Note.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/06/Cowoncy_Note.png/revision/latest?cb=20191203153323",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/cowoncy_note.png",
+      "buckets": [
+        "animals",
+        "weapons"
+      ],
+      "bytes": 4420,
+      "animated": false
+    },
+    {
+      "id": "weapon_culling_scythe",
+      "file": "weapon_culling_scythe.png",
+      "discordName": "weapon_culling_scythe",
+      "group": "weapon",
+      "sourceFile": "owo_assets/culling_scythe.png",
+      "sourceTitle": "File:Culling Scythe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/92/Culling_Scythe.png/revision/latest?cb=20191128112426",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/culling_scythe.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 24405,
+      "animated": false
+    },
+    {
+      "id": "weapon_defender_s_aegis",
+      "file": "weapon_defender_s_aegis.png",
+      "discordName": "weapon_defender_s_aegis",
+      "group": "weapon",
+      "sourceFile": "owo_assets/defender_s_aegis.png",
+      "sourceTitle": "File:Defender's Aegis.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/77/Defender%27s_Aegis.png/revision/latest?cb=20191128112427",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/defender_s_aegis.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 26694,
+      "animated": false
+    },
+    {
+      "id": "weapon_energy_staff",
+      "file": "weapon_energy_staff.png",
+      "discordName": "weapon_energy_staff",
+      "group": "weapon",
+      "sourceFile": "owo_assets/energy_staff.png",
+      "sourceTitle": "File:Energy Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/74/Energy_Staff.png/revision/latest?cb=20191128112428",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/energy_staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 30421,
+      "animated": false
+    },
+    {
+      "id": "weapon_flame_staff",
+      "file": "weapon_flame_staff.png",
+      "discordName": "weapon_flame_staff",
+      "group": "weapon",
+      "sourceFile": "owo_assets/flame_staff.png",
+      "sourceTitle": "File:Flame Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/0/01/Flame_Staff.png/revision/latest?cb=20191128112428",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/flame_staff.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 22906,
+      "animated": false
+    },
+    {
+      "id": "weapon_foul_fish",
+      "file": "weapon_foul_fish.png",
+      "discordName": "weapon_foul_fish",
+      "group": "weapon",
+      "sourceFile": "owo_assets/foul_fish.png",
+      "sourceTitle": "File:Foul Fish.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/35/Foul_Fish.png/revision/latest?cb=20230925170154",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/foul_fish.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 32101,
+      "animated": false
+    },
+    {
+      "id": "weapon_frame_common",
+      "file": "weapon_frame_common.png",
+      "discordName": "weapon_frame_common",
+      "group": "weapon_frame",
+      "sourceFile": "owo_assets/common_weapon_frame.png",
+      "sourceTitle": "File:Common Weapon Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/ba/Common_Weapon_Frame.png/revision/latest?cb=20230525031831",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/common_weapon_frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 4960,
+      "animated": false
+    },
+    {
+      "id": "weapon_frame_epic",
+      "file": "weapon_frame_epic.png",
+      "discordName": "weapon_frame_epic",
+      "group": "weapon_frame",
+      "sourceFile": "owo_assets/epic_weapon_frame.png",
+      "sourceTitle": "File:Epic Weapon Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/eb/Epic_Weapon_Frame.png/revision/latest?cb=20191129075621",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/epic_weapon_frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 4155,
+      "animated": false
+    },
+    {
+      "id": "weapon_frame_fabled",
+      "file": "weapon_frame_fabled.png",
+      "discordName": "weapon_frame_fabled",
+      "group": "weapon_frame",
+      "sourceFile": "owo_assets/fabled_weapon_frame.png",
+      "sourceTitle": "File:Fabled Weapon Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/88/Fabled_Weapon_Frame.png/revision/latest?cb=20260124214223",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/fabled_weapon_frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 16655,
+      "animated": false
+    },
+    {
+      "id": "weapon_frame_legendary",
+      "file": "weapon_frame_legendary.png",
+      "discordName": "weapon_frame_legendary",
+      "group": "weapon_frame",
+      "sourceFile": "owo_assets/legendary_weapon_frame.png",
+      "sourceTitle": "File:Legendary Weapon Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/a5/Legendary_Weapon_Frame.png/revision/latest?cb=20191129075622",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/legendary_weapon_frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 19662,
+      "animated": false
+    },
+    {
+      "id": "weapon_frame_mythical",
+      "file": "weapon_frame_mythical.png",
+      "discordName": "weapon_frame_mythical",
+      "group": "weapon_frame",
+      "sourceFile": "owo_assets/mythical_weapon_frame.png",
+      "sourceTitle": "File:Mythical Weapon Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fc/Mythical_Weapon_Frame.png/revision/latest?cb=20191129075622",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/mythical_weapon_frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 18739,
+      "animated": false
+    },
+    {
+      "id": "weapon_frame_rare",
+      "file": "weapon_frame_rare.png",
+      "discordName": "weapon_frame_rare",
+      "group": "weapon_frame",
+      "sourceFile": "owo_assets/rare_weapon_frame.png",
+      "sourceTitle": "File:Rare Weapon Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/a/aa/Rare_Weapon_Frame.png/revision/latest?cb=20191129075621",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rare_weapon_frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 2480,
+      "animated": false
+    },
+    {
+      "id": "weapon_frame_uncommon",
+      "file": "weapon_frame_uncommon.png",
+      "discordName": "weapon_frame_uncommon",
+      "group": "weapon_frame",
+      "sourceFile": "owo_assets/uncommon_weapon_frame.png",
+      "sourceTitle": "File:Uncommon Weapon Frame.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/ed/Uncommon_Weapon_Frame.png/revision/latest?cb=20191129075620",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/uncommon_weapon_frame.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 2932,
+      "animated": false
+    },
+    {
+      "id": "weapon_glacial_axe",
+      "file": "weapon_glacial_axe.png",
+      "discordName": "weapon_glacial_axe",
+      "group": "weapon",
+      "sourceFile": "owo_assets/glacial_axe.png",
+      "sourceTitle": "File:Glacial Axe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9c/Glacial_Axe.png/revision/latest?cb=20191128112428",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/glacial_axe.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 41220,
+      "animated": false
+    },
+    {
+      "id": "weapon_great_sword",
+      "file": "weapon_great_sword.png",
+      "discordName": "weapon_great_sword",
+      "group": "weapon",
+      "sourceFile": "owo_assets/great_sword.png",
+      "sourceTitle": "File:Great Sword.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/42/Great_Sword.png/revision/latest?cb=20191128112429",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/great_sword.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 23374,
+      "animated": false
+    },
+    {
+      "id": "weapon_healing_staff",
+      "file": "weapon_healing_staff.png",
+      "discordName": "weapon_healing_staff",
+      "group": "weapon",
+      "sourceFile": "owo_assets/healing_staff.png",
+      "sourceTitle": "File:Healing Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f6/Healing_Staff.png/revision/latest?cb=20191128112430",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/healing_staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 38640,
+      "animated": false
+    },
+    {
+      "id": "weapon_leeching_scythe",
+      "file": "weapon_leeching_scythe.png",
+      "discordName": "weapon_leeching_scythe",
+      "group": "weapon",
+      "sourceFile": "owo_assets/leeching_scythe.png",
+      "sourceTitle": "File:Leeching Scythe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b2/Leeching_Scythe.png/revision/latest?cb=20230524072800",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/leeching_scythe.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 31934,
+      "animated": false
+    },
+    {
+      "id": "weapon_orb_of_potency",
+      "file": "weapon_orb_of_potency.png",
+      "discordName": "weapon_orb_of_potency",
+      "group": "weapon",
+      "sourceFile": "owo_assets/orb_of_potency.png",
+      "sourceTitle": "File:Orb of Potency.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/1/1c/Orb_of_Potency.png/revision/latest?cb=20191128112430",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/orb_of_potency.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 42541,
+      "animated": false
+    },
+    {
+      "id": "weapon_poison_dagger",
+      "file": "weapon_poison_dagger.png",
+      "discordName": "weapon_poison_dagger",
+      "group": "weapon",
+      "sourceFile": "owo_assets/poison_dagger.png",
+      "sourceTitle": "File:Poison Dagger.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/7/7a/Poison_Dagger.png/revision/latest?cb=20191128112431",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/poison_dagger.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 23032,
+      "animated": false
+    },
+    {
+      "id": "weapon_resurrection_staff",
+      "file": "weapon_resurrection_staff.png",
+      "discordName": "weapon_resurrection_staff",
+      "group": "weapon",
+      "sourceFile": "owo_assets/resurrection_staff.png",
+      "sourceTitle": "File:Resurrection Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/e/ef/Resurrection_Staff.png/revision/latest?cb=20191128112431",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/resurrection_staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 32997,
+      "animated": false
+    },
+    {
+      "id": "weapon_rune_of_celebration",
+      "file": "weapon_rune_of_celebration.png",
+      "discordName": "weapon_rune_of_celebration",
+      "group": "weapon",
+      "sourceFile": "owo_assets/rune_of_celebration.png",
+      "sourceTitle": "File:Rune of Celebration.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/fc/Rune_of_Celebration.png/revision/latest?cb=20230310223445",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rune_of_celebration.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 48911,
+      "animated": false
+    },
+    {
+      "id": "weapon_rune_of_luck",
+      "file": "weapon_rune_of_luck.png",
+      "discordName": "weapon_rune_of_luck",
+      "group": "weapon",
+      "sourceFile": "owo_assets/rune_of_luck.png",
+      "sourceTitle": "File:Rune of Luck.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/38/Rune_of_Luck.png/revision/latest?cb=20240404162120",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rune_of_luck.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 37169,
+      "animated": false
+    },
+    {
+      "id": "weapon_rune_of_the_forgotten",
+      "file": "weapon_rune_of_the_forgotten.png",
+      "discordName": "weapon_rune_of_the_forgotten",
+      "group": "weapon",
+      "sourceFile": "owo_assets/rune_of_the_forgotten.png",
+      "sourceTitle": "File:Rune of the Forgotten.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/6/66/Rune_of_the_Forgotten.png/revision/latest?cb=20191128112432",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/rune_of_the_forgotten.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 35043,
+      "animated": false
+    },
+    {
+      "id": "weapon_shards",
+      "file": "weapon_shards.png",
+      "discordName": "weapon_shards",
+      "group": "weapon",
+      "sourceFile": "owo_assets/shards.png",
+      "sourceTitle": "File:Shards.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/8/84/Shards.png/revision/latest?cb=20200102064826",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/shards.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 31610,
+      "animated": false
+    },
+    {
+      "id": "weapon_soul_tithe",
+      "file": "weapon_soul_tithe.png",
+      "discordName": "weapon_soul_tithe",
+      "group": "weapon",
+      "sourceFile": "owo_assets/soul_tithe.png",
+      "sourceTitle": "File:Soul Tithe.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/9/9a/Soul_Tithe.png/revision/latest?cb=20260116231243",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/soul_tithe.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 30931,
+      "animated": false
+    },
+    {
+      "id": "weapon_spirit_staff",
+      "file": "weapon_spirit_staff.png",
+      "discordName": "weapon_spirit_staff",
+      "group": "weapon",
+      "sourceFile": "owo_assets/spirit_staff.png",
+      "sourceTitle": "File:Spirit Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/df/Spirit_Staff.png/revision/latest?cb=20191128112432",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/spirit_staff.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 32355,
+      "animated": false
+    },
+    {
+      "id": "weapon_stack_limit",
+      "file": "weapon_stack_limit.png",
+      "discordName": "weapon_stack_limit",
+      "group": "weapon",
+      "sourceFile": "owo_assets/stack_limit.png",
+      "sourceTitle": "File:Stack Limit.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4f/Stack_Limit.png/revision/latest?cb=20260116232323",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/stack_limit.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 1108,
+      "animated": false
+    },
+    {
+      "id": "weapon_staff_of_corruption",
+      "file": "weapon_staff_of_corruption.png",
+      "discordName": "weapon_staff_of_corruption",
+      "group": "weapon",
+      "sourceFile": "owo_assets/staff_of_corruption.png",
+      "sourceTitle": "File:Staff of Corruption.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/d/d9/Staff_of_Corruption.png/revision/latest?cb=20260116231219",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/staff_of_corruption.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 34224,
+      "animated": false
+    },
+    {
+      "id": "weapon_staff_of_purity",
+      "file": "weapon_staff_of_purity.png",
+      "discordName": "weapon_staff_of_purity",
+      "group": "weapon",
+      "sourceFile": "owo_assets/staff_of_purity.png",
+      "sourceTitle": "File:Staff of Purity.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b1/Staff_of_Purity.png/revision/latest?cb=20230310223250",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/staff_of_purity.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 27562,
+      "animated": false
+    },
+    {
+      "id": "weapon_vampiric_staff",
+      "file": "weapon_vampiric_staff.png",
+      "discordName": "weapon_vampiric_staff",
+      "group": "weapon",
+      "sourceFile": "owo_assets/vampiric_staff.png",
+      "sourceTitle": "File:Vampiric Staff.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/b/b5/Vampiric_Staff.png/revision/latest?cb=20191128112433",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/vampiric_staff.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 23586,
+      "animated": false
+    },
+    {
+      "id": "weapon_vanguard_s_banner",
+      "file": "weapon_vanguard_s_banner.png",
+      "discordName": "weapon_vanguard_s_banner",
+      "group": "weapon",
+      "sourceFile": "owo_assets/vanguard_s_banner.png",
+      "sourceTitle": "File:Vanguard's Banner.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/3/32/Vanguard%27s_Banner.png/revision/latest?cb=20191128112433",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/vanguard_s_banner.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 28431,
+      "animated": false
+    },
+    {
+      "id": "weapon_wand_of_absorption",
+      "file": "weapon_wand_of_absorption.png",
+      "discordName": "weapon_wand_of_absorption",
+      "group": "weapon",
+      "sourceFile": "owo_assets/wand_of_absorption.png",
+      "sourceTitle": "File:Wand of Absorption.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/f/f1/Wand_of_Absorption.png/revision/latest?cb=20191128112434",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/wand_of_absorption.png",
+      "buckets": [
+        "weapons"
+      ],
+      "bytes": 28841,
+      "animated": false
+    },
+    {
+      "id": "weapon_wounding_crossbow",
+      "file": "weapon_wounding_crossbow.png",
+      "discordName": "weapon_wounding_crossbow",
+      "group": "weapon",
+      "sourceFile": "owo_assets/wounding_crossbow.png",
+      "sourceTitle": "File:Wounding Crossbow.png",
+      "sourceUrl": "https://static.wikia.nocookie.net/owobot/images/4/4f/Wounding_Crossbow.png/revision/latest?cb=20260308062327",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/animalsyuna/owo_assets/wounding_crossbow.png",
+      "buckets": [
+        "status_effects",
+        "weapons"
+      ],
+      "bytes": 38614,
+      "animated": false
+    }
+  ],
+  "failures": []
+}
