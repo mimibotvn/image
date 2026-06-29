@@ -1,0 +1,80 @@
+{
+  "skin_turtle_lagoon_guardian": {
+    "speciesId": "turtle",
+    "urls": {
+      "sit": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/sit.png",
+      "happy": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/happy.png",
+      "lie": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/lie.png",
+      "sleep": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/sleep.png",
+      "hungry": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/hungry.png",
+      "thirsty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/thirsty.png",
+      "sick": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/sick.png",
+      "dirty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_turtle_lagoon_guardian/dirty.png"
+    }
+  },
+  "skin_fox_coral_reef_dancer": {
+    "speciesId": "fox",
+    "urls": {
+      "sit": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/sit.png",
+      "happy": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/happy.png",
+      "lie": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/lie.png",
+      "sleep": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/sleep.png",
+      "hungry": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/hungry.png",
+      "thirsty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/thirsty.png",
+      "sick": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/sick.png",
+      "dirty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_fox_coral_reef_dancer/dirty.png"
+    }
+  },
+  "skin_red_panda_pearl_diver": {
+    "speciesId": "red_panda",
+    "urls": {
+      "sit": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/sit.png",
+      "happy": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/happy.png",
+      "lie": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/lie.png",
+      "sleep": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/sleep.png",
+      "hungry": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/hungry.png",
+      "thirsty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/thirsty.png",
+      "sick": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/sick.png",
+      "dirty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_red_panda_pearl_diver/dirty.png"
+    }
+  },
+  "skin_moon_whale_starlit_tide": {
+    "speciesId": "moon_whale",
+    "urls": {
+      "sit": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/sit.png",
+      "happy": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/happy.png",
+      "lie": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/lie.png",
+      "sleep": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/sleep.png",
+      "hungry": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/hungry.png",
+      "thirsty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/thirsty.png",
+      "sick": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/sick.png",
+      "dirty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_moon_whale_starlit_tide/dirty.png"
+    }
+  },
+  "skin_star_slime_lantern_drifter": {
+    "speciesId": "star_slime",
+    "urls": {
+      "sit": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/sit.png",
+      "happy": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/happy.png",
+      "lie": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/lie.png",
+      "sleep": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/sleep.png",
+      "hungry": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/hungry.png",
+      "thirsty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/thirsty.png",
+      "sick": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/sick.png",
+      "dirty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_star_slime_lantern_drifter/dirty.png"
+    }
+  },
+  "skin_baby_dragon_abyssal_summer": {
+    "speciesId": "baby_dragon",
+    "urls": {
+      "sit": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/sit.png",
+      "happy": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/happy.png",
+      "lie": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/lie.png",
+      "sleep": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/sleep.png",
+      "hungry": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/hungry.png",
+      "thirsty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/thirsty.png",
+      "sick": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/sick.png",
+      "dirty": "https://raw.githubusercontent.com/mimibotvn/image/main/petyuna/skins/skin_baby_dragon_abyssal_summer/dirty.png"
+    }
+  }
+}
