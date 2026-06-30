@@ -1,6 +1,6 @@
 {
   "style": "werewolf-dark-fantasy-v1",
-  "rolesCount": 56,
+  "rolesCount": 283,
   "bannersCount": 8,
   "roles": [
     {
@@ -86,7 +86,7 @@
       "label": "Phe Dân",
       "team": "villager",
       "category": "villager_basic",
-      "description": "Đêm đầu tiên, chọn hai người để trở thành người yêu, họ sẽ chết cùng nhau nếu một người chết.",
+      "description": "Đêm đầu tiên, chọn hai người để trở thành người yêu. Nếu một người chết thì người còn lại cũng chết theo; nếu hai người khác phe, họ trở thành phe Cặp Đôi riêng.",
       "slug": "than-tinh-yeu",
       "output": "roles/than-tinh-yeu.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/than-tinh-yeu.png"
@@ -130,7 +130,7 @@
       "label": "Phe Dân",
       "team": "villager",
       "category": "villager_advanced",
-      "description": "Một đêm trong ván game, chọn một người để biết vai trò chính xác của họ.",
+      "description": "Một đêm trong ván, chọn một người để biết vai trò chính xác của họ.",
       "slug": "tham-tu",
       "output": "roles/tham-tu.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tham-tu.png"
@@ -152,7 +152,7 @@
       "label": "Phe Dân",
       "team": "villager",
       "category": "villager_advanced",
-      "description": "Có hai bình thuốc: một để cứu/hồi sinh người, một để giết người, mỗi bình dùng một lần trong game.",
+      "description": "Có hai bình thuốc: một để cứu/hồi sinh người, một để giết người, mỗi bình dùng một lần trong ván.",
       "slug": "phu-thuy",
       "output": "roles/phu-thuy.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/phu-thuy.png"
@@ -284,7 +284,7 @@
       "label": "Phe Dân",
       "team": "villager",
       "category": "villager_advanced",
-      "description": "Một lần trong game, có thể tiết lộ vai trò của một người và ngăn mọi người bỏ phiếu trong ngày đó.",
+      "description": "Một lần trong ván, có thể tiết lộ vai trò của một người và ngăn mọi người bỏ phiếu trong ngày đó.",
       "slug": "nguoi-yeu-hoa-binh",
       "output": "roles/nguoi-yeu-hoa-binh.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-yeu-hoa-binh.png"
@@ -306,7 +306,7 @@
       "label": "Phe Dân",
       "team": "villager",
       "category": "villager_advanced",
-      "description": "Một lần trong game, có thể cứu một người khỏi bị treo cổ.",
+      "description": "Một lần trong ván, có thể cứu một người khỏi bị treo cổ.",
       "slug": "nguoi-khai-menh",
       "output": "roles/nguoi-khai-menh.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-khai-menh.png"
@@ -317,7 +317,7 @@
       "label": "Phe Dân",
       "team": "villager",
       "category": "villager_advanced",
-      "description": "Đầu game, chọn một người; nếu người đó chết, Kẻ Trộm Mộ trở thành vai trò của họ.",
+      "description": "Đầu ván, chọn một người; nếu người đó chết, Kẻ Trộm Mộ trở thành vai trò của họ.",
       "slug": "ke-trom-mo",
       "output": "roles/ke-trom-mo.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-trom-mo.png"
@@ -394,7 +394,7 @@
       "label": "Phe Sói",
       "team": "werewolf",
       "category": "wolf_roles",
-      "description": "Hai lần trong game, có thể khiến một người chơi không sử dụng khả năng vào ban đêm.",
+      "description": "Hai lần trong ván, có thể khiến một người chơi không sử dụng khả năng vào ban đêm.",
       "slug": "soi-ac-mong",
       "output": "roles/soi-ac-mong.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-ac-mong.png"
@@ -416,7 +416,7 @@
       "label": "Phe Sói",
       "team": "werewolf",
       "category": "wolf_roles",
-      "description": "Một lần trong game, có thể ngăn mọi người bỏ phiếu trong ngày.",
+      "description": "Một lần trong ván, có thể ngăn mọi người bỏ phiếu trong ngày.",
       "slug": "soi-hoa-binh",
       "output": "roles/soi-hoa-binh.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-hoa-binh.png"
@@ -427,7 +427,7 @@
       "label": "Phe Sói",
       "team": "werewolf",
       "category": "wolf_roles",
-      "description": "Một lần trong game, có thể nhân đôi số phiếu của đội Ma Sói trong ngày.",
+      "description": "Một lần trong ván, có thể nhân đôi số phiếu của đội Ma Sói trong ngày.",
       "slug": "soi-hac-am",
       "output": "roles/soi-hac-am.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-hac-am.png"
@@ -438,7 +438,7 @@
       "label": "Phe Sói",
       "team": "werewolf",
       "category": "wolf_roles",
-      "description": "Một lần trong game, có thể bảo vệ một người chơi khỏi bị treo cổ.",
+      "description": "Một lần trong ván, có thể bảo vệ một người chơi khỏi bị treo cổ.",
       "slug": "soi-bao-ho",
       "output": "roles/soi-bao-ho.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bao-ho.png"
@@ -449,7 +449,7 @@
       "label": "Phe Sói",
       "team": "werewolf",
       "category": "wolf_roles",
-      "description": "Một lần trong game, có thể kích hoạt trạng thái điên cuồng, giết cả nạn nhân và người bảo vệ.",
+      "description": "Một lần trong ván, có thể kích hoạt trạng thái điên cuồng, giết cả nạn nhân và người bảo vệ.",
       "slug": "soi-dien-cuong",
       "output": "roles/soi-dien-cuong.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-dien-cuong.png"
@@ -468,7 +468,7 @@
     {
       "id": "serial_killer",
       "name": "Sát Nhân Hàng Loạt",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể giết một người chơi; không thể bị Ma Sói giết.",
@@ -479,7 +479,7 @@
     {
       "id": "arsonist",
       "name": "Kẻ Phóng Hỏa",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể tẩm xăng hai người hoặc phóng hỏa những người đã tẩm xăng; không thể bị Ma Sói giết.",
@@ -490,7 +490,7 @@
     {
       "id": "fool",
       "name": "Thằng Ngố",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Thắng nếu bị Dân Làng treo cổ.",
@@ -501,10 +501,10 @@
     {
       "id": "tanner",
       "name": "Kẻ Chán Đời",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
-      "description": "Thắng nếu bị treo cổ trong phiên vote ngày đầu tiên.",
+      "description": "Thắng nếu bị treo cổ trong phiên bỏ phiếu ngày đầu tiên.",
       "slug": "ke-chan-doi",
       "output": "roles/ke-chan-doi.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-chan-doi.png"
@@ -512,7 +512,7 @@
     {
       "id": "headhunter",
       "name": "Thợ Săn Người",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Chọn một mục tiêu; thắng nếu mục tiêu bị treo cổ, nếu mục tiêu chết cách khác, trở thành Dân Làng.",
@@ -523,7 +523,7 @@
     {
       "id": "bomber",
       "name": "Kẻ Đặt Bom",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể đặt bom lên một người; nếu chết, tất cả người bị đặt bom cũng chết.",
@@ -534,7 +534,7 @@
     {
       "id": "hacker",
       "name": "Tin Tặc",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể xâm nhập một người, khiến họ mất quyền nói và bỏ phiếu, rồi chết vào cuối ngày.",
@@ -545,7 +545,7 @@
     {
       "id": "cannibal",
       "name": "Kẻ Ăn Thịt Người",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể ăn một người chơi; không thể bị Ma Sói giết.",
@@ -556,7 +556,7 @@
     {
       "id": "illusionist",
       "name": "Sát Nhân Ảnh Thuật",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể giết một người chơi bằng ảnh thuật; không thể bị Ma Sói giết.",
@@ -567,7 +567,7 @@
     {
       "id": "bandit",
       "name": "Côn Đồ",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, dụ dỗ một người làm đồng phạm để giết người; không thể bị Ma Sói giết.",
@@ -578,7 +578,7 @@
     {
       "id": "accomplice",
       "name": "Kẻ Đồng Phạm",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Hỗ trợ Côn Đồ giết người; thắng nếu là người cuối cùng sống sót.",
@@ -589,8 +589,8 @@
     {
       "id": "cult_leader",
       "name": "Giáo Chủ",
-      "label": "Giáo Phái",
-      "team": "solo",
+      "label": "Phe Giáo Phái",
+      "team": "cult",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể chiêu mộ một người vào giáo phái; thắng nếu giáo phái chiếm đa số.",
       "slug": "giao-chu",
@@ -599,25 +599,2295 @@
     },
     {
       "id": "zombie",
-      "name": "Xác Sống",
-      "label": "Xác Sống",
-      "team": "solo",
+      "name": "Thây Ma",
+      "label": "Phe Thây Ma",
+      "team": "zombie",
       "category": "solo_roles",
       "description": "Mỗi đêm, có thể lây nhiễm một người; thắng nếu tất cả người chơi trở thành Xác Sống.",
-      "slug": "xac-song",
-      "output": "roles/xac-song.png",
-      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/xac-song.png"
+      "slug": "thay-ma",
+      "output": "roles/thay-ma.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thay-ma.png"
     },
     {
       "id": "alchemist",
       "name": "Nhà Giả Kim",
-      "label": "Phe Solo",
+      "label": "Phe Độc Lập",
       "team": "solo",
       "category": "solo_roles",
       "description": "Mỗi đêm, đưa hai lọ thuốc (đỏ và đen) cho hai người; người nhận lọ đen sẽ chết vào cuối ngày.",
       "slug": "nha-gia-kim",
       "output": "roles/nha-gia-kim.png",
       "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-gia-kim.png"
+    },
+    {
+      "id": "instigator",
+      "name": "Kẻ Xúi Giục",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Đêm đầu tiên, chọn 1 Dân Làng và 1 vai trò nguy hiểm để lập phe riêng. Hai hội viên chết dây chuyền, và khi cả hai đã ngã xuống bạn có thể tự tay giết mỗi đêm.",
+      "slug": "ke-xui-giuc",
+      "output": "roles/ke-xui-giuc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-xui-giuc.png"
+    },
+    {
+      "id": "trapper",
+      "name": "Bẫy Thú",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đặt bẫy lên chính mình; nếu bị Ma Sói tấn công, một con sói ngẫu nhiên sẽ chết thay. Chỉ dùng một lần.",
+      "slug": "bay-thu",
+      "output": "roles/bay-thu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bay-thu.png"
+    },
+    {
+      "id": "lycan",
+      "name": "Người Sói Giả",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Dân Làng bình thường, nhưng khi bị Tiên Tri soi sẽ hiện ra là Ma Sói.",
+      "slug": "nguoi-soi-gia",
+      "output": "roles/nguoi-soi-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-soi-gia.png"
+    },
+    {
+      "id": "coroner",
+      "name": "Pháp Y",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm, chọn một người đã chết để biết vai trò chính xác và ai đã giết họ.",
+      "slug": "phap-y",
+      "output": "roles/phap-y.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/phap-y.png"
+    },
+    {
+      "id": "aura_seer",
+      "name": "Tiên Tri Hào Quang",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm, soi một người để biết họ có khả năng đặc biệt hay không (không biết cụ thể vai).",
+      "slug": "tien-tri-hao-quang",
+      "output": "roles/tien-tri-hao-quang.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tien-tri-hao-quang.png"
+    },
+    {
+      "id": "vigilante",
+      "name": "Dân Quân",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Một lần trong ván, có thể bắn chết một người chơi vào ban đêm.",
+      "slug": "dan-quan",
+      "output": "roles/dan-quan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/dan-quan.png"
+    },
+    {
+      "id": "doppelganger",
+      "name": "Người Phân Thân",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đêm đầu chọn 1 người, khi người đó chết → nhận vai trò của họ.",
+      "slug": "nguoi-phan-than",
+      "output": "roles/nguoi-phan-than.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-phan-than.png"
+    },
+    {
+      "id": "oracle",
+      "name": "Tiên Tri Mù",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm biết 1 người chắc chắn KHÔNG phải Ma Sói.",
+      "slug": "tien-tri-mu",
+      "output": "roles/tien-tri-mu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tien-tri-mu.png"
+    },
+    {
+      "id": "guardian_angel",
+      "name": "Thiên Thần Hộ Mệnh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Bảo vệ 1 người cả đêm lẫn ngày, nhưng không được chọn cùng 1 người liên tiếp.",
+      "slug": "thien-than-ho-menh",
+      "output": "roles/thien-than-ho-menh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thien-than-ho-menh.png"
+    },
+    {
+      "id": "drunk",
+      "name": "Anh Say",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Nhận vai trò giả, đêm thứ 3 mới biết vai thật của mình.",
+      "slug": "anh-say",
+      "output": "roles/anh-say.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/anh-say.png"
+    },
+    {
+      "id": "mason",
+      "name": "Hội Kín",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "2 thành viên Hội Kín biết nhau từ đầu ván, luôn thuộc phe Dân Làng.",
+      "slug": "hoi-kin",
+      "output": "roles/hoi-kin.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/hoi-kin.png"
+    },
+    {
+      "id": "prince",
+      "name": "Hoàng Tử",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Không thể bị treo cổ lần đầu tiên, được cứu 1 lần.",
+      "slug": "hoang-tu",
+      "output": "roles/hoang-tu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/hoang-tu.png"
+    },
+    {
+      "id": "diseased",
+      "name": "Người Bệnh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Nếu bị sói giết, sói không thể giết ai đêm tiếp theo.",
+      "slug": "nguoi-benh",
+      "output": "roles/nguoi-benh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-benh.png"
+    },
+    {
+      "id": "old_hag",
+      "name": "Phù Thủy Già",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 1 người bị đuổi khỏi làng, không nói/bỏ phiếu ngày hôm sau.",
+      "slug": "phu-thuy-gia",
+      "output": "roles/phu-thuy-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/phu-thuy-gia.png"
+    },
+    {
+      "id": "spellcaster",
+      "name": "Pháp Sư",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm câm 1 người, người đó không được nói ngày hôm sau.",
+      "slug": "phap-su",
+      "output": "roles/phap-su.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/phap-su.png"
+    },
+    {
+      "id": "hermit",
+      "name": "Ẩn Sĩ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Miễn nhiễm với tất cả hành động trong đêm đầu tiên.",
+      "slug": "an-si",
+      "output": "roles/an-si.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/an-si.png"
+    },
+    {
+      "id": "mentalist",
+      "name": "Thần Giao",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 2 người, biết họ cùng phe hay khác phe.",
+      "slug": "than-giao",
+      "output": "roles/than-giao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/than-giao.png"
+    },
+    {
+      "id": "shepherd",
+      "name": "Người Chăn Cừu",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Có cừu bảo vệ, nếu bị sói giết → cừu chết thay (1 lần).",
+      "slug": "nguoi-chan-cuu",
+      "output": "roles/nguoi-chan-cuu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-chan-cuu.png"
+    },
+    {
+      "id": "baker",
+      "name": "Thợ Bánh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Khi Baker chết, mỗi người phải 'ăn' mỗi ngày hoặc chết đói sau 2 ngày.",
+      "slug": "tho-banh",
+      "output": "roles/tho-banh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-banh.png"
+    },
+    {
+      "id": "innkeeper",
+      "name": "Chủ Quán",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm mời 2 người vào quán → miễn nhiễm nhưng không dùng được kĩ năng.",
+      "slug": "chu-quan",
+      "output": "roles/chu-quan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/chu-quan.png"
+    },
+    {
+      "id": "farmer",
+      "name": "Nông Dân",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Khi chết, tất cả Farmer còn sống biết vai trò 1 người ngẫu nhiên.",
+      "slug": "nong-dan",
+      "output": "roles/nong-dan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nong-dan.png"
+    },
+    {
+      "id": "exorcist",
+      "name": "Trừ Tà",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 1 nhà, sói không được ghé nhà đó.",
+      "slug": "tru-ta",
+      "output": "roles/tru-ta.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tru-ta.png"
+    },
+    {
+      "id": "judge",
+      "name": "Thẩm Phán",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "1 lần trong ván, lật ngược kết quả bỏ phiếu (treo người nhiều bỏ phiếu nhì).",
+      "slug": "tham-phan",
+      "output": "roles/tham-phan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tham-phan.png"
+    },
+    {
+      "id": "spy_villager",
+      "name": "Gián Điệp Dân",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Biết những hành động nào xảy ra trong đêm (ai ghé thăm ai).",
+      "slug": "gian-diep-dan",
+      "output": "roles/gian-diep-dan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/gian-diep-dan.png"
+    },
+    {
+      "id": "saintess",
+      "name": "Thánh Nữ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Nếu bị treo cổ → phe Dân Làng thua ngay lập tức!",
+      "slug": "thanh-nu",
+      "output": "roles/thanh-nu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thanh-nu.png"
+    },
+    {
+      "id": "veteran",
+      "name": "Cựu Binh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "3 lần trong ván, kích hoạt 'cảnh giác' → ai ghé thăm đêm đó đều chết.",
+      "slug": "cuu-binh",
+      "output": "roles/cuu-binh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cuu-binh.png"
+    },
+    {
+      "id": "retributionist",
+      "name": "Chiêu Hồn Sư",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "1 lần, hồi sinh 1 dân đã chết và cho họ dùng kỹ năng 1 đêm nữa.",
+      "slug": "chieu-hon-su",
+      "output": "roles/chieu-hon-su.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/chieu-hon-su.png"
+    },
+    {
+      "id": "transporter",
+      "name": "Người Vận Chuyển",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm đổi vị trí 2 người → mọi action nhắm vào A trúng B và ngược lại.",
+      "slug": "nguoi-van-chuyen",
+      "output": "roles/nguoi-van-chuyen.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-van-chuyen.png"
+    },
+    {
+      "id": "lookout",
+      "name": "Người Canh Gác",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 1 người, biết AI đã ghé thăm người đó.",
+      "slug": "nguoi-canh-gac",
+      "output": "roles/nguoi-canh-gac.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-canh-gac.png"
+    },
+    {
+      "id": "tracker",
+      "name": "Thợ Dò",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 1 người, biết người đó đã ghé thăm AI.",
+      "slug": "tho-do",
+      "output": "roles/tho-do.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-do.png"
+    },
+    {
+      "id": "escort",
+      "name": "Hộ Tống",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 1 người, chặn kỹ năng của người đó (chặn kỹ năng).",
+      "slug": "ho-tong",
+      "output": "roles/ho-tong.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ho-tong.png"
+    },
+    {
+      "id": "librarian",
+      "name": "Thủ Thư",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đêm 1, được cho biết 2 người chơi, 1 trong 2 có vai trò X cụ thể.",
+      "slug": "thu-thu",
+      "output": "roles/thu-thu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thu-thu.png"
+    },
+    {
+      "id": "empath",
+      "name": "Cảm Xạ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm biết bao nhiêu hàng xóm (2 người ngồi cạnh) là ác.",
+      "slug": "cam-xa",
+      "output": "roles/cam-xa.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cam-xa.png"
+    },
+    {
+      "id": "washerwoman",
+      "name": "Bà Giặt",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đêm 1 biết chính xác 1 người LÀ vai trò X (thông tin chuẩn).",
+      "slug": "ba-giat",
+      "output": "roles/ba-giat.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ba-giat.png"
+    },
+    {
+      "id": "ravenkeeper",
+      "name": "Người Nuôi Quạ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Khi chết, được chọn 1 người để biết vai trò chính xác.",
+      "slug": "nguoi-nuoi-qua",
+      "output": "roles/nguoi-nuoi-qua.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-nuoi-qua.png"
+    },
+    {
+      "id": "soldier",
+      "name": "Lính",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Miễn nhiễm với tấn công sói (nhưng vẫn bị treo cổ / vai độc lập giết).",
+      "slug": "linh",
+      "output": "roles/linh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/linh.png"
+    },
+    {
+      "id": "monk",
+      "name": "Sư Thầy",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm bảo vệ 1 người khỏi sói (nhưng không thể bảo vệ chính mình).",
+      "slug": "su-thay",
+      "output": "roles/su-thay.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/su-thay.png"
+    },
+    {
+      "id": "fisherman",
+      "name": "Ngư Dân",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "1 lần, nhận 1 lời khuyên bí mật từ hệ thống về ai là sói.",
+      "slug": "ngu-dan",
+      "output": "roles/ngu-dan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ngu-dan.png"
+    },
+    {
+      "id": "tea_lady",
+      "name": "Bà Trà",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "2 người ngồi cạnh miễn nhiễm sói NẾU cả 2 đều là dân.",
+      "slug": "ba-tra",
+      "output": "roles/ba-tra.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ba-tra.png"
+    },
+    {
+      "id": "clockmaker",
+      "name": "Thợ Đồng Hồ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đêm 1, biết khoảng cách giữa sói gần nhất và vai độc lập gần nhất.",
+      "slug": "tho-dong-ho",
+      "output": "roles/tho-dong-ho.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-dong-ho.png"
+    },
+    {
+      "id": "balloonist",
+      "name": "Người Bay Khinh Khí Cầu",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm biết 1 người thuộc 1 type vai mới (không trùng type cũ).",
+      "slug": "nguoi-bay-khinh-khi-cau",
+      "output": "roles/nguoi-bay-khinh-khi-cau.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-bay-khinh-khi-cau.png"
+    },
+    {
+      "id": "psychologist",
+      "name": "Nhà Tâm Lý",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 1 người, biết người đó có bị ghé thăm bởi ai không.",
+      "slug": "nha-tam-ly",
+      "output": "roles/nha-tam-ly.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-tam-ly.png"
+    },
+    {
+      "id": "treasurer",
+      "name": "Thủ Quỹ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm 'thuê' 1 người bảo vệ mình. Nếu bị giết, người thuê chết thay.",
+      "slug": "thu-quy",
+      "output": "roles/thu-quy.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thu-quy.png"
+    },
+    {
+      "id": "scribe",
+      "name": "Thư Ký",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm ghi chép, biết TỔNG SỐ hành động đêm đã xảy ra.",
+      "slug": "thu-ky",
+      "output": "roles/thu-ky.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thu-ky.png"
+    },
+    {
+      "id": "lamplighter",
+      "name": "Người Thắp Đèn",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chiếu sáng 1 người, ai ghé thăm người đó bị lộ cho cả làng.",
+      "slug": "nguoi-thap-den",
+      "output": "roles/nguoi-thap-den.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-thap-den.png"
+    },
+    {
+      "id": "twins",
+      "name": "Song Sinh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "2 người, biết nhau. Nếu 1 chết, người kia biết ai giết.",
+      "slug": "song-sinh",
+      "output": "roles/song-sinh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/song-sinh.png"
+    },
+    {
+      "id": "alarmist",
+      "name": "Người Báo Động",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Khi 1 dân đặc biệt bị giết, tự động tiết lộ vai trò người đó.",
+      "slug": "nguoi-bao-dong",
+      "output": "roles/nguoi-bao-dong.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-bao-dong.png"
+    },
+    {
+      "id": "sacrifice",
+      "name": "Người Hy Sinh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "1 lần, chết thay cho người bị sói chọn đêm đó.",
+      "slug": "nguoi-hy-sinh",
+      "output": "roles/nguoi-hy-sinh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-hy-sinh.png"
+    },
+    {
+      "id": "inspector",
+      "name": "Thanh Tra",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 2 người, biết họ có cùng vai trò/phe không.",
+      "slug": "thanh-tra",
+      "output": "roles/thanh-tra.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thanh-tra.png"
+    },
+    {
+      "id": "locksmith",
+      "name": "Thợ Khóa",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm khóa nhà 1 người → không bị ghé thăm nhưng cũng không ghé thăm ai.",
+      "slug": "tho-khoa",
+      "output": "roles/tho-khoa.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-khoa.png"
+    },
+    {
+      "id": "herald",
+      "name": "Người Truyền Tin",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "1 lần ban ngày, buộc 1 người tiết lộ vai trò công khai.",
+      "slug": "nguoi-truyen-tin",
+      "output": "roles/nguoi-truyen-tin.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-truyen-tin.png"
+    },
+    {
+      "id": "bouncer",
+      "name": "Vệ Sĩ Bar",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm canh 1 người, sói tấn công bị bật ra và Bouncer biết sói.",
+      "slug": "ve-si-bar",
+      "output": "roles/ve-si-bar.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ve-si-bar.png"
+    },
+    {
+      "id": "conjurer",
+      "name": "Thuật Triệu Hồi",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "1 lần, triệu hồi linh hồn 1 người đã chết để thêm 1 phiếu bỏ phiếu.",
+      "slug": "thuat-trieu-hoi",
+      "output": "roles/thuat-trieu-hoi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thuat-trieu-hoi.png"
+    },
+    {
+      "id": "spy_wolf",
+      "name": "Sói Gián Điệp",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Phe Sói nhưng khi bị Tiên Tri soi sẽ hiện ra là Dân Làng. Ban đêm biết ai đã bị soi.",
+      "slug": "soi-gian-diep",
+      "output": "roles/soi-gian-diep.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-gian-diep.png"
+    },
+    {
+      "id": "infecting_wolf",
+      "name": "Sói Lây Nhiễm",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Một lần trong ván, có thể lây nhiễm nạn nhân biến họ thành Ma Sói thay vì giết.",
+      "slug": "soi-lay-nhiem",
+      "output": "roles/soi-lay-nhiem.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-lay-nhiem.png"
+    },
+    {
+      "id": "mystic_wolf",
+      "name": "Sói Huyền Bí",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Ngoài tấn công, mỗi đêm soi được 1 người như Tiên Tri.",
+      "slug": "soi-huyen-bi",
+      "output": "roles/soi-huyen-bi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-huyen-bi.png"
+    },
+    {
+      "id": "dire_wolf",
+      "name": "Sói Chết Chóc",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Chọn 1 người liên kết đầu ván, nếu người liên kết chết → cũng chết.",
+      "slug": "soi-chet-choc",
+      "output": "roles/soi-chet-choc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-chet-choc.png"
+    },
+    {
+      "id": "minion",
+      "name": "Tay Sai",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Biết ai là sói, sói không biết mình. Bị soi ra là dân.",
+      "slug": "tay-sai",
+      "output": "roles/tay-sai.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tay-sai.png"
+    },
+    {
+      "id": "silencer_wolf",
+      "name": "Sói Câm Lặng",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm câm 1 người, không được nói ngày hôm sau.",
+      "slug": "soi-cam-lang",
+      "output": "roles/soi-cam-lang.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-cam-lang.png"
+    },
+    {
+      "id": "voodoo_wolf",
+      "name": "Sói Voodoo",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm đổi kết quả soi của 1 người (ra kết quả ngược).",
+      "slug": "soi-voodoo",
+      "output": "roles/soi-voodoo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-voodoo.png"
+    },
+    {
+      "id": "thief_wolf",
+      "name": "Sói Trộm",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "1 lần, đánh cắp vai trò đặc biệt của 1 dân (dân thành Dân Làng thường).",
+      "slug": "soi-trom",
+      "output": "roles/soi-trom.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-trom.png"
+    },
+    {
+      "id": "assassin_wolf",
+      "name": "Sói Sát Thủ",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "1 lần, giết thêm 1 người ngoài mục tiêu chung của sói.",
+      "slug": "soi-sat-thu",
+      "output": "roles/soi-sat-thu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-sat-thu.png"
+    },
+    {
+      "id": "shapeshifter_wolf",
+      "name": "Sói Biến Hình",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm đội lốt 1 vai trò dân làng, bị soi ra vai đó.",
+      "slug": "soi-bien-hinh",
+      "output": "roles/soi-bien-hinh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bien-hinh.png"
+    },
+    {
+      "id": "poisoner_wolf",
+      "name": "Sói Độc",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm đầu độc 1 người → kỹ năng cho kết quả sai.",
+      "slug": "soi-doc",
+      "output": "roles/soi-doc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-doc.png"
+    },
+    {
+      "id": "godfather_wolf",
+      "name": "Sói Bố Già",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Bị soi ra là dân. Nếu tất cả sói khác chết → trở thành sói thường.",
+      "slug": "soi-bo-gia",
+      "output": "roles/soi-bo-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bo-gia.png"
+    },
+    {
+      "id": "scarlet_woman",
+      "name": "Quý Bà Đỏ",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Nếu sói cuối cùng chết → trở thành sói mới, ván tiếp tục.",
+      "slug": "quy-ba-do",
+      "output": "roles/quy-ba-do.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quy-ba-do.png"
+    },
+    {
+      "id": "baron_wolf",
+      "name": "Sói Nam Tước",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Khi có Sói Nam Tước, thêm 2 người ngoài vào ván.",
+      "slug": "soi-nam-tuoc",
+      "output": "roles/soi-nam-tuoc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-nam-tuoc.png"
+    },
+    {
+      "id": "wolf_trapper",
+      "name": "Sói Bẫy",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm đặt bẫy 1 người, ai ghé thăm người đó bị chặn kỹ năng.",
+      "slug": "soi-bay",
+      "output": "roles/soi-bay.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bay.png"
+    },
+    {
+      "id": "jinx_wolf",
+      "name": "Sói Nguyền",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Chọn 2 người, nếu 1 trong 2 chết → người còn lại cũng chết.",
+      "slug": "soi-nguyen",
+      "output": "roles/soi-nguyen.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-nguyen.png"
+    },
+    {
+      "id": "confuser_wolf",
+      "name": "Sói Gây Rối",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm đổi vai hiển thị của 1 người khi bị soi.",
+      "slug": "soi-gay-roi",
+      "output": "roles/soi-gay-roi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-gay-roi.png"
+    },
+    {
+      "id": "undertaker_wolf",
+      "name": "Sói Đào Mộ",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Biết vai trò của người bị treo cổ mỗi ngày.",
+      "slug": "soi-dao-mo",
+      "output": "roles/soi-dao-mo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-dao-mo.png"
+    },
+    {
+      "id": "puppetmaster_wolf",
+      "name": "Sói Rối",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "1 lần, kiểm soát bỏ phiếu của 1 người ban ngày.",
+      "slug": "soi-roi",
+      "output": "roles/soi-roi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-roi.png"
+    },
+    {
+      "id": "saboteur_wolf",
+      "name": "Sói Phá Hoại",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm phá 1 kỹ năng của dân (ngẫu nhiên, dân không biết).",
+      "slug": "soi-pha-hoai",
+      "output": "roles/soi-pha-hoai.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-pha-hoai.png"
+    },
+    {
+      "id": "parasite_wolf",
+      "name": "Sói Ký Sinh",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Ký sinh lên 1 dân, nếu Parasite bị treo cổ → dân đó cũng chết.",
+      "slug": "soi-ky-sinh",
+      "output": "roles/soi-ky-sinh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-ky-sinh.png"
+    },
+    {
+      "id": "phantom_wolf",
+      "name": "Sói Bóng Ma",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Khi chết, vẫn sống ẩn thêm 1 đêm (tấn công lần cuối).",
+      "slug": "soi-bong-ma",
+      "output": "roles/soi-bong-ma.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bong-ma.png"
+    },
+    {
+      "id": "ritualist_wolf",
+      "name": "Sói Nghi Lễ",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi 3 đêm, làm lễ → biết chính xác 1 vai trò dân ngẫu nhiên.",
+      "slug": "soi-nghi-le",
+      "output": "roles/soi-nghi-le.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-nghi-le.png"
+    },
+    {
+      "id": "frost_wolf",
+      "name": "Sói Băng Giá",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "2 lần, đóng băng 1 người → bỏ lỡ hoàn toàn ngày hôm sau.",
+      "slug": "soi-bang-gia",
+      "output": "roles/soi-bang-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bang-gia.png"
+    },
+    {
+      "id": "deceiver_wolf",
+      "name": "Sói Lừa Đảo",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Chọn 1 vai dân giả để hiện ra khi bị soi hoặc khi chết.",
+      "slug": "soi-lua-dao",
+      "output": "roles/soi-lua-dao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-lua-dao.png"
+    },
+    {
+      "id": "scriptwriter_wolf",
+      "name": "Sói Biên Kịch",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Ban ngày chọn 1 người để dựng cáo phó giả. Khi người đó chết, vai trò hiển thị sẽ là vai giả.",
+      "slug": "soi-bien-kich",
+      "output": "roles/soi-bien-kich.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bien-kich.png"
+    },
+    {
+      "id": "obscure_wolf",
+      "name": "Sói Mơ Hồ",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Hai lần trong ván, kích hoạt vào ban đêm để ẩn vai trò của các nạn nhân chết trong đêm đó.",
+      "slug": "soi-mo-ho",
+      "output": "roles/soi-mo-ho.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-mo-ho.png"
+    },
+    {
+      "id": "stubborn_wolf",
+      "name": "Sói Bướng Bỉnh",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói lì lợm: lần đầu bị tấn công sẽ chỉ bị suy yếu, lần tấn công sau mới chết.",
+      "slug": "soi-buong-binh",
+      "output": "roles/soi-buong-binh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-buong-binh.png"
+    },
+    {
+      "id": "wolf_necromancer",
+      "name": "Sói Chiêu Hồn",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Vào ban đêm, hồi sinh một sói đã chết trở lại với vai trò Ma Sói thường.",
+      "slug": "soi-chieu-hon",
+      "output": "roles/soi-chieu-hon.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-chieu-hon.png"
+    },
+    {
+      "id": "blind_wolf",
+      "name": "Sói Mù",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Mỗi đêm chọn 2 người để biết nhóm vai trò của họ thay vì vai trò chính xác.",
+      "slug": "soi-mu",
+      "output": "roles/soi-mu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-mu.png"
+    },
+    {
+      "id": "split_wolf",
+      "name": "Sói Phân Tách",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Vào ban đêm, liên kết 2 người chơi; nếu một người chết, người còn lại sẽ chết theo.",
+      "slug": "soi-phan-tach",
+      "output": "roles/soi-phan-tach.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-phan-tach.png"
+    },
+    {
+      "id": "storm_wolf",
+      "name": "Sói Bão Tố",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Một lần trong ván, tạo bão trong đêm để ẩn vai trò người chết và làm nhiễu dấu vết hành động.",
+      "slug": "soi-bao-to",
+      "output": "roles/soi-bao-to.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bao-to.png"
+    },
+    {
+      "id": "jester",
+      "name": "Hề",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Thắng nếu bị Dân Làng treo cổ. Khi bị treo cổ, chọn một người để chết cùng.",
+      "slug": "he",
+      "output": "roles/he.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/he.png"
+    },
+    {
+      "id": "corruptor",
+      "name": "Kẻ Biến Chất",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm, chọn một người để vô hiệu hóa khả năng vĩnh viễn; không thể bị Ma Sói giết.",
+      "slug": "ke-bien-chat",
+      "output": "roles/ke-bien-chat.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-bien-chat.png"
+    },
+    {
+      "id": "plaguebearer",
+      "name": "Kẻ Gieo Dịch",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm, lây bệnh cho một người; thắng nếu tất cả người chơi sống sót đều bị nhiễm bệnh.",
+      "slug": "ke-gieo-dich",
+      "output": "roles/ke-gieo-dich.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-gieo-dich.png"
+    },
+    {
+      "id": "executioner",
+      "name": "Đao Phủ",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Phải khiến 1 mục tiêu bị treo cổ. Mục tiêu chết cách khác → thành Hề.",
+      "slug": "dao-phu",
+      "output": "roles/dao-phu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/dao-phu.png"
+    },
+    {
+      "id": "vampire",
+      "name": "Ma Cà Rồng",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm cắn 1 người, bị cắn 2 lần → thành Ma Cà Rồng. Thắng khi đa số.",
+      "slug": "ma-ca-rong",
+      "output": "roles/ma-ca-rong.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ma-ca-rong.png"
+    },
+    {
+      "id": "fox",
+      "name": "Cáo",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm chọn 3 người liền kề, biết có sói không. Nếu không → mất khả năng.",
+      "slug": "cao",
+      "output": "roles/cao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cao.png"
+    },
+    {
+      "id": "pirate",
+      "name": "Cướp Biển",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Ban ngày thách đấu 1 người. Thắng nếu giết 2 người.",
+      "slug": "cuop-bien",
+      "output": "roles/cuop-bien.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cuop-bien.png"
+    },
+    {
+      "id": "doomsayer",
+      "name": "Kẻ Tiên Đoán",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm chọn 1 người để tiên đoán cái chết của họ. Đoán đúng 3 lần thì thắng.",
+      "slug": "ke-tien-doan",
+      "output": "roles/ke-tien-doan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-tien-doan.png"
+    },
+    {
+      "id": "werewolf_fan",
+      "name": "Kẻ Cuồng Sói",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Muốn bị sói giết! Thắng nếu bị sói cắn chết.",
+      "slug": "ke-cuong-soi",
+      "output": "roles/ke-cuong-soi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-cuong-soi.png"
+    },
+    {
+      "id": "amnesiac",
+      "name": "Mất Trí",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Không biết vai mình, chọn 1 người → nhận phe + điều kiện thắng giống họ.",
+      "slug": "mat-tri",
+      "output": "roles/mat-tri.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/mat-tri.png"
+    },
+    {
+      "id": "politician",
+      "name": "Chính Trị Gia",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Nếu không bị treo cổ → thắng cùng phe thắng. Bị treo cổ → thua.",
+      "slug": "chinh-tri-gia",
+      "output": "roles/chinh-tri-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/chinh-tri-gia.png"
+    },
+    {
+      "id": "godfather",
+      "name": "Bố Già",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm chọn 1 đàn em đi giết. Bị soi ra là dân. Không bị Ma Sói giết.",
+      "slug": "bo-gia",
+      "output": "roles/bo-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bo-gia.png"
+    },
+    {
+      "id": "survivor",
+      "name": "Người Sống Sót",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Chỉ cần sống đến cuối ván. Có 3 áo giáp sinh tồn, mỗi đêm dùng 1 để tự bảo vệ.",
+      "slug": "nguoi-song-sot",
+      "output": "roles/nguoi-song-sot.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-song-sot.png"
+    },
+    {
+      "id": "witch_doctor",
+      "name": "Phù Thủy Độc",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm ban bùa bảo vệ cho 1 người. Thắng nếu đã ban bùa cho 3 người khác nhau.",
+      "slug": "phu-thuy-doc",
+      "output": "roles/phu-thuy-doc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/phu-thuy-doc.png"
+    },
+    {
+      "id": "mimic",
+      "name": "Bắt Chước",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm sao chép diện mạo của 1 người. Vai soi sẽ thấy bạn như vai đó. Thắng nếu sống đến cuối.",
+      "slug": "bat-chuoc",
+      "output": "roles/bat-chuoc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bat-chuoc.png"
+    },
+    {
+      "id": "piper",
+      "name": "Người Thổi Sáo",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm mê hoặc 2 người. Thắng khi tất cả người sống bị mê hoặc.",
+      "slug": "nguoi-thoi-sao",
+      "output": "roles/nguoi-thoi-sao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-thoi-sao.png"
+    },
+    {
+      "id": "necromancer",
+      "name": "Tử Linh Sư",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm dùng kỹ năng của 1 người ĐÃ CHẾT. Thắng nếu sống đến cuối.",
+      "slug": "tu-linh-su",
+      "output": "roles/tu-linh-su.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tu-linh-su.png"
+    },
+    {
+      "id": "succubus",
+      "name": "Quỷ Quyến Rũ",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm quyến rũ 1 người, bỏ phiếu theo ý mình. Thắng kiểm soát 50%+.",
+      "slug": "quy-quyen-ru",
+      "output": "roles/quy-quyen-ru.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quy-quyen-ru.png"
+    },
+    {
+      "id": "phantom",
+      "name": "Bóng Ma",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Khi chết, trở thành bóng ma vô hình, vẫn bỏ phiếu nhưng không ai biết.",
+      "slug": "bong-ma",
+      "output": "roles/bong-ma.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bong-ma.png"
+    },
+    {
+      "id": "warlock",
+      "name": "Thuật Sĩ",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm nguyền 1 người, nếu bỏ phiếu đúng sói → chết.",
+      "slug": "thuat-si",
+      "output": "roles/thuat-si.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thuat-si.png"
+    },
+    {
+      "id": "puppeteer",
+      "name": "Người Giật Dây",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm chọn 1 người và 1 mục tiêu. Nếu họ có hành động 1 mục tiêu trong đêm, hành động đó sẽ bị bẻ sang mục tiêu bạn chọn.",
+      "slug": "nguoi-giat-day",
+      "output": "roles/nguoi-giat-day.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-giat-day.png"
+    },
+    {
+      "id": "anarchist",
+      "name": "Kẻ Vô Chính Phủ",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Thắng nếu ván kéo dài 7+ ngày.",
+      "slug": "ke-vo-chinh-phu",
+      "output": "roles/ke-vo-chinh-phu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-vo-chinh-phu.png"
+    },
+    {
+      "id": "taxidermist",
+      "name": "Thợ Nhồi Xác",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm đánh dấu 1 người. Nếu họ chết, vai công khai sẽ hiện thành một vai giả.",
+      "slug": "tho-nhoi-xac",
+      "output": "roles/tho-nhoi-xac.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-nhoi-xac.png"
+    },
+    {
+      "id": "lawyer",
+      "name": "Luật Sư",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Bảo vệ 1 'thân chủ', bị soi ra kết quả sạch. Thắng cùng thân chủ.",
+      "slug": "luat-su",
+      "output": "roles/luat-su.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/luat-su.png"
+    },
+    {
+      "id": "enchantress",
+      "name": "Nữ Phù Thủy",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm mê hoặc 1 người, bỏ phiếu giống mình. Thắng nếu 4+ bị mê hoặc.",
+      "slug": "nu-phu-thuy",
+      "output": "roles/nu-phu-thuy.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nu-phu-thuy.png"
+    },
+    {
+      "id": "revenant",
+      "name": "Hồn Ma Báo Thù",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Khi chết, chọn 3 người. Mỗi đêm 1 chết. Thắng khi cả 3 chết.",
+      "slug": "hon-ma-bao-thu",
+      "output": "roles/hon-ma-bao-thu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/hon-ma-bao-thu.png"
+    },
+    {
+      "id": "shapeshifter",
+      "name": "Biến Hình",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm giết 1 người và đổi lốt thành vai của họ. Vai soi sẽ thấy bạn như vai cuối cùng đã giết.",
+      "slug": "bien-hinh",
+      "output": "roles/bien-hinh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bien-hinh.png"
+    },
+    {
+      "id": "shadow",
+      "name": "Bóng Tối",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Chọn 1 người ban đêm, nếu chết → cũng chết. Thắng nếu bám 5+ người và sống.",
+      "slug": "bong-toi",
+      "output": "roles/bong-toi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bong-toi.png"
+    },
+    {
+      "id": "dreamcatcher",
+      "name": "Thợ Bắt Giấc Mơ",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm biết vai + ai ghé thăm 1 người. Thắng nếu biết 5 vai.",
+      "slug": "tho-bat-giac-mo",
+      "output": "roles/tho-bat-giac-mo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-bat-giac-mo.png"
+    },
+    {
+      "id": "gambler",
+      "name": "Con Bạc",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm đoán vai 1 người. Đúng → người đó chết. Sai → mình chết.",
+      "slug": "con-bac",
+      "output": "roles/con-bac.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/con-bac.png"
+    },
+    {
+      "id": "demon_detective",
+      "name": "Thám Tử Ác Ma",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm chọn 2 người. Nếu họ khác phe, cả hai chết; nếu cùng phe, bạn biết phe của họ.",
+      "slug": "tham-tu-ac-ma",
+      "output": "roles/tham-tu-ac-ma.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tham-tu-ac-ma.png"
+    },
+    {
+      "id": "nameless",
+      "name": "Kẻ Vô Danh",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Khi bị tấn công lần đầu, gia nhập phe của nguồn tấn công thay vì chết.",
+      "slug": "ke-vo-danh",
+      "output": "roles/ke-vo-danh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-vo-danh.png"
+    },
+    {
+      "id": "night_guard",
+      "name": "Người Gác Đêm",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn 2 người để bảo vệ khỏi các đòn giết trong đêm đó.",
+      "slug": "nguoi-gac-dem",
+      "output": "roles/nguoi-gac-dem.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-gac-dem.png"
+    },
+    {
+      "id": "little_girl",
+      "name": "Cô Bé",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Ban đêm hé nhìn hành động của phe Sói và nhận gợi ý về mục tiêu sói đang nhắm tới.",
+      "slug": "co-be",
+      "output": "roles/co-be.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/co-be.png"
+    },
+    {
+      "id": "thief",
+      "name": "Kẻ Trộm",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đêm đầu chọn một người để học/đổi vai theo luật mở rộng của ván.",
+      "slug": "ke-trom",
+      "output": "roles/ke-trom.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-trom.png"
+    },
+    {
+      "id": "robber",
+      "name": "Cướp Vai",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đêm đầu chọn một người để lấy vai của họ, mục tiêu trở thành Dân Làng.",
+      "slug": "cuop-vai",
+      "output": "roles/cuop-vai.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cuop-vai.png"
+    },
+    {
+      "id": "elder",
+      "name": "Trưởng Lão",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Sống sót qua lần bị sói tấn công đầu tiên; nếu chết bởi dân làng, phe Dân chịu bất lợi.",
+      "slug": "truong-lao",
+      "output": "roles/truong-lao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/truong-lao.png"
+    },
+    {
+      "id": "scapegoat",
+      "name": "Vật Tế Thần",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Nếu biểu quyết bị hòa, bạn có thể bị đem ra làm vật tế thay.",
+      "slug": "vat-te-than",
+      "output": "roles/vat-te-than.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/vat-te-than.png"
+    },
+    {
+      "id": "village_idiot",
+      "name": "Thằng Ngốc Làng",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Nếu bị treo cổ, bạn sống sót nhưng mất quyền bỏ phiếu những ngày sau.",
+      "slug": "thang-ngoc-lang",
+      "output": "roles/thang-ngoc-lang.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thang-ngoc-lang.png"
+    },
+    {
+      "id": "stuttering_judge",
+      "name": "Thẩm Phán Nói Lắp",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Một lần trong ván có thể yêu cầu mở thêm một lượt biểu quyết ban ngày.",
+      "slug": "tham-phan-noi-lap",
+      "output": "roles/tham-phan-noi-lap.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tham-phan-noi-lap.png"
+    },
+    {
+      "id": "crow",
+      "name": "Quạ Đen",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Ban ngày đánh dấu một người để họ nhận thêm áp lực phiếu trong lần bỏ phiếu kế tiếp.",
+      "slug": "qua-den",
+      "output": "roles/qua-den.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/qua-den.png"
+    },
+    {
+      "id": "sister",
+      "name": "Chị Em",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Biết các Chị Em khác trong ván và thắng cùng phe Dân.",
+      "slug": "chi-em",
+      "output": "roles/chi-em.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/chi-em.png"
+    },
+    {
+      "id": "brother",
+      "name": "Anh Em",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Biết các Anh Em khác trong ván và thắng cùng phe Dân.",
+      "slug": "anh-em",
+      "output": "roles/anh-em.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/anh-em.png"
+    },
+    {
+      "id": "bear_tamer",
+      "name": "Người Thuần Gấu",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm kiểm tra xem hai người cạnh bạn có sói hay không.",
+      "slug": "nguoi-thuan-gau",
+      "output": "roles/nguoi-thuan-gau.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-thuan-gau.png"
+    },
+    {
+      "id": "rusty_sword_knight",
+      "name": "Hiệp Sĩ Kiếm Rỉ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Nếu bị sói giết, một sói liên quan sẽ bị thương và chết theo sau.",
+      "slug": "hiep-si-kiem-ri",
+      "output": "roles/hiep-si-kiem-ri.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/hiep-si-kiem-ri.png"
+    },
+    {
+      "id": "wild_child",
+      "name": "Đứa Trẻ Hoang",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đêm đầu chọn hình mẫu; nếu hình mẫu chết, bạn biến thành Ma Sói.",
+      "slug": "dua-tre-hoang",
+      "output": "roles/dua-tre-hoang.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/dua-tre-hoang.png"
+    },
+    {
+      "id": "actor",
+      "name": "Diễn Viên",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Có thể mượn một vai hành động trong danh sách vai dự phòng.",
+      "slug": "dien-vien",
+      "output": "roles/dien-vien.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/dien-vien.png"
+    },
+    {
+      "id": "devoted_servant",
+      "name": "Người Hầu Tận Tụy",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Khi một người bị treo cổ, có thể từ bỏ vai cũ để nhận vai của họ.",
+      "slug": "nguoi-hau-tan-tuy",
+      "output": "roles/nguoi-hau-tan-tuy.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-hau-tan-tuy.png"
+    },
+    {
+      "id": "beholder",
+      "name": "Người Quan Sát",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Biết ai là Tiên Tri từ đầu ván.",
+      "slug": "nguoi-quan-sat",
+      "output": "roles/nguoi-quan-sat.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-quan-sat.png"
+    },
+    {
+      "id": "insomniac",
+      "name": "Kẻ Mất Ngủ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm kiểm tra xem vai trò của bản thân có bị thay đổi hay không.",
+      "slug": "ke-mat-ngu",
+      "output": "roles/ke-mat-ngu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-mat-ngu.png"
+    },
+    {
+      "id": "troublemaker",
+      "name": "Kẻ Gây Rối",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm chọn hai người để hoán đổi mục tiêu hành động của họ.",
+      "slug": "ke-gay-roi",
+      "output": "roles/ke-gay-roi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-gay-roi.png"
+    },
+    {
+      "id": "red_lady",
+      "name": "Quý Cô Đỏ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Ban đêm ghé thăm một người; nếu ghé nhầm sát thủ, bạn chết.",
+      "slug": "quy-co-do",
+      "output": "roles/quy-co-do.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quy-co-do.png"
+    },
+    {
+      "id": "spirit_seer",
+      "name": "Tiên Tri Linh Hồn",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Kiểm tra linh hồn để biết mục tiêu có liên quan tới cái chết gần đây không.",
+      "slug": "tien-tri-linh-hon",
+      "output": "roles/tien-tri-linh-hon.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tien-tri-linh-hon.png"
+    },
+    {
+      "id": "sheriff",
+      "name": "Cảnh Trưởng",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Có quyền đánh dấu một người và hỗ trợ phe Dân trong biểu quyết.",
+      "slug": "canh-truong",
+      "output": "roles/canh-truong.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/canh-truong.png"
+    },
+    {
+      "id": "forger",
+      "name": "Thợ Rèn Giả",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Tạo vật phẩm giả hoặc bảo hộ một người khỏi hiệu ứng xấu trong đêm.",
+      "slug": "tho-ren-gia",
+      "output": "roles/tho-ren-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-ren-gia.png"
+    },
+    {
+      "id": "butcher",
+      "name": "Đồ Tể",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Có thể gây áp lực ban ngày và kết liễu mục tiêu theo luật mở rộng.",
+      "slug": "do-te",
+      "output": "roles/do-te.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/do-te.png"
+    },
+    {
+      "id": "bully",
+      "name": "Kẻ Bắt Nạt",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Ban đêm bắt nạt một người, khiến họ bị khóa hành động hoặc bị câm hôm sau.",
+      "slug": "ke-bat-nat",
+      "output": "roles/ke-bat-nat.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-bat-nat.png"
+    },
+    {
+      "id": "warden",
+      "name": "Cai Ngục",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Giam một người vào ban đêm để bảo vệ hoặc chặn hành động của họ.",
+      "slug": "cai-nguc",
+      "output": "roles/cai-nguc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cai-nguc.png"
+    },
+    {
+      "id": "preacher",
+      "name": "Nhà Truyền Đạo",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Bảo vệ một người khỏi chuyển hóa, cám dỗ hoặc các phe tà giáo.",
+      "slug": "nha-truyen-dao",
+      "output": "roles/nha-truyen-dao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-truyen-dao.png"
+    },
+    {
+      "id": "bell_ringer",
+      "name": "Người Kéo Chuông",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Ban đêm chọn hai người. Nếu một người trong cặp chết, bạn sẽ biết vai trò thật của người còn lại.",
+      "slug": "nguoi-keo-chuong",
+      "output": "roles/nguoi-keo-chuong.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-keo-chuong.png"
+    },
+    {
+      "id": "flagger",
+      "name": "Người Cắm Cờ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Từ đêm thứ hai, chọn một người được bảo vệ và một người hứng đòn thay. Bạn chuyển hướng tối đa 2 đòn tấn công trực tiếp, và sau mỗi lần thành công phải nghỉ 1 đêm.",
+      "slug": "nguoi-cam-co",
+      "output": "roles/nguoi-cam-co.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-cam-co.png"
+    },
+    {
+      "id": "analyst",
+      "name": "Nhà Phân Tích",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Phân tích một người để nhận gợi ý về phe hoặc loại vai trò.",
+      "slug": "nha-phan-tich",
+      "output": "roles/nha-phan-tich.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-phan-tich.png"
+    },
+    {
+      "id": "astronomer",
+      "name": "Nhà Thiên Văn",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Quan sát bầu trời để nhận gợi ý về người có hành động đáng ngờ.",
+      "slug": "nha-thien-van",
+      "output": "roles/nha-thien-van.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-thien-van.png"
+    },
+    {
+      "id": "mortician",
+      "name": "Người Khâm Liệm",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Điều tra người chết để biết vai trò hoặc dấu vết kẻ giết.",
+      "slug": "nguoi-kham-liem",
+      "output": "roles/nguoi-kham-liem.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-kham-liem.png"
+    },
+    {
+      "id": "soulbinder",
+      "name": "Người Ràng Buộc Linh Hồn",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Liên kết linh hồn hai người; một người chết có thể kéo người kia theo.",
+      "slug": "nguoi-rang-buoc-linh-hon",
+      "output": "roles/nguoi-rang-buoc-linh-hon.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-rang-buoc-linh-hon.png"
+    },
+    {
+      "id": "ferryman",
+      "name": "Người Lái Đò",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Tác động lên người chết, hỗ trợ hồi sinh hoặc đưa linh hồn sang trạng thái khác.",
+      "slug": "nguoi-lai-do",
+      "output": "roles/nguoi-lai-do.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-lai-do.png"
+    },
+    {
+      "id": "watchdog",
+      "name": "Người Canh Chừng",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Canh chừng một người, vừa bảo vệ vừa theo dõi ai ghé thăm họ.",
+      "slug": "nguoi-canh-chung",
+      "output": "roles/nguoi-canh-chung.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-canh-chung.png"
+    },
+    {
+      "id": "wise_man",
+      "name": "Nhà Hiền Triết",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Vai trò phe Dân thiên về thông tin, nhận gợi ý để định hướng suy luận.",
+      "slug": "nha-hien-triet",
+      "output": "roles/nha-hien-triet.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-hien-triet.png"
+    },
+    {
+      "id": "journalist",
+      "name": "Nhà Báo",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Phỏng vấn/quan sát một người để nhận thông tin công bố sau đó.",
+      "slug": "nha-bao",
+      "output": "roles/nha-bao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-bao.png"
+    },
+    {
+      "id": "ghost_lady",
+      "name": "Quý Cô Ma",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Liên lạc với linh hồn để biết thông tin về người chết hoặc người bị ghé thăm.",
+      "slug": "quy-co-ma",
+      "output": "roles/quy-co-ma.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quy-co-ma.png"
+    },
+    {
+      "id": "leprous_human",
+      "name": "Người Phong",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Nếu bị sói ăn, phe Sói bị suy yếu và có thể mất lượt giết kế tiếp.",
+      "slug": "nguoi-phong",
+      "output": "roles/nguoi-phong.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-phong.png"
+    },
+    {
+      "id": "resolutionist",
+      "name": "Người Quyết Đoán",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Ban ngày có thể thúc đẩy hoặc chốt một quyết định biểu quyết quan trọng.",
+      "slug": "nguoi-quyet-doan",
+      "output": "roles/nguoi-quyet-doan.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-quyet-doan.png"
+    },
+    {
+      "id": "violinist",
+      "name": "Nghệ Sĩ Vĩ Cầm",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Chọn hai người để biết họ cùng phe hay khác phe.",
+      "slug": "nghe-si-vi-cam",
+      "output": "roles/nghe-si-vi-cam.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nghe-si-vi-cam.png"
+    },
+    {
+      "id": "martyr",
+      "name": "Tử Đạo",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Hy sinh để bảo vệ một người khỏi cái chết trong đêm.",
+      "slug": "tu-dao",
+      "output": "roles/tu-dao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tu-dao.png"
+    },
+    {
+      "id": "old_man",
+      "name": "Ông Lão",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Vai trò dân làng lâu đời; cái chết của bạn tạo bất lợi cho phe Dân.",
+      "slug": "ong-lao",
+      "output": "roles/ong-lao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ong-lao.png"
+    },
+    {
+      "id": "paranormal_investigator",
+      "name": "Điều Tra Siêu Nhiên",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Điều tra siêu nhiên để phát hiện vai trò tà ác hoặc thông tin nhiễu.",
+      "slug": "dieu-tra-sieu-nhien",
+      "output": "roles/dieu-tra-sieu-nhien.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/dieu-tra-sieu-nhien.png"
+    },
+    {
+      "id": "thing",
+      "name": "Cánh Tay Bí Ẩn",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Ban đêm chạm vào một người để báo cho họ biết có người đã ghé thăm.",
+      "slug": "canh-tay-bi-an",
+      "output": "roles/canh-tay-bi-an.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/canh-tay-bi-an.png"
+    },
+    {
+      "id": "time_traveler",
+      "name": "Du Hành Thời Gian",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Làm lệch nhịp thời gian của một người, thường dùng để khóa hoặc trì hoãn hành động đêm.",
+      "slug": "du-hanh-thoi-gian",
+      "output": "roles/du-hanh-thoi-gian.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/du-hanh-thoi-gian.png"
+    },
+    {
+      "id": "admirer",
+      "name": "Người Ngưỡng Mộ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Đầu trận nhận một mục tiêu để ngưỡng mộ. Ban ngày bạn có một lần bảo vệ mạnh dành riêng cho mục tiêu đó.",
+      "slug": "nguoi-nguong-mo",
+      "output": "roles/nguoi-nguong-mo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-nguong-mo.png"
+    },
+    {
+      "id": "nutcracker",
+      "name": "Kẹp Hạt Dẻ",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Vai trò sự kiện phe Dân, có thể bảo vệ hoặc khóa hiệu ứng theo đêm.",
+      "slug": "kep-hat-de",
+      "output": "roles/kep-hat-de.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/kep-hat-de.png"
+    },
+    {
+      "id": "rainmaker",
+      "name": "Người Gọi Mưa",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Từ đêm thứ hai, trao gậy gọi mưa cho một người tối đa hai lần. Nếu họ sắp bị treo cổ, cơn mưa sẽ hủy lượt treo cổ đó.",
+      "slug": "nguoi-goi-mua",
+      "output": "roles/nguoi-goi-mua.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-goi-mua.png"
+    },
+    {
+      "id": "santa_claus",
+      "name": "Ông Già Noel",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Tặng quà hỗ trợ cho người chơi vào ban đêm.",
+      "slug": "ong-gia-noel",
+      "output": "roles/ong-gia-noel.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ong-gia-noel.png"
+    },
+    {
+      "id": "snow_angel",
+      "name": "Thiên Thần Tuyết",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Bảo vệ một người bằng tuyết, giảm rủi ro chết trong đêm.",
+      "slug": "thien-than-tuyet",
+      "output": "roles/thien-than-tuyet.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thien-than-tuyet.png"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Yêu Tinh May Mắn",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Vai trò may mắn, có thể tạo hiệu ứng bảo vệ hoặc né rủi ro.",
+      "slug": "yeu-tinh-may-man",
+      "output": "roles/yeu-tinh-may-man.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/yeu-tinh-may-man.png"
+    },
+    {
+      "id": "amulet",
+      "name": "Bùa Hộ Mệnh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Trao bùa hộ mệnh cho một người để chặn một hiệu ứng xấu.",
+      "slug": "bua-ho-menh",
+      "output": "roles/bua-ho-menh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bua-ho-menh.png"
+    },
+    {
+      "id": "pumpkin_dealer",
+      "name": "Người Phát Bí Ngô",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Mỗi đêm gửi giao kèo bí ngô cho một người chơi. Nếu họ chấp nhận, họ sẽ nhận một hiệu ứng ngẫu nhiên.",
+      "slug": "nguoi-phat-bi-ngo",
+      "output": "roles/nguoi-phat-bi-ngo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-phat-bi-ngo.png"
+    },
+    {
+      "id": "pumpkin_oracle",
+      "name": "Tiên Tri Bí Ngô",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Soi thông tin bằng bí ngô, nhận gợi ý về phe của mục tiêu.",
+      "slug": "tien-tri-bi-ngo",
+      "output": "roles/tien-tri-bi-ngo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tien-tri-bi-ngo.png"
+    },
+    {
+      "id": "easter_bunny",
+      "name": "Thỏ Phục Sinh",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Tặng trứng Phục Sinh tạo hiệu ứng hỗ trợ ngẫu nhiên cho phe Dân.",
+      "slug": "tho-phuc-sinh",
+      "output": "roles/tho-phuc-sinh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-phuc-sinh.png"
+    },
+    {
+      "id": "candy_man",
+      "name": "Người Phát Kẹo",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Tặng kẹo cho người chơi để tạo hỗ trợ hoặc bảo hộ nhỏ.",
+      "slug": "nguoi-phat-keo",
+      "output": "roles/nguoi-phat-keo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-phat-keo.png"
+    },
+    {
+      "id": "white_werewolf",
+      "name": "Sói Trắng",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Sói độc lập: có thể giết ban đêm và chỉ thật sự thắng khi còn lại một mình.",
+      "slug": "soi-trang",
+      "output": "roles/soi-trang.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-trang.png"
+    },
+    {
+      "id": "big_bad_wolf",
+      "name": "Sói Đại Ác",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói mạnh có thể tạo áp lực giết thêm khi đàn sói còn đủ lực.",
+      "slug": "soi-dai-ac",
+      "output": "roles/soi-dai-ac.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-dai-ac.png"
+    },
+    {
+      "id": "cursed_wolf_father",
+      "name": "Sói Cha Nguyền Rủa",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói có thể nguyền rủa một người để chuyển hóa họ thành Ma Sói.",
+      "slug": "soi-cha-nguyen-rua",
+      "output": "roles/soi-cha-nguyen-rua.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-cha-nguyen-rua.png"
+    },
+    {
+      "id": "wolf_hound",
+      "name": "Chó Sói",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Ban đầu đứng giữa hai phe, nhưng trong hệ thống được xử lý như một sói đặc biệt.",
+      "slug": "cho-soi",
+      "output": "roles/cho-soi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cho-soi.png"
+    },
+    {
+      "id": "dream_wolf",
+      "name": "Sói Mộng Du",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói thụ động, thường chỉ tỉnh dậy khi đàn sói gặp bất lợi.",
+      "slug": "soi-mong-du",
+      "output": "roles/soi-mong-du.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-mong-du.png"
+    },
+    {
+      "id": "wolf_man",
+      "name": "Người Sói",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Ma Sói che giấu tốt, có thể làm nhiễu kết quả kiểm tra.",
+      "slug": "nguoi-soi",
+      "output": "roles/nguoi-soi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-soi.png"
+    },
+    {
+      "id": "black_wolf",
+      "name": "Sói Đen",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói Đen có thể chuyển hóa một người thành sói trong đêm.",
+      "slug": "soi-den",
+      "output": "roles/soi-den.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-den.png"
+    },
+    {
+      "id": "lone_wolf",
+      "name": "Sói Đơn Độc",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Sói đơn độc có khả năng giết riêng và ưu tiên thắng một mình.",
+      "slug": "soi-don-doc",
+      "output": "roles/soi-don-doc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-don-doc.png"
+    },
+    {
+      "id": "gentlewolf",
+      "name": "Sói Lịch Thiệp",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói có thể tặng/bảo vệ giả để đánh lạc hướng phe Dân.",
+      "slug": "soi-lich-thiep",
+      "output": "roles/soi-lich-thiep.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-lich-thiep.png"
+    },
+    {
+      "id": "ghost_wolf",
+      "name": "Sói Ma",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sau khi chết vẫn có thể bỏ phiếu ẩn vào ban ngày nếu còn Ma Sói sống, và vẫn nhận thông tin phe Sói trong đêm.",
+      "slug": "soi-ma",
+      "output": "roles/soi-ma.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-ma.png"
+    },
+    {
+      "id": "jelly_wolf",
+      "name": "Sói Thạch",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói gây nhiễu mục tiêu bằng trạng thái dính, chặn hoặc làm lệch hành động.",
+      "slug": "soi-thach-jelly-wolf",
+      "output": "roles/soi-thach-jelly-wolf.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-thach-jelly-wolf.png"
+    },
+    {
+      "id": "party_wolf",
+      "name": "Sói Tiệc Tùng",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói làm náo loạn, có thể khiến mục tiêu bị câm hoặc mất hành động.",
+      "slug": "soi-tiec-tung",
+      "output": "roles/soi-tiec-tung.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-tiec-tung.png"
+    },
+    {
+      "id": "snatcher_wolf",
+      "name": "Sói Bắt Cóc",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói bắt cóc một người để chặn hành động hoặc giấu thông tin.",
+      "slug": "soi-bat-coc",
+      "output": "roles/soi-bat-coc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-bat-coc.png"
+    },
+    {
+      "id": "wolf_scribe",
+      "name": "Sói Thư Ký",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói ghi chép, theo dõi mục tiêu và thu thập thông tin cho đàn.",
+      "slug": "soi-thu-ky",
+      "output": "roles/soi-thu-ky.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-thu-ky.png"
+    },
+    {
+      "id": "wolf_summoner",
+      "name": "Sói Triệu Hồi",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói triệu hồi có thể kéo một người về phe Sói nếu điều kiện cho phép.",
+      "slug": "soi-trieu-hoi",
+      "output": "roles/soi-trieu-hoi.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-trieu-hoi.png"
+    },
+    {
+      "id": "wolf_trickster",
+      "name": "Sói Lừa Mẹo",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói lừa mẹo khiến mục tiêu bị khóa hoặc nhận thông tin sai.",
+      "slug": "soi-lua-meo",
+      "output": "roles/soi-lua-meo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-lua-meo.png"
+    },
+    {
+      "id": "wolffluencer",
+      "name": "Sói Dẫn Dắt",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Ban ngày gây ảnh hưởng để làm lệch biểu quyết của làng.",
+      "slug": "soi-dan-dat",
+      "output": "roles/soi-dan-dat.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-dan-dat.png"
+    },
+    {
+      "id": "yule_wolf",
+      "name": "Sói Giáng Sinh",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói sự kiện Giáng Sinh, có thể tặng quà giả hoặc đặt bẫy.",
+      "slug": "soi-giang-sinh",
+      "output": "roles/soi-giang-sinh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-giang-sinh.png"
+    },
+    {
+      "id": "candy_wolf",
+      "name": "Sói Kẹo",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói Kẹo dùng kẹo để dụ hoặc gây hiệu ứng bất lợi cho mục tiêu.",
+      "slug": "soi-keo",
+      "output": "roles/soi-keo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-keo.png"
+    },
+    {
+      "id": "evil_cupid",
+      "name": "Thần Tình Yêu Hắc Ám",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Ghép một cặp tình nhân hắc ám; cái chết của một người kéo người còn lại theo.",
+      "slug": "than-tinh-yeu-hac-am",
+      "output": "roles/than-tinh-yeu-hac-am.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/than-tinh-yeu-hac-am.png"
+    },
+    {
+      "id": "evil_detective",
+      "name": "Thám Tử Ác",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Chọn hai người; nếu khác phe, có thể khiến họ chết như Thám Tử Ác Ma.",
+      "slug": "tham-tu-ac",
+      "output": "roles/tham-tu-ac.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tham-tu-ac.png"
+    },
+    {
+      "id": "siren",
+      "name": "Mỹ Nhân Ngư",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mê hoặc người chơi và có thể giết các mục tiêu đã bị mê hoặc.",
+      "slug": "my-nhan-ngu",
+      "output": "roles/my-nhan-ngu.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/my-nhan-ngu.png"
+    },
+    {
+      "id": "wolf_time_traveler",
+      "name": "Sói Du Hành Thời Gian",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Sói can thiệp thời gian, làm chậm hoặc chặn hành động của mục tiêu.",
+      "slug": "soi-du-hanh-thoi-gian",
+      "output": "roles/soi-du-hanh-thoi-gian.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-du-hanh-thoi-gian.png"
+    },
+    {
+      "id": "deep_sea_terror",
+      "name": "Nỗi Kinh Hoàng Biển Sâu",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Vai độc lập giết người mạnh, tấn công ban đêm và gieo sợ hãi trong làng.",
+      "slug": "noi-kinh-hoang-bien-sau",
+      "output": "roles/noi-kinh-hoang-bien-sau.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/noi-kinh-hoang-bien-sau.png"
+    },
+    {
+      "id": "headless_horseman",
+      "name": "Kỵ Sĩ Không Đầu",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Kỵ sĩ độc lập có thể chém một người vào ban đêm.",
+      "slug": "ky-si-khong-dau",
+      "output": "roles/ky-si-khong-dau.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ky-si-khong-dau.png"
+    },
+    {
+      "id": "mad_scientist",
+      "name": "Nhà Khoa Học Điên",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Tạo thí nghiệm nguy hiểm, có thể giết hoặc liên kết mục tiêu.",
+      "slug": "nha-khoa-hoc-dien",
+      "output": "roles/nha-khoa-hoc-dien.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-khoa-hoc-dien.png"
+    },
+    {
+      "id": "naughty_boy",
+      "name": "Cậu Bé Nghịch Ngợm",
+      "label": "Phe Dân",
+      "team": "villager",
+      "description": "Một lần trong ván, ban ngày chọn 2 người chơi để vai trò của họ bị hoán đổi vào đêm kế tiếp.",
+      "slug": "cau-be-nghich-ngom",
+      "output": "roles/cau-be-nghich-ngom.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/cau-be-nghich-ngom.png"
+    },
+    {
+      "id": "sect_hunter",
+      "name": "Thợ Săn Giáo Phái",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Săn giáo phái hoặc các nhóm chuyển hóa, có mục tiêu thắng riêng.",
+      "slug": "tho-san-giao-phai",
+      "output": "roles/tho-san-giao-phai.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tho-san-giao-phai.png"
+    },
+    {
+      "id": "bogeyman",
+      "name": "Ông Kẹ",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Vai độc lập sát thủ gieo ác mộng và giết một người vào ban đêm.",
+      "slug": "ong-ke",
+      "output": "roles/ong-ke.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ong-ke.png"
+    },
+    {
+      "id": "the_count",
+      "name": "Bá Tước",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Bá tước vai độc lập có khả năng giết và đe dọa làng vào ban đêm.",
+      "slug": "ba-tuoc",
+      "output": "roles/ba-tuoc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ba-tuoc.png"
+    },
+    {
+      "id": "fruit_brute",
+      "name": "Quái Vật Trái Cây",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Vai độc lập giết người kiểu sự kiện, tấn công một mục tiêu mỗi đêm.",
+      "slug": "quai-vat-trai-cay",
+      "output": "roles/quai-vat-trai-cay.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quai-vat-trai-cay.png"
+    },
+    {
+      "id": "ghost",
+      "name": "Hồn Ma",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Sau khi chết vẫn có thể tạo ảnh hưởng theo luật mở rộng.",
+      "slug": "hon-ma",
+      "output": "roles/hon-ma.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/hon-ma.png"
+    },
+    {
+      "id": "hoodlum",
+      "name": "Kẻ Lưu Manh",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Có mục tiêu riêng; hưởng lợi nếu các mục tiêu bị loại đúng cách.",
+      "slug": "ke-luu-manh",
+      "output": "roles/ke-luu-manh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ke-luu-manh.png"
+    },
+    {
+      "id": "sasquatch",
+      "name": "Người Rừng",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Vai độc lập ẩn mình, có điều kiện thắng riêng theo số người sống.",
+      "slug": "nguoi-rung",
+      "output": "roles/nguoi-rung.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nguoi-rung.png"
+    },
+    {
+      "id": "bloody_mary",
+      "name": "Quý Cô Đẫm Máu",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Vai độc lập sát thủ gọi tên mục tiêu và giết vào ban đêm.",
+      "slug": "quy-co-dam-mau",
+      "output": "roles/quy-co-dam-mau.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quy-co-dam-mau.png"
+    },
+    {
+      "id": "chupacabra",
+      "name": "Quái Hút Máu",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Vai độc lập săn mồi, giết ban đêm và thắng khi còn lại một mình.",
+      "slug": "quai-hut-mau",
+      "output": "roles/quai-hut-mau.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quai-hut-mau.png"
+    },
+    {
+      "id": "nostradamus",
+      "name": "Nhà Tiên Tri Định Mệnh",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Mỗi đêm chọn 1 người để tiên đoán cái chết của họ. Đoán đúng 3 lần thì thắng.",
+      "slug": "nha-tien-tri-dinh-menh",
+      "output": "roles/nha-tien-tri-dinh-menh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nha-tien-tri-dinh-menh.png"
+    },
+    {
+      "id": "magician",
+      "name": "Ảo Thuật Gia",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Đổi chỗ hoặc hoán đổi vai trò/hành động của hai mục tiêu.",
+      "slug": "ao-thuat-gia",
+      "output": "roles/ao-thuat-gia.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ao-thuat-gia.png"
+    },
+    {
+      "id": "pumpkin_king",
+      "name": "Vua Bí Ngô",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Vai độc lập sự kiện lễ hội ma quái có thể giết và gây hiệu ứng bí ngô.",
+      "slug": "vua-bi-ngo",
+      "output": "roles/vua-bi-ngo.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/vua-bi-ngo.png"
+    },
+    {
+      "id": "coven_leader",
+      "name": "Thủ Lĩnh Phù Thủy",
+      "label": "Phe Phù Thủy",
+      "team": "coven",
+      "description": "Kiểm soát kỹ năng 1 người mỗi đêm, nhắm vào mục tiêu khác.",
+      "slug": "thu-linh-phu-thuy",
+      "output": "roles/thu-linh-phu-thuy.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/thu-linh-phu-thuy.png"
+    },
+    {
+      "id": "hex_master",
+      "name": "Bậc Thầy Bùa",
+      "label": "Phe Phù Thủy",
+      "team": "coven",
+      "description": "Mỗi đêm yểm bùa 1 người, tất cả bị yểm → tất cả chết.",
+      "slug": "bac-thay-bua",
+      "output": "roles/bac-thay-bua.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bac-thay-bua.png"
+    },
+    {
+      "id": "medusa",
+      "name": "Nữ Quỷ Tóc Rắn",
+      "label": "Phe Phù Thủy",
+      "team": "coven",
+      "description": "Ai ghé thăm Nữ Quỷ Tóc Rắn → hóa đá (chết). 1 lần, hóa đá tất cả người ghé thăm.",
+      "slug": "nu-quy-toc-ran",
+      "output": "roles/nu-quy-toc-ran.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nu-quy-toc-ran.png"
+    },
+    {
+      "id": "evil_santa",
+      "name": "Ông Già Noel Hắc Ám",
+      "label": "Phe Độc Lập",
+      "team": "solo",
+      "description": "Ông Già Noel Hắc Ám tặng quà nguy hiểm và có thể giết mục tiêu.",
+      "slug": "ong-gia-noel-hac-am",
+      "output": "roles/ong-gia-noel-hac-am.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ong-gia-noel-hac-am.png"
+    },
+    {
+      "id": "potion_master",
+      "name": "Bậc Thầy Thuốc",
+      "label": "Phe Phù Thủy",
+      "team": "coven",
+      "description": "Mỗi đêm chọn: cứu, hạ gục, hoặc soi. Mỗi loại dùng 1 lần.",
+      "slug": "bac-thay-thuoc",
+      "output": "roles/bac-thay-thuoc.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/bac-thay-thuoc.png"
+    },
+    {
+      "id": "coven_necromancer",
+      "name": "Phù Thủy Xác",
+      "label": "Phe Phù Thủy",
+      "team": "coven",
+      "description": "Mỗi đêm hồi sinh tạm 1 xác để dùng kỹ năng của họ.",
+      "slug": "phu-thuy-xac",
+      "output": "roles/phu-thuy-xac.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/phu-thuy-xac.png"
+    },
+    {
+      "id": "lich",
+      "name": "Tử Thần",
+      "label": "Phe Xác Sống",
+      "team": "undead",
+      "description": "Thủ lĩnh Xác Sống. Mỗi đêm giết 1 người, trở thành Quỷ Xác.",
+      "slug": "tu-than",
+      "output": "roles/tu-than.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/tu-than.png"
+    },
+    {
+      "id": "ghoul",
+      "name": "Quỷ Xác",
+      "label": "Phe Xác Sống",
+      "team": "undead",
+      "description": "Bị Tử Thần hạ gục → trở thành Quỷ Xác, phe Xác Sống. Mất kỹ năng cũ.",
+      "slug": "quy-xac",
+      "output": "roles/quy-xac.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/quy-xac.png"
+    },
+    {
+      "id": "banshee",
+      "name": "Nữ Quỷ Gào",
+      "label": "Phe Xác Sống",
+      "team": "undead",
+      "description": "Khi chết, gào 1 tiếng → 1 người ngẫu nhiên bị câm ngày hôm sau.",
+      "slug": "nu-quy-gao",
+      "output": "roles/nu-quy-gao.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/nu-quy-gao.png"
+    },
+    {
+      "id": "horseman_war",
+      "name": "Kỵ Sĩ Chiến Tranh",
+      "label": "Phe Tận Thế",
+      "team": "apocalypse",
+      "description": "Mỗi đêm buộc 2 người 'chiến đấu' → 1 chết ngẫu nhiên.",
+      "slug": "ky-si-chien-tranh",
+      "output": "roles/ky-si-chien-tranh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ky-si-chien-tranh.png"
+    },
+    {
+      "id": "horseman_famine",
+      "name": "Kỵ Sĩ Đói Kém",
+      "label": "Phe Tận Thế",
+      "team": "apocalypse",
+      "description": "Mỗi đêm 'đói' 1 người → không dùng được kỹ năng 2 đêm.",
+      "slug": "ky-si-doi-kem",
+      "output": "roles/ky-si-doi-kem.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ky-si-doi-kem.png"
+    },
+    {
+      "id": "horseman_pestilence",
+      "name": "Kỵ Sĩ Dịch Bệnh",
+      "label": "Phe Tận Thế",
+      "team": "apocalypse",
+      "description": "Mỗi đêm lây bệnh, người bệnh lây cho người ghé thăm. Miễn nhiễm mọi thứ.",
+      "slug": "ky-si-dich-benh",
+      "output": "roles/ky-si-dich-benh.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ky-si-dich-benh.png"
+    },
+    {
+      "id": "horseman_death",
+      "name": "Kỵ Sĩ Tử Thần",
+      "label": "Phe Tận Thế",
+      "team": "apocalypse",
+      "description": "Mỗi đêm thu linh hồn 1 người, không thể bị cản. Miễn nhiễm mọi thứ.",
+      "slug": "ky-si-tu-than",
+      "output": "roles/ky-si-tu-than.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/ky-si-tu-than.png"
+    },
+    {
+      "id": "stone_wolf",
+      "name": "Sói Thạch",
+      "label": "Phe Sói",
+      "team": "werewolf",
+      "description": "Một lần trong ván, chọn 1 người để nhận lá chắn thạch chống lại một lần bị giết hoặc treo cổ.",
+      "slug": "soi-thach",
+      "output": "roles/soi-thach.png",
+      "rawUrl": "https://raw.githubusercontent.com/mimibotvn/image/main/werewolf/roles/soi-thach.png"
     }
   ],
   "banners": [
